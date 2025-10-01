@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Khang Nguyen</title>
-        <link>http://localhost:1313/</link>
+        <link>https://khanginfo.github.io/</link>
         <description>Recent content on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 02 Oct 2025 05:18:47 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 02 Oct 2025 05:18:47 +0700</lastBuildDate><atom:link href="https://khanginfo.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hợp đồng tín dụng vô hiệu</title>
-        <link>http://localhost:1313/posts/invalid-loan-contract/</link>
+        <link>https://khanginfo.github.io/posts/invalid-loan-contract/</link>
         <pubDate>Thu, 02 Oct 2025 05:18:47 +0700</pubDate>
         
-        <guid>http://localhost:1313/posts/invalid-loan-contract/</guid>
+        <guid>https://khanginfo.github.io/posts/invalid-loan-contract/</guid>
         <description>&lt;p&gt;Một vụ việc đang thu hút sự chú ý của giới pháp lý và tài chính là trường hợp hợp đồng tín dụng giữa VPBank và khách vay bị tuyên vô hiệu. Cụ thể là TAND Khu vực 7 (TP HCM) đã bác yêu cầu khởi kiện của VPBank, tuyên hợp đồng tín dụng và văn bản thỏa thuận mua biệt thự đều vô hiệu.&lt;/p&gt;
 &lt;p&gt;Tòa xác định:&lt;/p&gt;
 &lt;ul&gt;
@@ -46,10 +46,10 @@ vnexpress.net&lt;/li&gt;
         </item>
         <item>
         <title>Hello World</title>
-        <link>http://localhost:1313/posts/hello-world/</link>
+        <link>https://khanginfo.github.io/posts/hello-world/</link>
         <pubDate>Wed, 01 Oct 2025 19:00:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/posts/hello-world/</guid>
+        <guid>https://khanginfo.github.io/posts/hello-world/</guid>
         <description>&lt;p&gt;Đây là không gian để chia sẻ những trải nghiệm, kiến thức và góc nhìn cá nhân về pháp luật – công nghệ – tài chính – phát triển bản thân&lt;/p&gt;
 &lt;h3 id=&#34;vì-sao-tôi-viết-blog&#34;&gt;Vì sao tôi viết blog?
 &lt;/h3&gt;&lt;p&gt;Trong thế giới đầy ắp thông tin ngày nay, việc ghi lại, hệ thống hóa và chia sẻ trở thành một cách học tập hiệu quả. Blog này không chỉ là nơi tôi viết cho người khác đọc, mà còn là một cách sắp xếp ý tưởng và lưu giữ kiến thức.&lt;/p&gt;
