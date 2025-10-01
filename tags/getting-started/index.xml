@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Getting-Started on Khang Nguyen</title>
+        <link>http://localhost:1313/tags/getting-started/</link>
+        <description>Recent content in Getting-Started on Khang Nguyen</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 01 Oct 2025 19:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/getting-started/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World</title>
+        <link>http://localhost:1313/posts/hello-world/</link>
+        <pubDate>Wed, 01 Oct 2025 19:00:00 +0700</pubDate>
+        
+        <guid>http://localhost:1313/posts/hello-world/</guid>
+        <description>&lt;p&gt;Ngồi co ro bên mái hiên trong con hẻm nhỏ dưới chân cầu Long Biên (Hà Nội), bà Trần Thị Ba (78 tuổi) buồn rầu vì lo đêm nay lại &amp;ldquo;màn trời chiếu đất&amp;rdquo; do nước lũ sông Hồng dâng cao, căn phòng trọ của bà ở ven bờ ngập quá nửa, bà cùng hàng chục người dân trong xóm nhỏ vội vã mang theo vài bộ áo quần lên khu cao ráo tránh ngập.&lt;/p&gt;
+&lt;p&gt;Nước lũ sông Hồng đoạn qua Hà Nội lên nhanh, chảy xiết, nhiều bãi bồi, khu dân cư ven sông bị nhấn chìm từ trưa 1/10 dù Hà Nội đã không còn mưa lớn, trời nắng ráo.&lt;/p&gt;
+&lt;p&gt;Theo Trung tâm Dự báo khí tượng thủy văn quốc gia phát đi cảnh báo từ hôm nay đến 2/10, lũ hạ lưu sông Hồng tại trạm Hà Nội tiếp tục lên và dao động ở mức báo động 1.&lt;/p&gt;
+&lt;p&gt;Ghi nhận của phóng viên Dân trí chiều 1/10, mực nước sông Hồng lên cao, nhấn chìm khu vực bãi giữa, bãi bồi cùng với nhiều khu dân cư ven sông Hồng đoạn qua địa phận Hà Nội.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

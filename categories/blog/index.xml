@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blog on Khang Nguyen</title>
+        <link>http://localhost:1313/categories/blog/</link>
+        <description>Recent content in Blog on Khang Nguyen</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 01 Oct 2025 19:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World</title>
+        <link>http://localhost:1313/posts/hello-world/</link>
+        <pubDate>Wed, 01 Oct 2025 19:00:00 +0700</pubDate>
+        
+        <guid>http://localhost:1313/posts/hello-world/</guid>
+        <description>&lt;p&gt;Đây là không gian để chia sẻ những trải nghiệm, kiến thức và góc nhìn cá nhân về pháp luật – công nghệ – tài chính – phát triển bản thân&lt;/p&gt;
+&lt;h3 id=&#34;vì-sao-tôi-viết-blog&#34;&gt;Vì sao tôi viết blog?
+&lt;/h3&gt;&lt;p&gt;Trong thế giới đầy ắp thông tin ngày nay, việc ghi lại, hệ thống hóa và chia sẻ trở thành một cách học tập hiệu quả. Blog này không chỉ là nơi tôi viết cho người khác đọc, mà còn là một cách sắp xếp ý tưởng và lưu giữ kiến thức.&lt;/p&gt;
+&lt;h3 id=&#34;bạn-sẽ-tìm-thấy-gì-ở-đây&#34;&gt;Bạn sẽ tìm thấy gì ở đây?
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Những bài viết phân tích, chia sẻ kiến thức thực tế.&lt;/li&gt;
+&lt;li&gt;Các góc nhìn cá nhân trước những xu hướng, sự kiện mới.&lt;/li&gt;
+&lt;li&gt;Một chút “life note” – nơi tôi ghi lại những điều nhỏ bé nhưng đáng nhớ trong công việc và cuộc sống.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lời-mời-đến-bạn&#34;&gt;Lời mời đến bạn
+&lt;/h3&gt;&lt;p&gt;Tôi tin rằng tri thức chỉ thực sự có giá trị khi được chia sẻ và thảo luận. Vì vậy, nếu bạn có ý kiến, câu hỏi hay góc nhìn khác, đừng ngần ngại để lại bình luận hoặc liên hệ trực tiếp.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
