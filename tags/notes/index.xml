@@ -12,56 +12,69 @@
         <pubDate>Wed, 08 Oct 2025 06:05:41 +0700</pubDate>
         
         <guid>http://localhost:1313/posts/auto-approval/</guid>
-        <description>&lt;p&gt;Trong bối cảnh chuyển đổi số mạnh mẽ, hầu hết các ngân hàng và tổ chức tài chính hiện nay đều đã triển khai hệ thống phê duyệt tự động (auto approval) trong hoạt động cho vay. Mục tiêu là tối ưu hóa quy trình, giảm thời gian xử lý hồ sơ và nâng cao trải nghiệm khách hàng.&lt;/p&gt;
-&lt;p&gt;Tuy nhiên, nhiều tổ chức lại bỏ qua bước quan trọng: xây dựng quy định nội bộ đủ chặt chẽ để quản lý, giám sát và kiểm soát rủi ro khi áp dụng công nghệ tự động. Hệ quả là việc phê duyệt có thể không tuân thủ đúng quy định pháp lý, đồng thời thiếu cơ chế xác định rõ trách nhiệm cá nhân và bộ phận khi rủi ro phát sinh.&lt;/p&gt;
-&lt;h2 id=&#34;1-pháp-lý-cho-phê-duyệt-tự-động&#34;&gt;1. Pháp lý cho phê duyệt tự động
+        <description>&lt;h2 id=&#34;1-pháp-lý-cho-phê-duyệt-tự-động&#34;&gt;1. Pháp lý cho phê duyệt tự động
 &lt;/h2&gt;&lt;p&gt;Luật giao dịch điện tử 2023&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Hợp đồng điện tử được giao kết hoặc thực hiện từ sự tương tác giữa một hệ thống thông tin tự động với người hoặc giữa các hệ thống thông tin tự động với nhau không bị phủ nhận giá trị pháp lý chỉ vì không có sự kiểm tra hay can thiệp của con người vào từng hành động cụ thể do các hệ thống thông tin tự động thực hiện hay vào hợp đồng&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Thông tư 39/2016/TT-NHNN, sửa đổi bởi Thông tư 06/2023/TT-NHNN:&lt;/p&gt;
+&lt;p&gt;Thông tư 39/2016/TT-NHNN, sửa đổi bởi &lt;a class=&#34;link&#34; href=&#34;https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/thong-tu-06-2023-tt-nhnn-sua-doi-thong-tu-39-2016-tt-nhnn-cho-vay-cua-to-chuc-tin-dung-518149.aspx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Thông tư 06/2023/TT-NHNN&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Điều 32đ. Thẩm định và quyết định cho vay&lt;br&gt;
 Tổ chức tín dụng tổ chức xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo nguyên tắc phân định trách nhiệm của từng cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay. Trường hợp có rủi ro phát sinh, tổ chức tín dụng phải có cơ chế để xác định từng cá nhân, bộ phận chịu trách nhiệm và xử lý kịp thời các vấn đề, rủi ro phát sinh để đảm bảo hiệu quả, an toàn trong việc tổ chức xét duyệt cho vay bằng phương tiện điện tử của tổ chức tín dụng.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Văn bản số  8631/NHNN-CSTT ngày 08/11/2023:&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://thuvienphapluat.vn/cong-van/Tien-te-Ngan-hang/Cong-van-8631-NHNN-CSTT-2023-giai-dap-cau-hoi-Thong-tu-06-2023-TT-NHNN-586461.aspx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Văn bản số  8631/NHNN-CSTT ngày 08/11/2023&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Theo quy định tại Điều 32đ Thông tư số 39/2016/TT-NHNN (đã được sửa đổi, bổ sung), cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay bao gồm cá nhân, bộ phận xây dựng sản phẩm cho vay.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;2-mẫu-điều-khoản-tham-khảo-xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử&#34;&gt;2. Mẫu điều khoản tham khảo: “Xét duyệt cho vay bằng phương tiện điện tử”
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Điều … Xét duyệt cho vay bằng phương tiện điện tử&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-mẫu-điều-khoản-tham-khảo-xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử&#34;&gt;2. Mẫu điều khoản tham khảo: Xét duyệt cho vay bằng phương tiện điện tử
+&lt;/h2&gt;&lt;p&gt;Một điều khoản về Xét duyệt cho vay bằng phương tiện điện tử nên được quy định đủ chi tiết để bảo đảm tuân thủ pháp lý và quản trị rủi ro. Dưới đây là mẫu điều khoản mang tính tham khảo:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Điều … Xét duyệt cho vay bằng phương tiện điện tử&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ol&gt;
 &lt;li&gt;Nguyên tắc chung&lt;br&gt;
-Việc xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo phân định rõ trách nhiệm của từng cá nhân và bộ phận tham gia vào quá trình xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay.
+Việc xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo phân định rõ trách nhiệm của từng cá nhân và bộ phận tham gia vào quá trình xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay.&lt;br&gt;
 Trường hợp phát sinh rủi ro, phải có cơ chế xác định trách nhiệm và biện pháp xử lý kịp thời, bảo đảm tính an toàn, hiệu quả và tuân thủ pháp luật trong toàn bộ quy trình.&lt;/li&gt;
 &lt;li&gt;Phân định trách nhiệm khi áp dụng phê duyệt tự động hoặc bán tự động:&lt;br&gt;
-a) Lưu vết hệ thống&lt;br&gt;
-Hệ thống thông tin phải lưu vết toàn bộ quá trình thẩm định, phê duyệt và xử lý dữ liệu, đảm bảo khả năng truy xuất và đối chiếu khi có rủi ro hoặc tranh chấp.&lt;br&gt;
-b) Trường hợp tài khoản phê duyệt gắn với cá nhân cụ thể:&lt;br&gt;
-Cá nhân chịu trách nhiệm kiểm tra, theo dõi hoạt động của hệ thống dưới tài khoản của mình, và chịu trách nhiệm tương tự như người phê duyệt trong quy trình truyền thống.&lt;br&gt;
-c) Trường hợp phê duyệt tự động không có tài khoản hoặc bằng tài khoản hệ thống (auto/bot):&lt;br&gt;
-•	Bộ phận xây dựng quy tắc tự động:
-o	Chịu trách nhiệm về tính hợp pháp, hợp lý của mô hình chấm điểm tín dụng, các ngưỡng phê duyệt và dữ liệu đầu vào.
-o	Báo cáo định kỳ về hiệu quả và rủi ro của quy tắc, đồng thời thực hiện rà soát khi có thay đổi chính sách.
-•	Bộ phận CNTT:
-o	Đảm bảo hệ thống vận hành ổn định, an toàn, không bị can thiệp trái phép.
-o	Không được tự ý thay đổi quy tắc hoặc thuật toán khi chưa có phê duyệt của bộ phận nghiệp vụ.
-o	Ghi nhận log, kiểm soát truy cập, đảm bảo khả năng truy xuất dữ liệu để xác định trách nhiệm.
-o	Thực hiện đầy đủ yêu cầu về an toàn thông tin theo Thông tư 09/2020/TT-NHNN.&lt;/li&gt;
+2.1. Lưu vết hệ thống: Hệ thống thông tin phải lưu vết toàn bộ quá trình thẩm định, phê duyệt và xử lý dữ liệu, đảm bảo khả năng truy xuất và đối chiếu khi có rủi ro hoặc tranh chấp.&lt;br&gt;
+2.2. Trường hợp tài khoản phê duyệt gắn với cá nhân cụ thể: Cá nhân chịu trách nhiệm kiểm tra, theo dõi hoạt động của hệ thống dưới tài khoản của mình, và chịu trách nhiệm tương tự như người phê duyệt trong quy trình truyền thống.&lt;br&gt;
+2.3. Trường hợp phê duyệt tự động không có tài khoản hoặc bằng tài khoản hệ thống (auto/bot):&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Bộ phận xây dựng quy tắc tự động (Bộ phận sản phẩm nếu bộ phận này xây sản phẩm tự động):
+&lt;ul&gt;
+&lt;li&gt;Chịu trách nhiệm về tính hợp pháp, hợp lý của mô hình chấm điểm tín dụng, các ngưỡng phê duyệt và dữ liệu đầu vào.&lt;/li&gt;
+&lt;li&gt;Báo cáo định kỳ về hiệu quả và rủi ro của quy tắc, đồng thời thực hiện rà soát khi có thay đổi chính sách.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Bộ phận CNTT:
+&lt;ul&gt;
+&lt;li&gt;Đảm bảo hệ thống vận hành ổn định, an toàn, không bị can thiệp trái phép.&lt;/li&gt;
+&lt;li&gt;Không được tự ý thay đổi quy tắc hoặc thuật toán khi chưa có phê duyệt của bộ phận nghiệp vụ.&lt;/li&gt;
+&lt;li&gt;Ghi nhận log, kiểm soát truy cập, đảm bảo khả năng truy xuất dữ liệu để xác định trách nhiệm.&lt;/li&gt;
+&lt;li&gt;Thực hiện đầy đủ yêu cầu về an toàn thông tin theo Thông tư 09/2020/TT-NHNN.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Xử lý rủi ro và xác định trách nhiệm:
-•	Rủi ro do quy tắc tự động: cá nhân/bộ phận thiết lập quy tắc chịu trách nhiệm.
-•	Rủi ro do lỗi vận hành: thuộc cá nhân vận hành.
-•	Rủi ro do sự cố kỹ thuật: thuộc bộ phận IT.
-•	Rủi ro tổng hợp: xác định trách nhiệm theo phân tích nguyên nhân.&lt;/li&gt;
-&lt;li&gt;Cơ chế ứng phó và kiểm soát rủi ro:
-•	Hệ thống phải có khả năng can thiệp khẩn cấp (override) khi phát hiện bất thường.
-•	Rà soát định kỳ để đánh giá độ tin cậy, thiết lập ngưỡng cảnh báo và kịch bản xử lý khi tỷ lệ rủi ro vượt giới hạn cho phép.
-•	Biện pháp xử lý gồm: khắc phục kỹ thuật, điều chỉnh quy trình nghiệp vụ, xử lý kỷ luật và nâng cấp hệ thống.&lt;/li&gt;
+&lt;li&gt;Xử lý rủi ro và xác định trách nhiệm:&lt;/li&gt;
 &lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Rủi ro do quy tắc tự động: cá nhân/bộ phận thiết lập quy tắc chịu trách nhiệm.&lt;/li&gt;
+&lt;li&gt;Rủi ro do lỗi vận hành: thuộc cá nhân vận hành.&lt;/li&gt;
+&lt;li&gt;Rủi ro do sự cố kỹ thuật: thuộc bộ phận IT.&lt;/li&gt;
+&lt;li&gt;Rủi ro tổng hợp: xác định trách nhiệm theo phân tích nguyên nhân.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Cơ chế ứng phó và kiểm soát rủi ro:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Hệ thống phải có khả năng can thiệp khẩn cấp (override) khi phát hiện bất thường.&lt;/li&gt;
+&lt;li&gt;Rà soát định kỳ để đánh giá độ tin cậy, thiết lập ngưỡng cảnh báo và kịch bản xử lý khi tỷ lệ rủi ro vượt giới hạn cho phép.&lt;/li&gt;
+&lt;li&gt;Biện pháp xử lý gồm: khắc phục kỹ thuật, điều chỉnh quy trình nghiệp vụ, xử lý kỷ luật và nâng cấp hệ thống.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;3-tự-động-không-có-nghĩa-vô-trách-nhiệm&#34;&gt;3. Tự động không có nghĩa “vô trách nhiệm”
 &lt;/h2&gt;&lt;p&gt;Một hệ thống thông minh chỉ thực sự hiệu quả khi được vận hành trong một khuôn khổ pháp lý – nội bộ rõ ràng, minh bạch và có trách nhiệm.
 Dù hệ thống có hiện đại đến đâu, tổ chức vẫn phải:&lt;/p&gt;
