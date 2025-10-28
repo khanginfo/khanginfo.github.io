@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Blog on Khang Nguyen</title>
-        <link>https://khanginfo.github.io/categories/blog/</link>
-        <description>Recent content in Blog on Khang Nguyen</description>
+        <title>Contract on Khang Nguyen</title>
+        <link>https://khanginfo.github.io/categories/contract/</link>
+        <description>Recent content in Contract on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 Oct 2025 20:03:49 +0700</lastBuildDate><atom:link href="https://khanginfo.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Oct 2025 20:03:49 +0700</lastBuildDate><atom:link href="https://khanginfo.github.io/categories/contract/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Pháp chế xanh: Quản lý rủi ro môi trường trong hoạt động tín dụng</title>
         <link>https://khanginfo.github.io/posts/rui-ro-moi-truong/</link>
         <pubDate>Tue, 28 Oct 2025 20:03:49 +0700</pubDate>
@@ -36,158 +36,6 @@
 &lt;li&gt;Bên Vay cho phép Bên Cho Vay (và/hoặc đơn vị được ủy quyền) kiểm tra, giám sát việc thực hiện các cam kết môi trường, bao gồm quyền tiếp cận hồ sơ, kiểm tra hiện trường, lấy mẫu, kiểm tra thiết bị, thu thập thông tin từ cộng đồng và cơ quan quản lý. Bên Vay chịu chi phí kiểm tra nếu phát hiện vi phạm cam kết môi trường.&lt;/li&gt;
 &lt;li&gt;Trường hợp Bên Vay vi phạm một hoặc nhiều cam kết tại Điều này, hoặc bị cơ quan môi trường xử phạt, đình chỉ, thu hồi giấy phép, hoặc xảy ra sự kiện nêu tại khoản 3 Điều này, Bên Cho Vay có quyền yêu cầu Bên Vay khắc phục trong thời hạn ___ ngày; nếu không khắc phục đúng hạn, Bên Cho Vay được chấm dứt cho vay, thu nợ trước hạn, xử lý tài sản bảo đảm và/hoặc điều chỉnh lãi suất áp dụng.&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-        </item>
-        <item>
-        <title>&#34;Bốc phốt&#34; công ty bất động sản, ngân hàng phát hành trái phiếu</title>
-        <link>https://khanginfo.github.io/posts/bond-bank-bds/</link>
-        <pubDate>Wed, 22 Oct 2025 21:22:36 +0700</pubDate>
-        
-        <guid>https://khanginfo.github.io/posts/bond-bank-bds/</guid>
-        <description>&lt;p&gt;Nhân câu chuyên &lt;a class=&#34;link&#34; href=&#34;https://cafef.vn/thanh-tra-chinh-phu-phat-hien-loat-vi-pham-ve-phat-hanh-trai-phieu-cua-nhieu-ngan-hang-cong-ty-188251017223644349.chn?fbclid=IwY2xjawNlyHFleHRuA2FlbQIxMABicmlkETFuMk9vNVhIQjNNVjd0ODh0AR79HBv_MnJ2PgORYimPL1iNSfmgfmI8lef_n7BQn8khhHz9wvSRHVJB00E5VA_aem_BL-hmNsE0qE4RgCMefroLw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Thanh tra Chính phủ phát hiện loạt vi phạm về phát hành trái phiếu của nhiều ngân hàng, công ty&lt;/a&gt;, tôi có gợi ý cho AI về các loại cấu trúc giao dịch, và dưới đây là câu trả lời tóm tắt từ AI (chưa kiểm chứng)&lt;/p&gt;
-&lt;p&gt;Công ty bất động sản:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Hợp thức hóa dòng tiền đảo nợ (tiền phát hành trái phiếu chảy ngược về để trả nợ ngân hàng hoặc công ty con/công ty liên quan trả nợ ngân hàng)&lt;/li&gt;
-&lt;li&gt;Tăng vốn lưu động và che giấu nợ vay thực tế (ghi nhận là nợ trái phiếu, không phải nợ vay tín dụng, giảm tỷ lệ nợ vay/tổng tài sản (Debt-to-Asset) hoặc nợ vay/vốn chủ sở hữu (D/E) trên báo cáo tài chính hợp nhất)&lt;/li&gt;
-&lt;li&gt;Làm đẹp báo cáo tài chính (Trái phiếu do ngân hàng phát hành mà công ty bất động sản mua có thể được ghi nhận như tài sản đầu tư ngắn hạn an toàn, làm tăng tính thanh khoản hoặc tăng giá trị tài sản tài chính)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ngân hàng:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Giảm tỷ lệ cho vay bất động sản trực tiếp&lt;/li&gt;
-&lt;li&gt;Làm đẹp tỷ lệ an toàn vốn (CAR – Capital Adequacy Ratio)&lt;/li&gt;
-&lt;li&gt;Làm đẹp tỷ lệ sử dụng vốn ngắn hạn cho vay trung dài hạn&lt;/li&gt;
-&lt;li&gt;Làm đẹp báo cáo lợi nhuận và quy mô tài sản&lt;/li&gt;
-&lt;li&gt;Làm đẹp tỷ lệ cấp tín dụng và hạn mức tăng trưởng tín dụng&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Việc làm đẹp các chỉ số này cũng là bình thường, cơ quan giám sát và nhà đầu tư chuyên nghiệp chắc cũng nắm rõ các kỹ thuật này.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Nghề luật sư – hành trình của công lý, nhân tâm và dũng khí</title>
-        <link>https://khanginfo.github.io/posts/ngay_luat_su_10_10/</link>
-        <pubDate>Fri, 10 Oct 2025 19:39:12 +0700</pubDate>
-        
-        <guid>https://khanginfo.github.io/posts/ngay_luat_su_10_10/</guid>
-        <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Bài này nhắc nhớ về nghề nghiệp của Luật sư để tự soi lai mình nhân ngày 10-10.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;nghề-luật-sư--hành-trình-của-công-lý-nhân-tâm-và-dũng-khí&#34;&gt;NGHỀ LUẬT SƯ – HÀNH TRÌNH CỦA CÔNG LÝ, NHÂN TÂM VÀ DŨNG KHÍ
-&lt;/h3&gt;&lt;h4 id=&#34;1-nguồn-gốc-và-sứ-mệnh-của-nghề-luật-sư&#34;&gt;1. Nguồn gốc và sứ mệnh của nghề luật sư
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Từ thời La Mã cổ đại, khi con người bắt đầu biết dựa vào pháp luật để phân định đúng – sai, đã xuất hiện những người đứng ra bảo vệ cho kẻ yếu, nói lên tiếng nói của công lý. Họ chính là tiền thân của luật sư ngày nay – những hiệp sĩ của công lý, mang trong mình sứ mệnh bảo vệ quyền con người và sự công bằng xã hội.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tại Việt Nam, nghề luật sư được hình thành, phát triển qua nhiều giai đoạn lịch sử. Dù trong bất kỳ thời kỳ nào – chiến tranh hay hòa bình, xây dựng hay đổi mới – luật sư luôn giữ vai trò đặc biệt: bảo vệ công lý, bảo vệ quyền con người, đặc biệt là quyền được bào chữa và quyền nhờ người khác bào chữa. Luật sư chính là người bảo vệ những người thấp cổ bé họng trước sức mạnh của cường quyền và định kiến.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;2-phẩm-chất-cốt-lõi-của-người-luật-sư&#34;&gt;2. Phẩm chất cốt lõi của người luật sư
-&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Trái tim nóng – để cảm thông và dấn thân&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Một luật sư không thể hành nghề nếu không có tình yêu với con người và niềm tin vào công lý. Trái tim nóng giúp họ dấn thân, đứng về phía những thân phận yếu thế, những người bị oan khuất hay bị lãng quên. Không có cảm xúc, không thể có công lý thật sự.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cái đầu lạnh – để tỉnh táo và sáng suốt&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Luật sư cần giữ sự tỉnh táo trước áp lực, dư luận và cảm xúc. Cái đầu lạnh giúp họ nhìn thấu bản chất của sự việc, để lý trí dẫn đường thay vì cảm xúc, và để mỗi lập luận, mỗi hành động đều hướng tới sự thật và công bằng.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bàn tay trong sạch – để giữ nghề thanh cao&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Luật sư là người sống bằng niềm tin – của thân chủ, của xã hội, của công lý. Một hành vi sai trái, một sự thoả hiệp với cái xấu, sẽ làm tổn thương không chỉ danh dự cá nhân mà còn làm hoen ố thanh danh của cả nghề. Sự liêm chính là sợi chỉ đỏ nối dài giá trị của luật sư qua mọi thế hệ.&lt;/p&gt;
-&lt;h4 id=&#34;3-lòng-dũng-cảm--linh-hồn-của-người-luật-sư&#34;&gt;3. Lòng dũng cảm – linh hồn của người luật sư
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Làm luật sư, không chỉ cần giỏi lý lẽ, mà còn cần can đảm để nói điều đúng, làm điều đúng.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dũng cảm để đối mặt với kẻ mạnh, kẻ có quyền lực, khi công lý bị đe dọa. Dũng cảm để bảo vệ những người bị cả xã hội lên án, bởi công lý không chỉ dành cho người vô tội, mà còn cho cả những người bị buộc tội – họ cũng có quyền được bào chữa, quyền được lắng nghe.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Trong một xã hội phức tạp, lòng dũng cảm của luật sư đôi khi không đến từ những phiên tòa kịch tính, mà đến từ sự kiên định giữ vững đạo đức nghề nghiệp, từ chối những lợi ích dễ dàng, và chấp nhận bước đi trên con đường cô độc – chỉ vì một niềm tin duy nhất: công lý không thể bị đánh đổi.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;4-thăng-trầm-và-niềm-tin-của-người-trong-nghề&#34;&gt;4. Thăng trầm và niềm tin của người trong nghề
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Nghề luật sư là một hành trình dài, đầy gian nan và thử thách. Có những lúc mỏi mệt, muốn buông bỏ; có những khi cô đơn, bị hiểu lầm, bị hoài nghi. Nhưng rồi, niềm tin vào giá trị nhân văn, vào sứ mệnh chính nghĩa lại kéo mình trở lại với con đường mình đã chọn.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chúng ta hành nghề bằng tri thức, nhưng sống được với nghề là nhờ đạo đức. Có thể thua một vụ án, nhưng nếu giữ được lương tâm và lòng tin vào công lý – thì đó vẫn là một chiến thắng.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;5-lời-kết&#34;&gt;5. Lời kết
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Nghề luật sư không chỉ là một nghề, mà là một lời cam kết với công lý và nhân loại. Đó là hành trình của những con người dám bước đi giữa ranh giới của đúng và sai, của ánh sáng và bóng tối, để bảo vệ giá trị làm người.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ</title>
-        <link>https://khanginfo.github.io/posts/auto-approval/</link>
-        <pubDate>Wed, 08 Oct 2025 06:05:41 +0700</pubDate>
-        
-        <guid>https://khanginfo.github.io/posts/auto-approval/</guid>
-        <description>&lt;p&gt;Trong bối cảnh chuyển đổi số mạnh mẽ, hầu hết các ngân hàng và tổ chức tài chính hiện nay đều đã triển khai hệ thống phê duyệt tự động (auto approval) trong hoạt động cho vay. Mục tiêu là tối ưu hóa quy trình, giảm thời gian xử lý hồ sơ và nâng cao trải nghiệm khách hàng.&lt;/p&gt;
-&lt;p&gt;Tuy nhiên, nhiều tổ chức lại bỏ qua bước quan trọng: Xây dựng quy định nội bộ đủ chặt chẽ để quản lý, giám sát và kiểm soát rủi ro khi áp dụng công nghệ tự động. Hệ quả là việc phê duyệt có thể không tuân thủ đúng quy định pháp lý, đồng thời thiếu cơ chế xác định rõ trách nhiệm cá nhân và bộ phận khi rủi ro phát sinh.&lt;/p&gt;
-&lt;h2 id=&#34;1-pháp-lý-cho-phê-duyệt-tự-động&#34;&gt;1. Pháp lý cho phê duyệt tự động
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-Giao-dich-dien-tu-2023-20-2023-QH15-513347.aspx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Luật giao dịch điện tử 2023&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Hợp đồng điện tử được giao kết hoặc thực hiện từ sự tương tác giữa một hệ thống thông tin tự động với người hoặc giữa các hệ thống thông tin tự động với nhau không bị phủ nhận giá trị pháp lý chỉ vì không có sự kiểm tra hay can thiệp của con người vào từng hành động cụ thể do các hệ thống thông tin tự động thực hiện hay vào hợp đồng&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Thông tư 39/2016/TT-NHNN, sửa đổi bởi &lt;a class=&#34;link&#34; href=&#34;https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/thong-tu-06-2023-tt-nhnn-sua-doi-thong-tu-39-2016-tt-nhnn-cho-vay-cua-to-chuc-tin-dung-518149.aspx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Thông tư 06/2023/TT-NHNN&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Điều 32đ. Thẩm định và quyết định cho vay&lt;br&gt;
-Tổ chức tín dụng tổ chức xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo nguyên tắc phân định trách nhiệm của từng cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay. Trường hợp có rủi ro phát sinh, tổ chức tín dụng phải có cơ chế để xác định từng cá nhân, bộ phận chịu trách nhiệm và xử lý kịp thời các vấn đề, rủi ro phát sinh để đảm bảo hiệu quả, an toàn trong việc tổ chức xét duyệt cho vay bằng phương tiện điện tử của tổ chức tín dụng.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://thuvienphapluat.vn/cong-van/Tien-te-Ngan-hang/Cong-van-8631-NHNN-CSTT-2023-giai-dap-cau-hoi-Thong-tu-06-2023-TT-NHNN-586461.aspx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Văn bản số  8631/NHNN-CSTT ngày 08/11/2023&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Theo quy định tại Điều 32đ Thông tư số 39/2016/TT-NHNN (đã được sửa đổi, bổ sung), cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay bao gồm cá nhân, bộ phận xây dựng sản phẩm cho vay.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;2-mẫu-điều-khoản-tham-khảo-xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử&#34;&gt;2. Mẫu điều khoản tham khảo: Xét duyệt cho vay bằng phương tiện điện tử
-&lt;/h2&gt;&lt;p&gt;Một điều khoản về Xét duyệt cho vay bằng phương tiện điện tử nên được quy định đủ chi tiết để bảo đảm tuân thủ pháp lý và quản trị rủi ro. Dưới đây là mẫu điều khoản mang tính tham khảo:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h3 id=&#34;điều--xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử&#34;&gt;Điều … Xét duyệt cho vay bằng phương tiện điện tử
-&lt;/h3&gt;&lt;h4 id=&#34;1-nguyên-tắc-chung&#34;&gt;1. Nguyên tắc chung
-&lt;/h4&gt;&lt;p&gt;Việc xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo phân định rõ trách nhiệm của từng cá nhân và bộ phận tham gia vào quá trình xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay.&lt;br&gt;
-Trường hợp phát sinh rủi ro, phải có cơ chế xác định trách nhiệm và biện pháp xử lý kịp thời, bảo đảm tính an toàn, hiệu quả và tuân thủ pháp luật trong toàn bộ quy trình.&lt;/p&gt;
-&lt;h4 id=&#34;2-phân-định-trách-nhiệm-khi-áp-dụng-phê-duyệt-tự-động-hoặc-bán-tự-động&#34;&gt;2. Phân định trách nhiệm khi áp dụng phê duyệt tự động hoặc bán tự động:
-&lt;/h4&gt;&lt;p&gt;2.1. Lưu vết hệ thống: Hệ thống thông tin phải lưu vết toàn bộ quá trình thẩm định, phê duyệt và xử lý dữ liệu, đảm bảo khả năng truy xuất và đối chiếu khi có rủi ro hoặc tranh chấp.&lt;br&gt;
-2.2. Trường hợp tài khoản phê duyệt gắn với cá nhân cụ thể: Cá nhân chịu trách nhiệm kiểm tra, theo dõi hoạt động của hệ thống dưới tài khoản của mình, và chịu trách nhiệm tương tự như người phê duyệt trong quy trình truyền thống.&lt;br&gt;
-2.3. Trường hợp phê duyệt tự động không có tài khoản hoặc bằng tài khoản hệ thống (auto/bot):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bộ phận xây dựng quy tắc tự động (Bộ phận sản phẩm nếu bộ phận này xây sản phẩm tự động):
-&lt;ul&gt;
-&lt;li&gt;Chịu trách nhiệm về tính hợp pháp, hợp lý của mô hình chấm điểm tín dụng, các ngưỡng phê duyệt và dữ liệu đầu vào.&lt;/li&gt;
-&lt;li&gt;Báo cáo định kỳ về hiệu quả và rủi ro của quy tắc, đồng thời thực hiện rà soát khi có thay đổi chính sách.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Bộ phận CNTT:
-&lt;ul&gt;
-&lt;li&gt;Đảm bảo hệ thống vận hành ổn định, an toàn, không bị can thiệp trái phép.&lt;/li&gt;
-&lt;li&gt;Không được tự ý thay đổi quy tắc hoặc thuật toán khi chưa có phê duyệt của bộ phận nghiệp vụ.&lt;/li&gt;
-&lt;li&gt;Ghi nhận log, kiểm soát truy cập, đảm bảo khả năng truy xuất dữ liệu để xác định trách nhiệm.&lt;/li&gt;
-&lt;li&gt;Thực hiện đầy đủ yêu cầu về an toàn thông tin theo Thông tư 09/2020/TT-NHNN.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;3-xử-lý-rủi-ro-và-xác-định-trách-nhiệm&#34;&gt;3. Xử lý rủi ro và xác định trách nhiệm:
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Rủi ro do quy tắc tự động: cá nhân/bộ phận thiết lập quy tắc chịu trách nhiệm.&lt;/li&gt;
-&lt;li&gt;Rủi ro do lỗi vận hành: thuộc cá nhân vận hành.&lt;/li&gt;
-&lt;li&gt;Rủi ro do sự cố kỹ thuật: thuộc bộ phận IT.&lt;/li&gt;
-&lt;li&gt;Rủi ro tổng hợp: xác định trách nhiệm theo phân tích nguyên nhân.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;4-cơ-chế-ứng-phó-và-kiểm-soát-rủi-ro&#34;&gt;4. Cơ chế ứng phó và kiểm soát rủi ro:
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Hệ thống phải có khả năng can thiệp khẩn cấp (override) khi phát hiện bất thường.&lt;/li&gt;
-&lt;li&gt;Rà soát định kỳ để đánh giá độ tin cậy, thiết lập ngưỡng cảnh báo và kịch bản xử lý khi tỷ lệ rủi ro vượt giới hạn cho phép.&lt;/li&gt;
-&lt;li&gt;Biện pháp xử lý gồm: khắc phục kỹ thuật, điều chỉnh quy trình nghiệp vụ, xử lý kỷ luật và nâng cấp hệ thống.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;3-tự-động-không-có-nghĩa-vô-trách-nhiệm&#34;&gt;3. Tự động không có nghĩa “vô trách nhiệm”
-&lt;/h2&gt;&lt;p&gt;Một hệ thống thông minh chỉ thực sự hiệu quả khi được vận hành trong một khuôn khổ pháp lý – nội bộ rõ ràng, minh bạch và có trách nhiệm.
-Dù hệ thống có hiện đại đến đâu, tổ chức vẫn phải:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Xây dựng quy định nội bộ chi tiết để phân định rõ vai trò con người trong toàn bộ quy trình.&lt;/li&gt;
-&lt;li&gt;Đảm bảo tính minh bạch, truy xuất và kiểm soát đối với mọi quyết định của hệ thống.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
         </item>
         <item>
@@ -295,25 +143,6 @@ e) Biên bản bàn giao/thu giữ được lập bởi Bên nhận bảo đảm
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;VanBanNganHangNhaNuoc.pdf&#34; &gt;Văn bản Ngân hàng nhà nước&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;VanBanSoXayDung.pdf&#34; &gt;Văn bản Sở Xây dựng&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>Hello World</title>
-        <link>https://khanginfo.github.io/posts/hello-world/</link>
-        <pubDate>Wed, 01 Oct 2025 19:00:00 +0700</pubDate>
-        
-        <guid>https://khanginfo.github.io/posts/hello-world/</guid>
-        <description>&lt;p&gt;Đây là không gian để chia sẻ những trải nghiệm, kiến thức và góc nhìn cá nhân về pháp luật – công nghệ – tài chính – phát triển bản thân&lt;/p&gt;
-&lt;h3 id=&#34;vì-sao-tôi-viết-blog&#34;&gt;Vì sao tôi viết blog?
-&lt;/h3&gt;&lt;p&gt;Trong thế giới đầy ắp thông tin ngày nay, việc ghi lại, hệ thống hóa và chia sẻ trở thành một cách học tập hiệu quả. Blog này không chỉ là nơi tôi viết cho người khác đọc, mà còn là một cách sắp xếp ý tưởng và lưu giữ kiến thức.&lt;/p&gt;
-&lt;h3 id=&#34;bạn-sẽ-tìm-thấy-gì-ở-đây&#34;&gt;Bạn sẽ tìm thấy gì ở đây?
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Những bài viết phân tích, chia sẻ kiến thức thực tế.&lt;/li&gt;
-&lt;li&gt;Các góc nhìn cá nhân trước những xu hướng, sự kiện mới.&lt;/li&gt;
-&lt;li&gt;Một chút “life note” – nơi tôi ghi lại những điều nhỏ bé nhưng đáng nhớ trong công việc và cuộc sống.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;lời-mời-đến-bạn&#34;&gt;Lời mời đến bạn
-&lt;/h3&gt;&lt;p&gt;Tôi tin rằng tri thức chỉ thực sự có giá trị khi được chia sẻ và thảo luận. Vì vậy, nếu bạn có ý kiến, câu hỏi hay góc nhìn khác, đừng ngần ngại  liên hệ trực tiếp với tôi qua email khanginfo(a)gmail(dot)com.&lt;/p&gt;
 </description>
         </item>
         
