@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Contract on Khang Nguyen</title>
-        <link>https://khanginfo.github.io/categories/contract/</link>
+        <link>http://localhost:1313/categories/contract/</link>
         <description>Recent content in Contract on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 Oct 2025 20:03:49 +0700</lastBuildDate><atom:link href="https://khanginfo.github.io/categories/contract/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Oct 2025 20:03:49 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/contract/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Pháp chế xanh: Quản lý rủi ro môi trường trong hoạt động tín dụng</title>
-        <link>https://khanginfo.github.io/posts/rui-ro-moi-truong/</link>
+        <link>http://localhost:1313/posts/rui-ro-moi-truong/</link>
         <pubDate>Tue, 28 Oct 2025 20:03:49 +0700</pubDate>
         
-        <guid>https://khanginfo.github.io/posts/rui-ro-moi-truong/</guid>
+        <guid>http://localhost:1313/posts/rui-ro-moi-truong/</guid>
         <description>&lt;p&gt;Ngày nay, Doanh nghiệp phải chuyển mình theo chuẩn mực ESG. Yêu cầu quốc tế, trong nước đều hướng đến “tín dụng xanh”.&lt;/p&gt;
 &lt;p&gt;Trong bối cảnh đó, bộ phận pháp chế cũng cần chuyển mình thành “pháp chế xanh” – đòi hỏi không chỉ am hiểu pháp luật tín dụng, mà còn phải hiểu và lường trước các rủi ro môi trường để tích hợp vào hợp đồng, quy định nội bộ về cho vay.&lt;/p&gt;
-&lt;h1 id=&#34;khung-pháp-luật-về-quản-lý-rủi-ro-môi-trường&#34;&gt;Khung pháp luật về quản lý rủi ro môi trường
-&lt;/h1&gt;&lt;ul&gt;
+&lt;h2 id=&#34;khung-pháp-luật-về-quản-lý-rủi-ro-môi-trường&#34;&gt;Khung pháp luật về quản lý rủi ro môi trường
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Thông tư 39/2019/TT-NHNN quy định rằng: Nguyên tắc cho vay, vay vốn là phải phù hợp với quy định của pháp luật có liên quan, và nhấn mạnh pháp luật về bảo vệ môi trường.&lt;/li&gt;
 &lt;li&gt;Thông tư 17/2022/TT-NHNN hướng dẫn quản lý rủi ro môi trường trong cấp tín dụng. Trong đó yêu cầu tổ chức tín dụng thỏa thuận với khách hàng bổ sung tại thỏa thuận cấp tín dụng các biện pháp khách hàng cam kết thực hiện nhằm hạn chế rủi ro về môi trường trong hoạt động cấp tín dụng.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;các-rủi-ro-môi-trường-thường-gặp&#34;&gt;Các rủi ro môi trường thường gặp
-&lt;/h1&gt;&lt;p&gt;(1) Rủi ro pháp lý: Dự án chưa có hoặc bị thu hồi giấy phép môi trường, bị phạt vi phạm hành chính, hoặc bị đình chỉ hoạt động.
+&lt;h2 id=&#34;các-rủi-ro-môi-trường-thường-gặp&#34;&gt;Các rủi ro môi trường thường gặp
+&lt;/h2&gt;&lt;p&gt;(1) Rủi ro pháp lý: Dự án chưa có hoặc bị thu hồi giấy phép môi trường, bị phạt vi phạm hành chính, hoặc bị đình chỉ hoạt động.
 (2) Rủi ro uy tín: Khi ngân hàng bị công chúng hoặc truyền thông phản ứng vì tài trợ cho một dự án gây ô nhiễm.
 (3) Rủi ro thông tin: Khách hàng cung cấp thông tin không trung thực, báo cáo môi trường “trên giấy”.
 (4) Rủi ro tài chính – vận hành: Do thay đổi quy chuẩn môi trường, doanh nghiệp phải đầu tư thêm hệ thống xử lý chất thải hoặc dừng sản xuất để khắc phục.
 (5) Rủi ro thiên tai và biến đổi khí hậu: Thiệt hại tài sản do lũ lụt, sạt lở, hạn hán làm mất tài sản, ảnh hưởng đến khả năng thu nợ, xử lý tài sản bảo đảm.&lt;/p&gt;
-&lt;h1 id=&#34;thiết-kế-điều-khoản-phòng-ngừa-rủi-ro-môi-trường-trong-hợp-đồng&#34;&gt;Thiết kế điều khoản phòng ngừa rủi ro môi trường trong Hợp đồng
-&lt;/h1&gt;&lt;p&gt;Thay vì để khâu thẩm định và phê duyệt đưa ra các điều kiện yêu cầu Khách hàng bổ sung cam kết, Pháp chế có thể thiết lập “Lá chắn xanh” trong hợp đồng tín dụng. Dưới đây là ví dụ điều khoản mẫu:&lt;/p&gt;
+&lt;h2 id=&#34;thiết-kế-điều-khoản-phòng-ngừa-rủi-ro-môi-trường-trong-hợp-đồng&#34;&gt;Thiết kế điều khoản phòng ngừa rủi ro môi trường trong Hợp đồng
+&lt;/h2&gt;&lt;p&gt;Thay vì để khâu thẩm định và phê duyệt đưa ra các điều kiện yêu cầu Khách hàng bổ sung cam kết, Pháp chế có thể thiết lập “Lá chắn xanh” trong hợp đồng tín dụng. Dưới đây là ví dụ điều khoản mẫu:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Điều &amp;hellip;. Cam kết về môi trường của Bên Vay&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Bên Vay cam kết và đảm bảo rằng phương án vay vốn bao gồm toàn bộ hoạt động sử dụng vốn vay, và các hoạt động liên quan đến việc tạo nguồn trả nợ (sau đây gọi chung là “Dự án”) tuân thủ đầy đủ các quy định của pháp luật về bảo vệ môi trường, bao gồm: (i) Luật Bảo vệ môi trường; (ii) các văn bản hướng dẫn thi hành; (iii) giấy phép môi trường, đăng ký môi trường (nếu có); và (iv) các cam kết môi trường (nếu có).&lt;/li&gt;
@@ -40,10 +40,10 @@
         </item>
         <item>
         <title>Quyền thu giữ tài sản bảo đảm</title>
-        <link>https://khanginfo.github.io/posts/legal-draft/25-nd-thu-giu-tai-san/</link>
+        <link>http://localhost:1313/posts/legal-draft/25-nd-thu-giu-tai-san/</link>
         <pubDate>Sat, 04 Oct 2025 06:15:41 +0700</pubDate>
         
-        <guid>https://khanginfo.github.io/posts/legal-draft/25-nd-thu-giu-tai-san/</guid>
+        <guid>http://localhost:1313/posts/legal-draft/25-nd-thu-giu-tai-san/</guid>
         <description>&lt;p&gt;Luật sửa đổi, bổ sung Luật các tổ chức tín dụng năm 2025 đã ghi nhận quyền thu giữ tài sản bảo đảm của bên nhận bảo đảm (tổ chức tín dung hoặc VAMC). Tuy nhiên, “quyền” chỉ có giá trị khi được chuẩn bị kỹ trong hợp đồng bảo đảm – với điều khoản rõ ràng, minh bạch và phù hợp pháp luật.&lt;/p&gt;
 &lt;h2 id=&#34;1-cơ-sở-pháp-lý-của-quyền-thu-giữ&#34;&gt;1. Cơ sở pháp lý của quyền thu giữ
 &lt;/h2&gt;&lt;p&gt;Luật sửa đổi, bổ sung Luật các tổ chức tín dụng 2025 quy định:&lt;/p&gt;
@@ -96,10 +96,10 @@ e) Biên bản bàn giao/thu giữ được lập bởi Bên nhận bảo đảm
         </item>
         <item>
         <title>Hợp đồng tín dụng vô hiệu</title>
-        <link>https://khanginfo.github.io/posts/invalid-loan-contract/</link>
+        <link>http://localhost:1313/posts/invalid-loan-contract/</link>
         <pubDate>Thu, 02 Oct 2025 05:18:47 +0700</pubDate>
         
-        <guid>https://khanginfo.github.io/posts/invalid-loan-contract/</guid>
+        <guid>http://localhost:1313/posts/invalid-loan-contract/</guid>
         <description>&lt;p&gt;Một vụ việc đang thu hút sự chú ý của giới pháp lý và tài chính là trường hợp hợp đồng tín dụng giữa VPBank và khách vay bị tuyên vô hiệu. Cụ thể là TAND Khu vực 7 (TP HCM) đã bác yêu cầu khởi kiện của VPBank, tuyên hợp đồng tín dụng và văn bản thỏa thuận mua biệt thự đều vô hiệu.&lt;/p&gt;
 &lt;p&gt;Tòa xác định:&lt;/p&gt;
 &lt;ul&gt;
