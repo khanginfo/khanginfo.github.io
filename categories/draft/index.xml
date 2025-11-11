@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Draft on Khang Nguyen</title>
-        <link>https://khanginfo.github.io/categories/draft/</link>
+        <link>http://localhost:1313/categories/draft/</link>
         <description>Recent content in Draft on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 11 Nov 2025 21:36:32 +0700</lastBuildDate><atom:link href="https://khanginfo.github.io/categories/draft/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 11 Nov 2025 21:36:32 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/draft/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Dự thảo Nghị định xử phạt trong lĩnh vực tiền tệ, ngân hàng</title>
-        <link>https://khanginfo.github.io/posts/legal-draft/25-xu-phat-tien-te/</link>
+        <link>http://localhost:1313/posts/legal-draft/25-xu-phat-tien-te/</link>
         <pubDate>Tue, 11 Nov 2025 21:36:32 +0700</pubDate>
         
-        <guid>https://khanginfo.github.io/posts/legal-draft/25-xu-phat-tien-te/</guid>
+        <guid>http://localhost:1313/posts/legal-draft/25-xu-phat-tien-te/</guid>
         <description>&lt;p&gt;&lt;strong&gt;Nguồn Bộ tư pháp:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/1-Du-thao-TTr-NHNN.pdf&#34; &gt;Dự thảo Tờ trình của Ngân hàng Nhà nước&lt;/a&gt;&lt;/li&gt;
