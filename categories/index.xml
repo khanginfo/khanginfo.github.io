@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Khang Nguyen</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://khanginfo.github.io/categories/</link>
         <description>Recent content in Categories on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 11 Nov 2025 21:36:32 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 23 Nov 2025 20:24:40 +0700</lastBuildDate><atom:link href="https://khanginfo.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Draft</title>
-        <link>http://localhost:1313/categories/draft/</link>
-        <pubDate>Tue, 11 Nov 2025 21:36:32 +0700</pubDate>
+        <link>https://khanginfo.github.io/categories/draft/</link>
+        <pubDate>Sun, 23 Nov 2025 20:24:40 +0700</pubDate>
         
-        <guid>http://localhost:1313/categories/draft/</guid>
+        <guid>https://khanginfo.github.io/categories/draft/</guid>
         <description></description>
         </item>
         <item>
         <title>Blog</title>
-        <link>http://localhost:1313/categories/blog/</link>
+        <link>https://khanginfo.github.io/categories/blog/</link>
         <pubDate>Thu, 06 Nov 2025 19:15:08 +0700</pubDate>
         
-        <guid>http://localhost:1313/categories/blog/</guid>
+        <guid>https://khanginfo.github.io/categories/blog/</guid>
         <description></description>
         </item>
         <item>
         <title>Contract</title>
-        <link>http://localhost:1313/categories/contract/</link>
+        <link>https://khanginfo.github.io/categories/contract/</link>
         <pubDate>Tue, 28 Oct 2025 20:03:49 +0700</pubDate>
         
-        <guid>http://localhost:1313/categories/contract/</guid>
+        <guid>https://khanginfo.github.io/categories/contract/</guid>
         <description></description>
         </item>
         

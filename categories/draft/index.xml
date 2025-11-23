@@ -2,16 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Draft on Khang Nguyen</title>
-        <link>http://localhost:1313/categories/draft/</link>
+        <link>https://khanginfo.github.io/categories/draft/</link>
         <description>Recent content in Draft on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 11 Nov 2025 21:36:32 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/draft/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 23 Nov 2025 20:24:40 +0700</lastBuildDate><atom:link href="https://khanginfo.github.io/categories/draft/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Dự thảo sủa đổi Luật sở hữu trí tuệ</title>
+        <link>https://khanginfo.github.io/posts/legal-draft/25-luat-so-huu-tri-tue/</link>
+        <pubDate>Sun, 23 Nov 2025 20:24:40 +0700</pubDate>
+        
+        <guid>https://khanginfo.github.io/posts/legal-draft/25-luat-so-huu-tri-tue/</guid>
+        <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;qh-du-thao-6.pdf&#34; &gt;Dự thảo 6 - Quốc hội&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;qh-to-trinh.pdf&#34; &gt;Tờ trình Quốc hội&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;3-du-thao-luat.pdf&#34; &gt;Dự thảo Luật - Bộ KH&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;2-du-thao-to-trinh.pdf&#34; &gt;Dự thảo Tờ trình - Bộ KH&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;4-ban-so-sanh-thuyet-minh-theo-du-thao-luat.pdf&#34; &gt;Bảng so sánh - Bộ KH&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;5-bc-ra-soat-chu-truong.pdf&#34; &gt;Báo cáo rà soát - Bộ KH&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
         <title>Dự thảo Nghị định xử phạt trong lĩnh vực tiền tệ, ngân hàng</title>
-        <link>http://localhost:1313/posts/legal-draft/25-xu-phat-tien-te/</link>
+        <link>https://khanginfo.github.io/posts/legal-draft/25-xu-phat-tien-te/</link>
         <pubDate>Tue, 11 Nov 2025 21:36:32 +0700</pubDate>
         
-        <guid>http://localhost:1313/posts/legal-draft/25-xu-phat-tien-te/</guid>
+        <guid>https://khanginfo.github.io/posts/legal-draft/25-xu-phat-tien-te/</guid>
         <description>&lt;p&gt;&lt;strong&gt;Nguồn Bộ tư pháp:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/1-Du-thao-TTr-NHNN.pdf&#34; &gt;Dự thảo Tờ trình của Ngân hàng Nhà nước&lt;/a&gt;&lt;/li&gt;
@@ -33,15 +61,6 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/3-Du-thao-Nghi-dinh.pdf&#34; &gt;Dự thảo Nghị định&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/Source-SBV.rar&#34; &gt;Bộ tài liệu&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-        </item>
-        <item>
-        <title>Dự thảo Thông tư sửa Thông tư 18/2024/TT-NHNN về thẻ ngân hàng</title>
-        <link>http://localhost:1313/posts/legal-draft/25-du-thao-sua-tt-18-the-tin-dung/</link>
-        <pubDate>Sat, 04 Oct 2025 06:28:33 +0700</pubDate>
-        
-        <guid>http://localhost:1313/posts/legal-draft/25-du-thao-sua-tt-18-the-tin-dung/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;2-Bang-tong-hop-y-kien-sua-TT-18-2024-the-ngan-hang.pdf&#34; &gt;Bảng tổng hợp ý kiến&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         
