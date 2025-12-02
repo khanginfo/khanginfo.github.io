@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Contract on Khang Nguyen</title>
-        <link>https://khanginfo.github.io/categories/contract/</link>
+        <link>//localhost:1313/categories/contract/</link>
         <description>Recent content in Contract on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 Oct 2025 20:03:49 +0700</lastBuildDate><atom:link href="https://khanginfo.github.io/categories/contract/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Oct 2025 20:03:49 +0700</lastBuildDate><atom:link href="//localhost:1313/categories/contract/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Pháp chế xanh: Quản lý rủi ro môi trường trong hoạt động tín dụng</title>
-        <link>https://khanginfo.github.io/posts/rui-ro-moi-truong/</link>
+        <link>//localhost:1313/posts/rui-ro-moi-truong/</link>
         <pubDate>Tue, 28 Oct 2025 20:03:49 +0700</pubDate>
         
-        <guid>https://khanginfo.github.io/posts/rui-ro-moi-truong/</guid>
+        <guid>//localhost:1313/posts/rui-ro-moi-truong/</guid>
         <description>&lt;p&gt;Ngày nay, Doanh nghiệp phải chuyển mình theo chuẩn mực ESG. Yêu cầu quốc tế, trong nước đều hướng đến “tín dụng xanh”.&lt;/p&gt;
 &lt;p&gt;Trong bối cảnh đó, bộ phận pháp chế cũng cần chuyển mình thành “pháp chế xanh” – đòi hỏi không chỉ am hiểu pháp luật tín dụng, mà còn phải hiểu và lường trước các rủi ro môi trường để tích hợp vào hợp đồng, quy định nội bộ về cho vay.&lt;/p&gt;
 &lt;h2 id=&#34;khung-pháp-luật-về-quản-lý-rủi-ro-môi-trường&#34;&gt;Khung pháp luật về quản lý rủi ro môi trường
@@ -40,10 +40,10 @@
         </item>
         <item>
         <title>Quyền thu giữ tài sản bảo đảm</title>
-        <link>https://khanginfo.github.io/posts/legal-draft/25-nd-thu-giu-tai-san/</link>
+        <link>//localhost:1313/posts/legal-draft/25-nd-thu-giu-tai-san/</link>
         <pubDate>Sat, 04 Oct 2025 06:15:41 +0700</pubDate>
         
-        <guid>https://khanginfo.github.io/posts/legal-draft/25-nd-thu-giu-tai-san/</guid>
+        <guid>//localhost:1313/posts/legal-draft/25-nd-thu-giu-tai-san/</guid>
         <description>&lt;p&gt;Luật sửa đổi, bổ sung Luật các tổ chức tín dụng năm 2025 đã ghi nhận quyền thu giữ tài sản bảo đảm của bên nhận bảo đảm (tổ chức tín dung hoặc VAMC). Tuy nhiên, “quyền” chỉ có giá trị khi được chuẩn bị kỹ trong hợp đồng bảo đảm – với điều khoản rõ ràng, minh bạch và phù hợp pháp luật.&lt;/p&gt;
 &lt;h2 id=&#34;1-cơ-sở-pháp-lý-của-quyền-thu-giữ&#34;&gt;1. Cơ sở pháp lý của quyền thu giữ
 &lt;/h2&gt;&lt;p&gt;Luật sửa đổi, bổ sung Luật các tổ chức tín dụng 2025 quy định:&lt;/p&gt;
@@ -66,21 +66,48 @@ b) Hợp đồng bảo đảm có &lt;strong&gt;thỏa thuận&lt;/strong&gt; v�
 &lt;/ul&gt;
 &lt;h2 id=&#34;3-cách-thiết-kế-điều-khoản-thu-giữ-trong-hợp-đồng-bảo-đảm&#34;&gt;3. Cách thiết kế điều khoản thu giữ trong hợp đồng bảo đảm
 &lt;/h2&gt;&lt;p&gt;Một điều khoản về quyền thu giữ nên được soạn thảo đủ chi tiết để tránh tranh chấp khi thực hiện. Dưới đây là mẫu điều khoản mang tính tham khảo:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Điều 1. Quyền thu giữ tài sản bảo đảm&lt;/strong&gt; &lt;br&gt;
-&lt;em&gt;1. Bên bảo đảm đồng ý cho Bên nhận bảo đảm có quyền thu giữ tài sản bảo đảm của khoản nợ xấu khi xảy ra trường hợp xử lý tài sản bảo đảm theo quy định của pháp luật về bảo đảm thực hiện nghĩa vụ.  &lt;br&gt;
-2. Trường hợp pháp luật có yêu cầu thông báo cho bên bảo đảm, người đang giữ tài sản bảo đảm (nếu có) về việc thu giữ tài sản bảo đảm, các bên thỏa thuận phương thức thông báo như sau:&lt;br&gt;
-&amp;hellip;&lt;br&gt;
-3. Bên bảo đảm chịu trách nhiệm thanh toán, bồi hoàn toàn bộ các chi phí phát sinh liên quan đến việc thu giữ tài sản, vận chuyển tài sản thu giữ, bảo quản tài sản thu giữ.&lt;br&gt;
-4. Bên nhận bảo đảm không chịu trách nhiệm trong trường hợp tài sản bảo đảm sau khi thu giữ bị giảm sút giá trị, hao mòn tự nhiên, hoặc bị hư hỏng, mất, thiệt hại do các sự cố cháy, nổ, ngập lụt, động đất, hoặc các sự cố khác ngoài khả năng kiểm soát của Bên nhận bảo đảm.&lt;br&gt;
-5. Nếu Bên bảo đảm không có mặt hoặc không hợp tác khi thu giữ, Bên bảo đảm xác nhận và đồng ý rằng:&lt;br&gt;
-a) Người quản lý/giữ tài sản có trách nhiệm bàn giao tài sản theo yêu cầu của Bên nhận bảo đảm mà không cần sự có mặt của Bên bảo đảm.&lt;br&gt;
-b) Bên nhận bảo đảm và/hoặc đơn vị được ủy quyền có quyền vào địa điểm có tài sản bảo đảm (bao gồm văn phòng, kho bãi, nhà xưởng, phương tiện) để thu giữ.&lt;br&gt;
-c) Trường hợp tài sản bị khóa/niêm phong, Bên nhận bảo đảm có quyền phá khóa, phá niêm phong để thu giữ.&lt;br&gt;
-d) Mọi chi phí, thiệt hại, trách nhiệm dân sự/hình sự phát sinh từ việc Bên bảo đảm chậm bàn giao hoặc cản trở việc thu giữ sẽ do Bên bảo đảm chịu.&lt;br&gt;
-e) Biên bản bàn giao/thu giữ được lập bởi Bên nhận bảo đảm hoặc Bên được ủy quyền được coi là bằng chứng hợp lệ, ràng buộc đối với Bên bảo đảm.&lt;br&gt;
-6. Nếu phát sinh tranh chấp với bên thứ ba giữ tài sản, Bên bảo đảm có nghĩa vụ giải quyết và bồi hoàn cho Bên nhận bảo đảm mọi thiệt hại, chi phí phát sinh.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Điều &amp;hellip;. Thu giữ Tài sản bảo đảm&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Quyền thu giữ TSBĐ:
+a) Bên thế chấp đồng ý cho Bên NBD (bên nhận bảo đảm) có quyền thu giữ tài sản bảo đảm của khoản nợ xấu khi xảy ra trường hợp xử lý TSBĐ theo quy định của pháp luật về bảo đảm thực hiện nghĩa vụ.
+b) Bên thế chấp, người đang giữ TSBĐ phải giao TSBĐ, kèm theo giấy tờ, hồ sơ pháp lý của TSBĐ cho Bên NBD theo yêu cầu bằng văn bản Bên NBD. Trường hợp Bên thế chấp, người đang giữ TSBĐ không giao TSBĐ cho Bên NBD để xử lý thì Bên NBD được thu giữ TSBĐ.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thông báo thu giữ TSBĐ:
+a) Chậm nhất 15 ngày trước ngày tiến hành thu giữ TSBĐ, Bên NBD công khai thông tin về thời gian, địa điểm thu giữ TSBĐ, TSBĐ được thu giữ, lý do thu giữ theo quy định pháp luật, và Thông báo cho Bên thế chấp, người đang giữ TSBĐ, theo phương thức: Dịch vụ bưu chính tới địa chỉ đã được cung cấp theo hợp đồng bảo đảm hoặc theo thông tin được lưu trữ tại cơ quan đăng ký biện pháp bảo đảm, hoặc phương thức khác theo quy định pháp luật.
+b) Thông báo được coi là đã được nhận theo báo phát của dịch vụ bưu chính. Trường hợp Bên nhận từ chối nhận Thông báo hoặc thay đổi địa chỉ mà không thông báo bằng văn bản cho Bên NBD: Thông báo được coi là đã được nhận sau 03 (ba) ngày kể từ ngày gửi cho đơn vị dịch vụ bưu chính.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thực hiện thu giữ TSBĐ:
+a) Bên NBD được trực tiếp hoặc ủy quyền cho tổ chức hợp pháp thực hiện việc thu giữ TSBĐ. Trong quá trình tiến hành thu giữ, Bên NBD/Bên được ủy quyền có quyền yêu cầu các cơ quan nhà nước có thẩm quyền trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, thực hiện việc bảo đảm an ninh, trật tự, an toàn xã hội trong quá trình thu giữ TSBĐ.
+b) Bên thế chấp cam kết thực hiện ngay và vô điều kiện:
+b1) Giao TSBĐ, giấy tờ về TSBĐ cho Bên NBD. Trường hợp TSBĐ. giấy tờ về TSBĐ đang chiếm hữu bởi Bên thứ ba, Bên thế chấp phải thực hiện tất cả các hành động cần thiết và chịu mọi chi phí phát sinh để Bên thứ ba giao TSBĐ cho Bên NBD.
+b2) Di chuyển toàn bộ người và tài sản không thuộc TSBĐ ở trên hoặc ở trong TSBĐ đúng thời hạn theo yêu cầu của Bên NBD khi Bên NBD thực hiện thu giữ TSBĐ.
+b3) Hợp tác, hỗ trợ Bên NBD thu giữ TSBĐ, không cản trở hay để người trong gia đình, cá nhân/tổ chức khác cản trở việc thu giữ TSBĐ.
+c) Nếu Bên thế chấp không hợp tác với Bên NBD, hoặc không có mặt tại địa chỉ có TSBĐ khi Bên NBD tiến hành thu giữ, Bên thế chấp đồng ý rằng:
+c1) Người quản lý TSBĐ có trách nhiệm thực hiện việc bàn giao tài sản cho Bên NBD mà không cần sự có mặt của Bên thế chấp.
+c2) Bên NBD và/hoặc Bên quản lý TSBĐ có quyền trực tiếp vào nơi có TSBĐ để thu giữ TSBĐ,
+c3) Trong trường hợp TSBĐ bị khóa hoặc niêm phong Bên NBD có quyền phá, mở khóa, phá bỏ niêm phong.
+c4) Biên bản bàn giao hoặc thu giữ TSBĐ không có chữ ký của Bên thế chấp là vẫn có giá trị ràng buộc với Bên thế chấp.
+d) Bên NBD được khóa, niêm phong, dán thông báo về việc TSBĐ khi tiến hành thu giữ TSBĐ.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chi phí, bồi hoàn/bồi thường:
+a) Bên thế chấp chịu trách nhiệm thanh toán, bồi hoàn/bồi thường cho Bên NBD toàn bộ các chi phí phát sinh liên quan đến việc thu giữ tài sản, vận chuyển tài sản thu giữ, bảo quản tài sản thu giữ.
+b) Khoản tiền phải trích cho Bên thế chấp để thu giữ TSBĐ theo quy định pháp luật được tính vào chi phí xử lý TSBĐ theo điểm &amp;hellip; khoản &amp;hellip;. Điều &amp;hellip; [Phương thức xử lý tài sản bảo đảm].&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bảo quản, xử lý TSBĐ sau thu giữ:
+a) Bên thế chấp đồng ý rằng Bên NBD không chịu trách nhiệm trong trường hợp TSBĐ sau khi thu giữ bị giảm sút giá trị, hao mòn tự nhiên, hoặc bị hư hỏng, mất, thiệt hại do các sự cố cháy, nổ, ngập lụt, động đất, hoặc các sự cố khác ngoài khả năng kiểm soát của Bên NBD.
+b) Sau khi thu giữ, Bên NBD được bán, chuyển nhượng TSBĐ để thu hồi nợ, hoặc xử lý TSBĐ khác theo phương thức khác theo Điều &amp;hellip; [Phương thức xử lý tài sản bảo đảm] của Hợp đồng.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cam kết, xác nhận của Bên thế chấp:
+a) Bằng việc ký Hợp đồng này, Bên thế chấp xác nhận đã được Bên NBD cung cấp đầy đủ thông tin cho Bên thế chấp về quyền và trách nhiệm của Bên thế chấp, quyền và trách nhiệm của Bên NBD được quy định tại Nghị định 304/2025/NĐ-CP (gồm cả sửa đổi, bô sung, thay thế, nếu có) và được quy định tại các văn bản pháp luật có liên quan về thu giữ TSBĐ.
+b) Nếu Bên thế chấp đã cam kết xác nhận và chứng minh tài sản bảo đảm không thuộc trường hợp chỗ ở duy nhất, công cụ lao động chủ yếu hoặc duy nhất:  Bên thế chấp cam kết và bảo đảm luôn duy trì TSBĐ đáp ứng đầy đủ điều kiện của tài sản bảo đảm của khoản nợ xấu được thu giữ theo quy định pháp luật trong suốt thời hạn thế chấp.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;4-tham-khảo&#34;&gt;4. Tham khảo:
 &lt;/h2&gt;&lt;p&gt;Hồ sơ dự thảo Nghị định về quyền thu giữ tài sản bảo đảm.&lt;/p&gt;
 &lt;ul&gt;
@@ -96,10 +123,10 @@ e) Biên bản bàn giao/thu giữ được lập bởi Bên nhận bảo đảm
         </item>
         <item>
         <title>Hợp đồng tín dụng vô hiệu</title>
-        <link>https://khanginfo.github.io/posts/invalid-loan-contract/</link>
+        <link>//localhost:1313/posts/invalid-loan-contract/</link>
         <pubDate>Thu, 02 Oct 2025 05:18:47 +0700</pubDate>
         
-        <guid>https://khanginfo.github.io/posts/invalid-loan-contract/</guid>
+        <guid>//localhost:1313/posts/invalid-loan-contract/</guid>
         <description>&lt;p&gt;Một vụ việc đang thu hút sự chú ý của giới pháp lý và tài chính là trường hợp hợp đồng tín dụng giữa VPBank và khách vay bị tuyên vô hiệu. Cụ thể là TAND Khu vực 7 (TP HCM) đã bác yêu cầu khởi kiện của VPBank, tuyên hợp đồng tín dụng và văn bản thỏa thuận mua biệt thự đều vô hiệu.&lt;/p&gt;
 &lt;p&gt;Tòa xác định:&lt;/p&gt;
 &lt;ul&gt;
