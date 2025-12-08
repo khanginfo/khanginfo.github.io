@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
     <head><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Hành trình xây dựng nền tư pháp số Việt Nam">
-<title>Công nghệ pháp lý: Đồ thị tri thức (Knowledge Graph)</title>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Gỡ thế khó xử cho DPO">
+<title>Dữ liệu cá nhân - Quyết định từ công ty mẹ</title>
 
-<link rel='canonical' href='../../posts/do-thi-tri-thuc/'>
+<link rel='canonical' href='../../posts/personal-data-cross-border/'>
 
-<link rel="stylesheet" href="../../scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="Công nghệ pháp lý: Đồ thị tri thức (Knowledge Graph)">
-<meta property='og:description' content="Hành trình xây dựng nền tư pháp số Việt Nam">
-<meta property='og:url' content='/posts/do-thi-tri-thuc/'>
+<link rel="stylesheet" href="../../scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="Dữ liệu cá nhân - Quyết định từ công ty mẹ">
+<meta property='og:description' content="Gỡ thế khó xử cho DPO">
+<meta property='og:url' content='/posts/personal-data-cross-border/'>
 <meta property='og:site_name' content='Khang Nguyen'>
-<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='notes' /><meta property='article:published_time' content='2025-11-06T19:15:08&#43;07:00'/><meta property='article:modified_time' content='2025-11-06T19:15:08&#43;07:00'/>
-<meta name="twitter:title" content="Công nghệ pháp lý: Đồ thị tri thức (Knowledge Graph)">
-<meta name="twitter:description" content="Hành trình xây dựng nền tư pháp số Việt Nam">
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='notes' /><meta property='article:published_time' content='2025-12-08T20:14:59&#43;07:00'/><meta property='article:modified_time' content='2025-12-08T20:14:59&#43;07:00'/>
+<meta name="twitter:title" content="Dữ liệu cá nhân - Quyết định từ công ty mẹ">
+<meta name="twitter:description" content="Gỡ thế khó xử cho DPO">
     </head>
     <body class="
     article-page
@@ -121,12 +121,12 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="../../posts/do-thi-tri-thuc/">Công nghệ pháp lý: Đồ thị tri thức (Knowledge Graph)</a>
+            <a href="../../posts/personal-data-cross-border/">Dữ liệu cá nhân - Quyết định từ công ty mẹ</a>
         </h2>
     
         
         <h3 class="article-subtitle">
-            Hành trình xây dựng nền tư pháp số Việt Nam
+            Gỡ thế khó xử cho DPO
         </h3>
         
     </div>
@@ -147,7 +147,7 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Nov 06, 2025</time>
+                <time class="article-time--published">Dec 08, 2025</time>
             </div>
         
 
@@ -177,18 +177,26 @@
     <section class="article-content">
     
     
-    <p>Sự tiến bộ của công nghệ, đặc biệt là AI, chủ yếu tập trung vào lĩnh vực y tế, tài chính. Các công ty công nghệ có vẻ như ít quan tâm đến phát triển các sản phẩm, dịch vụ công nghệ phục vụ pháp lý. Trên thế giới có một số nhà cung cấp như Harvey, Lexis,  nhưng có lẽ còn lâu họ mói khai thác thị trường Việt Nam. Việt Nam có ailuat.luatvietnam.vn (chỉ dừng ở mức cơ bản).</p>
-<p>Wikipedia có bài về Legal Tech: Ngành công nghiệp pháp lý được coi là <strong>bảo thủ</strong> và <strong>truyền thống</strong>, với Law Technology Today lưu ý rằng &ldquo;<strong>trong 50 năm, trải nghiệm của khách hàng tại hầu hết các công ty luật hầu như không thay đổi</strong>&rdquo;. Qua tiếp xúc với những người làm công tác pháp lý, tôi cũng thấy rằng có ít người quan tâm đến công nghệ và ứng dụng công nghệ.</p>
-<p>&ldquo;<strong>Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs</strong>&rdquo; là một trong số hiếm hoi các bài nghiên cứu về công nghệ pháp lý tại Việt Nam, mang đến gợi ý cho các nhà quản lý pháp chế.</p>
-<p>Nội dung bài viết trình bày một phương pháp xây dựng đồ thị tri thức (knowledge graph) cho các tài liệu về vụ án và luật pháp Việt Nam, nhằm mục đích tổ chức thông tin pháp lý một cách hiệu quả và cải thiện các tác vụ hạ nguồn như xác định luật liên quan. Quá trình này bao gồm ba bước chính: thu thập dữ liệu, trích xuất thông tin để xác định các thực thể như vụ án, tòa án, lĩnh vực và luật, và cuối cùng là triển khai đồ thị tri thức dưới dạng đồ thị phức tạp (heterogeneous graph).</p>
-<p>Tác giả tạo ra 4 loại thực thể (nút): Nút Vụ án (Case node), Nút Lĩnh vực (Domain node), Nút Tòa án (Court node), Nút Luật (Law node). Tác giả cũng định nghĩa 3 loại quan hệ: Decide (Tòa án-Vụ án), Belong-to (Vụ án-Lĩnh vực), và Based-on (Vụ án-Luật). Trong đó, quan hệ Based-on chỉ ra mối quan hệ giữa một phán quyết hoặc quyết định cụ thể đã tham chiếu đến một bộ luật/bộ luật để hỗ trợ phán quyết.</p>
-<p>Bài lưu:</p>
+    <p>Nhiều doanh nghiệp có vốn đầu tư nước ngoài (FDI) hoạt động tại Việt Nam thường gặp tình huống tế nhị và khó xử:</p>
 <ul>
-<li><a class="link" href="2309.09069v1.pdf" >Bài tham chiếu</a></li>
-<li><a class="link" href="https://arxiv.org/pdf/2309.09069"  target="_blank" rel="noopener"
-    >Trang arxiv</a></li>
-<li><a class="link" href="https://vi.wikipedia.org/wiki/C%c3%b4ng_ngh%e1%bb%87_ph%c3%a1p_l%c3%bd"  target="_blank" rel="noopener"
-    >Wikipeida</a></li>
+<li>Công ty mẹ yêu cầu truy cập dữ liệu cá nhân để phục vụ quản trị.</li>
+<li>Viên chức cao cấp nước ngoài làm việc tại Việt Nam đòi hỏi quyền đối với dữ liệu cá nhân trên mức cần thiết.</li>
+</ul>
+<p>Khi đó, người phụ trách bảo vệ dữ liệu cá nhân (DPO) của công ty con bị đặt vào thế khó: Không đủ thẩm quyền để ngăn chặn việc truy xuất hoặc chuyển dữ liệu trái phép.</p>
+<p>Một giải pháp là Công ty mẹ ban hành quyết định chính thức về việc kiểm soát chuyển dữ liệu xuyên biên giới từ Việt Nam, làm cơ sở pháp lý nội bộ để những người phụ trách tại Việt Nam thực thi, và cũng để xuất trình cho cơ quan nhà nước Việt Nam khi có yêu cầu.</p>
+<p>Việc xây dựng quyết định như vậy đòi hỏi phải chặt chẽ, đầy đủ, phòng tránh các cách thức &ldquo;lách&rdquo; quy định đẻ chuyển dữ liệu cá nhân ra nước ngoài, cụ thể là cần xử lý các vấn đề:</p>
+<ul>
+<li>Tách biệt hệ thống</li>
+<li>Quản lý quyền truy cập</li>
+<li>Xuất dữ liệu / tải về / sao chép</li>
+<li>Sử dung phương tiện điên tử (laptop, điện thoại)</li>
+<li>Khử dữ liệu cá nhân</li>
+<li>Các bảo đảm thực thi</li>
+</ul>
+<p>DPO có thể trình ban hành Quyết định về kiểm soát dữ liệu cá nhân xuyên biên giới. Dưới đây là một mẫu tham khảo:</p>
+<ul>
+<li><a class="link" href="Quyet-dinh-cong-ty-me-du-lieu-ca-nhan-xuyen-bien-gioi.docx" >Quyết định về kiểm soát dữ liệu cá nhân xuyên biên giới - doc</a></li>
+<li><a class="link" href="Quyet-dinh-cong-ty-me-du-lieu-ca-nhan-xuyen-bien-gioi.pdf" >Quyết định về kiểm soát dữ liệu cá nhân xuyên biên giới - pdf</a></li>
 </ul>
 
 </section>
@@ -220,6 +228,45 @@
             
                 
 <article class="">
+    <a href="../../posts/legal-draft/25-luat-so-huu-tri-tue/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Dự thảo sủa đổi Luật sở hữu trí tuệ</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="../../posts/legal-draft/25-xu-phat-tien-te/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Dự thảo Nghị định xử phạt trong lĩnh vực tiền tệ, ngân hàng</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="../../posts/do-thi-tri-thuc/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Công nghệ pháp lý: Đồ thị tri thức (Knowledge Graph)</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
     <a href="../../posts/rui-ro-moi-truong/">
         
         
@@ -239,45 +286,6 @@
 
         <div class="article-details">
             <h2 class="article-title">&#34;Bốc phốt&#34; công ty bất động sản, ngân hàng phát hành trái phiếu</h2>
-        </div>
-    </a>
-</article>
-
-            
-                
-<article class="">
-    <a href="../../posts/ngay_luat_su_10_10/">
-        
-        
-
-        <div class="article-details">
-            <h2 class="article-title">Nghề luật sư – hành trình của công lý, nhân tâm và dũng khí</h2>
-        </div>
-    </a>
-</article>
-
-            
-                
-<article class="">
-    <a href="../../posts/auto-approval/">
-        
-        
-
-        <div class="article-details">
-            <h2 class="article-title">Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ</h2>
-        </div>
-    </a>
-</article>
-
-            
-                
-<article class="">
-    <a href="../../posts/legal-draft/25-nd-thu-giu-tai-san/">
-        
-        
-
-        <div class="article-details">
-            <h2 class="article-title">Quyền thu giữ tài sản bảo đảm</h2>
         </div>
     </a>
 </article>
