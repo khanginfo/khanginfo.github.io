@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tech on Khang Nguyen</title>
+        <link>/tags/tech/</link>
+        <description>Recent content in Tech on Khang Nguyen</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 14 Dec 2025 19:10:30 +0700</lastBuildDate><atom:link href="/tags/tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sử dụng Machine Learning khử dữ liệu cá nhân</title>
+        <link>/posts/deidentify_vi/</link>
+        <pubDate>Sun, 14 Dec 2025 19:10:30 +0700</pubDate>
+        
+        <guid>/posts/deidentify_vi/</guid>
+        <description>&lt;p&gt;Trong thời đại AI chat quá tiện dụng, vấn nạn khó tránh khỏi là đưa các dữ liệu định danh cá nhân, tổ chức, gia tăng rủi ro dữ liệu rò rỉ, không tuân thủ pháp luật, tăng nguy cơ lừa đảo.&lt;/p&gt;
+&lt;p&gt;Microsoft có cung cấp một bộ SDK &lt;a class=&#34;link&#34; href=&#34;https://microsoft.github.io/presidio/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Presidio&lt;/a&gt;. Tuy nhiên, hàng của hãng thì chỉ có thể dùng ngay với tiếng Anh. Tiếng Việt đòi hỏi phải tìm thêm các giải pháp khác.&lt;/p&gt;
+&lt;p&gt;Giải pháp xử lý ngôn ngữ tự nhiên nguồn mở cho tiếng Việt không có nhiều lắm. Sau thời gian mầy mò, cuối cùng đã đã dựng được giải pháp làm sạch dữ liệu, khử dữ liệu dữ liệu cá nhân bằng Presidio SDK, sử dụng Pattern kết hợp với Vietnamese spaCy model của &lt;a class=&#34;link&#34; href=&#34;https://gitlab.com/trungtv/vi_spacy/-/raw/master/packages/vi_core_news_lg-3.6.0/dist/vi_core_news_lg-3.6.0.tar.gz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;trungtv&lt;/a&gt; , và Transfomers model &lt;a class=&#34;link&#34; href=&#34;https://huggingface.co/NlpHUST/ner-vietnamese-electra-base&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NlpHUST/ner-vietnamese-electra-base&lt;/a&gt; cho kết quả khá tốt.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../posts/deidentify_vi/Screenshot-2025-12-14.png&#34;
+	width=&#34;1318&#34;
+	height=&#34;1032&#34;
+	srcset=&#34;../../posts/deidentify_vi/Screenshot-2025-12-14_hu13335917263933872851.png 480w, ../../posts/deidentify_vi/Screenshot-2025-12-14_hu12876888331460609974.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;127&#34;
+		data-flex-basis=&#34;306px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;một-số-tính-năng&#34;&gt;Một số tính năng:
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Nhận diện căn cước, chứng minh nhân dân&lt;/li&gt;
+&lt;li&gt;Nhận diện mã số thuế, mã số doanh nghiệp&lt;/li&gt;
+&lt;li&gt;Nhận diện thẻ tín dụng&lt;/li&gt;
+&lt;li&gt;Nhận diện điện thoại&lt;/li&gt;
+&lt;li&gt;Nhận điện email&lt;/li&gt;
+&lt;li&gt;Nhận diện tên tổ chức&lt;/li&gt;
+&lt;li&gt;Nhận diện tên người&lt;/li&gt;
+&lt;li&gt;Nhận diện ngày sinh&lt;/li&gt;
+&lt;li&gt;Nhận diện địa chỉ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Đây là vấn đề cơ bản trong luồng làm việc với các công cụ AI, nhưng không hiểu sao VN vẫn không có sẵn các công cụ này. Nếu mọi người có quan tâm thì cùng trao đổi.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
