@@ -6,15 +6,41 @@
         <description>Recent content in Blog on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 18 Dec 2025 21:47:33 +0700</lastBuildDate><atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 12 Jan 2026 20:31:23 +0700</lastBuildDate><atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sống sót trong kỷ nguyên AI</title>
+        <link>/posts/vat-kiet-ai/</link>
+        <pubDate>Mon, 12 Jan 2026 20:31:23 +0700</pubDate>
+        
+        <guid>/posts/vat-kiet-ai/</guid>
+        <description>&lt;p&gt;Chưa bao giờ sức mạnh trí tuệ lại rẻ, dồi dào như hiện nay. Chỉ cần một tài khoản AI, chúng ta có thể tiếp cận năng lực tương đương hàng trăm chuyên gia: luật sư, lập trình viên, bác sĩ, nhà phân tích tài chính, copywriter, nhà thiết kế, nhà nghiên cứu.&lt;/p&gt;
+&lt;p&gt;Phần lớn người dùng AI hiện nay chỉ gõ một câu hỏi mơ hồ, nhận một câu trả lời trung bình và thỏa mãn với câu hỏi đó. Chúng ta lúng túng không biết định hướng nghề nghiệp và lo sợ một ngày AI sẽ thay thế họ.&lt;/p&gt;
+&lt;p&gt;Có một số bài viết khá nhảm về việc là chuyển hướng sang nghề nghiệp tay chân để AI không thay thế. Nghe có vẻ thực tế, nhưng dễ rơi vào một dạng “né cuộc chơi” hơn là “nâng cấp năng lực”.&lt;/p&gt;
+&lt;p&gt;Một hướng đi mà chưa được đề cập đó là hãy rèn luyện &lt;strong&gt;kỹ năng vắt kiệt năng lực của các hệ thống trí tuệ nhân tạo&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Khi bạn vắt kiệt năng lực của các hệ thống trí tuệ nhân tạo, có thể bạn cũng không thông minh hơn AI, nhưng bạn duy trì khoảng cách với người chỉ biết AI thông thường, bạn sẽ có cơ may sống sót cao hơn trong kỷ nguyên AI.&lt;/p&gt;
+&lt;p&gt;Vắt kiệt năng lực AI là như thế nào? Đơn giản là bạn có thể yêu cầu AI trả lời câu hỏi đó (bạn sẽ nhận được câu trả lời chung chung nếu bạn không khai thác đến tầng sâu của nó). Hai (02) gợi ý quan trọng sau có thể giúp bạn khai thác AI:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Dùng AI theo vòng lặp: tạo → phản biện → kiểm chứng → tối ưu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI được huấn luyện để tối đa hóa sự phù hợp trung bình. Những câu trả lời đầu tiên của AI luôn tầm thường. Bạn hãy phản biện nó, yêu cầu nó kiểm chứng, yêu cầu nó tối ưu, ví dụ:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hãy liệt kê tất cả các giả định ẩn trong phương án trên. Giả định nào nếu sai sẽ làm toàn bộ kế hoạch sụp đổ?&lt;/li&gt;
+&lt;li&gt;Hãy tạo 20 kịch bản thực tế khiến kế hoạch này thất bại. Bao gồm cả lỗi con người, pháp lý, chính trị nội bộ, và hành vi khách hàng.&lt;/li&gt;
+&lt;li&gt;Hãy đóng vai đối thủ. Nếu muốn phá hoặc vượt mặt mô hình này, bạn sẽ làm thế nào?&lt;/li&gt;
+&lt;li&gt;Hãy tạo một bộ kiểm thử gồm 30 tình huống. Nếu phương án không vượt qua thì xem như thất bại.&lt;/li&gt;
+&lt;li&gt;Hãy sửa phương án sao cho vượt qua toàn bộ các phản biện và bài kiểm tra trên, với chi phí thấp nhất&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Điều phối AI (AI Orchestration)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI có nhiều dịch vụ với nhiều model và nhiều quy tắc định tuyến, vai trò khác nhau để ra kết quả khác nhau. AI orchestration là khả năng điều khiển nhiều trí tuệ, nhiều vai trò, nhiều vòng suy nghĩ để tạo ra kết quả mà một AI đơn lẻ không thể tạo ra.&lt;/p&gt;
+&lt;p&gt;Ví dụ thay vì cố gắng tạo ra một con Chatbot biết tuốt, hãy tạo ra một hệ sinh thái các Agent chuyên biệt và dùng Orchestrator để quản lý chúng.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Quản lý rủi ro pháp lý: Phòng ngừa bị xử phạt vi phạm đối với Công ty tài chính</title>
         <link>/posts/xu-phat-vietcredit-evf/</link>
         <pubDate>Thu, 18 Dec 2025 21:47:33 +0700</pubDate>
         
         <guid>/posts/xu-phat-vietcredit-evf/</guid>
         <description>&lt;p&gt;Trong năm 2025, Ngân hàng Nhà nước Việt Nam (NHNN) đã công bố các kết luận thanh tra và xử phạt hành chính đối với VietCredit và EVN Finance. Dù hoạt động trong các mảng khác nhau, cả hai đều cho thấy những lỗ hổng chung trong quản trị rủi ro và tín dụng, dẫn tới bị xử phạt hàng trăm triệu đồng. Đây là những case đáng lưu tâm để các tổ chức khác nhìn lại hoạt động quản trị – tín dụng của mình.&lt;/p&gt;
-&lt;h2 id=&#34;1-danh-mục-các-loại-vi-phạm&#34;&gt;1. Danh mục các loại vi phạm
-&lt;/h2&gt;&lt;table&gt;
+&lt;p&gt;Dưới đây là bản tổng hợp danh mục các vấn đề tồn tại, vi phạm để thuận lợi cho việc rà soát tại tổ chức của mình&lt;/p&gt;
+&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;&lt;strong&gt;STT&lt;/strong&gt;&lt;/th&gt;
