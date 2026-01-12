@@ -1,69 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Draft on Khang Nguyen</title>
-        <link>/categories/draft/</link>
-        <description>Recent content in Draft on Khang Nguyen</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Sun, 23 Nov 2025 20:24:40 +0700</lastBuildDate><atom:link href="/categories/draft/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Dự thảo sủa đổi Luật sở hữu trí tuệ</title>
-        <link>/posts/legal-draft/25-luat-so-huu-tri-tue/</link>
-        <pubDate>Sun, 23 Nov 2025 20:24:40 +0700</pubDate>
-        
-        <guid>/posts/legal-draft/25-luat-so-huu-tri-tue/</guid>
-        <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo sửa đổi Luật sở hữu trí tuệ 2025&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;qh-du-thao-6.pdf&#34; &gt;Dự thảo 6 - Quốc hội&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;qh-to-trinh.pdf&#34; &gt;Tờ trình Quốc hội&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;3-du-thao-luat.pdf&#34; &gt;Dự thảo Luật - Bộ KH&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;2-du-thao-to-trinh.pdf&#34; &gt;Dự thảo Tờ trình - Bộ KH&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;4-ban-so-sanh-thuyet-minh-theo-du-thao-luat.pdf&#34; &gt;Bảng so sánh - Bộ KH&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;5-bc-ra-soat-chu-truong.pdf&#34; &gt;Báo cáo rà soát - Bộ KH&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        </item>
-        <item>
-        <title>Dự thảo Nghị định xử phạt trong lĩnh vực tiền tệ, ngân hàng</title>
-        <link>/posts/legal-draft/25-xu-phat-tien-te/</link>
-        <pubDate>Tue, 11 Nov 2025 21:36:32 +0700</pubDate>
-        
-        <guid>/posts/legal-draft/25-xu-phat-tien-te/</guid>
-        <description>&lt;p&gt;&lt;strong&gt;Nguồn Bộ tư pháp:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/1-Du-thao-TTr-NHNN.pdf&#34; &gt;Dự thảo Tờ trình của Ngân hàng Nhà nước&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/2-Du-thao-Nghi-dinh-27.06.pdf&#34; &gt;Dự thảo Nghị định 27.06&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/3-Ban-so-sanh-thuyet-minh-30.06.pdf&#34; &gt;Bản so sánh thuyết minh 30.06&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/4-Bao-cao-ra-soat-phap-luat.pdf&#34; &gt;Báo cáo rà soát pháp luật&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/5-Bao-cao-tong-ket.pdf&#34; &gt;Báo cáo tổng kết&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/6-Bao-cao-danh-gia-tac-dong.pdf&#34; &gt;Báo cáo đánh giá tác động&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/7-Phu-luc-bang-che-tai-xu-phat.pdf&#34; &gt;Phụ lục bảng chế tài xử phạt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/8-Tong-hop-y-kien-Bo-Nganh.pdf&#34; &gt;Tổng hợp ý kiến Bộ Ngành&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/9-Tong-hop-y-kien-TCTD-14.05.2025.pdf&#34; &gt;Tổng hợp ý kiến TCTD 14.05.2025&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/10-Danh-sach-ra-soat-VBPL-dinh-kem.pdf&#34; &gt;Danh sách rà soát VBPL đính kèm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/Source-MoJ.zip&#34; &gt;Bộ tài liệu&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Nguồn Ngân hàng Nhà nước:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/1-Tong-hop-gop-y-Bo-Nganh.pdf&#34; &gt;Tổng hợp ý kiến Bộ Ngành&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/2-Tong-hop-gop-y-TCTD.pdf&#34; &gt;Tổng hợp ý kiến TCTD 14.05.2025&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/3-Du-thao-Nghi-dinh.pdf&#34; &gt;Dự thảo Nghị định&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/Source-SBV.rar&#34; &gt;Bộ tài liệu&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Draft on Khang Nguyen</title><link>/categories/draft/</link><description>Recent content in Draft on Khang Nguyen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 23 Nov 2025 20:24:40 +0700</lastBuildDate><atom:link href="/categories/draft/index.xml" rel="self" type="application/rss+xml"/><item><title>Dự thảo sủa đổi Luật sở hữu trí tuệ</title><link>/posts/legal-draft/25-luat-so-huu-tri-tue/</link><pubDate>Sun, 23 Nov 2025 20:24:40 +0700</pubDate><guid>/posts/legal-draft/25-luat-so-huu-tri-tue/</guid><description>&lt;p>Bộ sưu tập tài liệu về dự thảo sửa đổi Luật sở hữu trí tuệ 2025&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a class="link" href="qh-du-thao-6.pdf" >Dự thảo 6 - Quốc hội&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="qh-to-trinh.pdf" >Tờ trình Quốc hội&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="3-du-thao-luat.pdf" >Dự thảo Luật - Bộ KH&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="2-du-thao-to-trinh.pdf" >Dự thảo Tờ trình - Bộ KH&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="4-ban-so-sanh-thuyet-minh-theo-du-thao-luat.pdf" >Bảng so sánh - Bộ KH&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="5-bc-ra-soat-chu-truong.pdf" >Báo cáo rà soát - Bộ KH&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Dự thảo Nghị định xử phạt trong lĩnh vực tiền tệ, ngân hàng</title><link>/posts/legal-draft/25-xu-phat-tien-te/</link><pubDate>Tue, 11 Nov 2025 21:36:32 +0700</pubDate><guid>/posts/legal-draft/25-xu-phat-tien-te/</guid><description>&lt;p>&lt;strong>Nguồn Bộ tư pháp:&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>&lt;a class="link" href="Source-MoJ/1-Du-thao-TTr-NHNN.pdf" >Dự thảo Tờ trình của Ngân hàng Nhà nước&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-MoJ/2-Du-thao-Nghi-dinh-27.06.pdf" >Dự thảo Nghị định 27.06&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-MoJ/3-Ban-so-sanh-thuyet-minh-30.06.pdf" >Bản so sánh thuyết minh 30.06&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-MoJ/4-Bao-cao-ra-soat-phap-luat.pdf" >Báo cáo rà soát pháp luật&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-MoJ/5-Bao-cao-tong-ket.pdf" >Báo cáo tổng kết&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-MoJ/6-Bao-cao-danh-gia-tac-dong.pdf" >Báo cáo đánh giá tác động&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-MoJ/7-Phu-luc-bang-che-tai-xu-phat.pdf" >Phụ lục bảng chế tài xử phạt&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-MoJ/8-Tong-hop-y-kien-Bo-Nganh.pdf" >Tổng hợp ý kiến Bộ Ngành&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-MoJ/9-Tong-hop-y-kien-TCTD-14.05.2025.pdf" >Tổng hợp ý kiến TCTD 14.05.2025&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-MoJ/10-Danh-sach-ra-soat-VBPL-dinh-kem.pdf" >Danh sách rà soát VBPL đính kèm&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-MoJ/Source-MoJ.zip" >Bộ tài liệu&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Nguồn Ngân hàng Nhà nước:&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>&lt;a class="link" href="Source-SBV/1-Tong-hop-gop-y-Bo-Nganh.pdf" >Tổng hợp ý kiến Bộ Ngành&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-SBV/2-Tong-hop-gop-y-TCTD.pdf" >Tổng hợp ý kiến TCTD 14.05.2025&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-SBV/3-Du-thao-Nghi-dinh.pdf" >Dự thảo Nghị định&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="Source-SBV/Source-SBV.rar" >Bộ tài liệu&lt;/a>&lt;/li>
+&lt;/ol></description></item></channel></rss>
