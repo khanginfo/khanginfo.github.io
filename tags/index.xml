@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Khang Nguyen</title><link>/tags/</link><description>Recent content in Tags on Khang Nguyen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Jan 2026 20:31:23 +0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Notes</title><link>/tags/notes/</link><pubDate>Mon, 12 Jan 2026 20:31:23 +0700</pubDate><guid>/tags/notes/</guid><description/></item><item><title>Tech</title><link>/tags/tech/</link><pubDate>Sun, 14 Dec 2025 19:10:30 +0700</pubDate><guid>/tags/tech/</guid><description/></item><item><title>Getting-Started</title><link>/tags/getting-started/</link><pubDate>Thu, 02 Oct 2025 05:18:47 +0700</pubDate><guid>/tags/getting-started/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Khang Nguyen</title>
+        <link>/tags/</link>
+        <description>Recent content in Tags on Khang Nguyen</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 12 Jan 2026 20:31:23 +0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Notes</title>
+        <link>/tags/notes/</link>
+        <pubDate>Mon, 12 Jan 2026 20:31:23 +0700</pubDate>
+        
+        <guid>/tags/notes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tech</title>
+        <link>/tags/tech/</link>
+        <pubDate>Sun, 14 Dec 2025 19:10:30 +0700</pubDate>
+        
+        <guid>/tags/tech/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Getting-Started</title>
+        <link>/tags/getting-started/</link>
+        <pubDate>Thu, 02 Oct 2025 05:18:47 +0700</pubDate>
+        
+        <guid>/tags/getting-started/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

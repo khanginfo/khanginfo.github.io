@@ -1,535 +1,675 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Khang Nguyen</title><link>/</link><description>Recent content on Khang Nguyen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Jan 2026 20:31:23 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Sống sót trong kỷ nguyên AI</title><link>/posts/vat-kiet-ai/</link><pubDate>Mon, 12 Jan 2026 20:31:23 +0700</pubDate><guid>/posts/vat-kiet-ai/</guid><description>&lt;p>Chưa bao giờ sức mạnh trí tuệ lại rẻ, dồi dào như hiện nay. Chỉ cần một tài khoản AI, chúng ta có thể tiếp cận năng lực tương đương hàng trăm chuyên gia: luật sư, lập trình viên, bác sĩ, nhà phân tích tài chính, copywriter, nhà thiết kế, nhà nghiên cứu.&lt;/p>
-&lt;p>Phần lớn người dùng AI hiện nay chỉ gõ một câu hỏi mơ hồ, nhận một câu trả lời trung bình và thỏa mãn với câu hỏi đó. Họ lúng túng không biết định hướng nghề nghiệp và lo sợ một ngày AI sẽ thay thế họ.&lt;/p>
-&lt;p>Có một số bài viết khá chán về việc là chuyển hướng sang nghề nghiệp tay chân để AI không thay thế. Nghe có vẻ thực tế, nhưng dễ rơi vào một dạng “né cuộc chơi” hơn là “nâng cấp năng lực”.&lt;/p>
-&lt;p>Một hướng đi mà chưa được đề cập đó là hãy rèn luyện &lt;strong>kỹ năng vắt kiệt năng lực của các hệ thống trí tuệ nhân tạo&lt;/strong>.&lt;/p>
-&lt;p>Khi bạn vắt kiệt năng lực của các hệ thống trí tuệ nhân tạo, có thể bạn cũng không thông minh hơn AI, nhưng bạn duy trì khoảng cách với người chỉ biết AI thông thường, bạn sẽ có cơ may sống sót cao hơn trong kỷ nguyên AI.&lt;/p>
-&lt;p>Vắt kiệt năng lực AI là như thế nào? Đơn giản là bạn có thể yêu cầu AI trả lời câu hỏi đó (bạn sẽ nhận được câu trả lời chung chung nếu bạn không khai thác đến tầng sâu của nó). Hai (02) gợi ý quan trọng sau có thể giúp bạn khai thác AI:&lt;/p>
-&lt;p>&lt;strong>1. Dùng AI theo vòng lặp: tạo → phản biện → kiểm chứng → tối ưu&lt;/strong>&lt;/p>
-&lt;p>AI được huấn luyện để tối đa hóa sự phù hợp trung bình. Những câu trả lời đầu tiên của AI luôn tầm thường. Bạn hãy phản biện nó, yêu cầu nó kiểm chứng, yêu cầu nó tối ưu, ví dụ:&lt;/p>
-&lt;ul>
-&lt;li>Hãy liệt kê tất cả các giả định ẩn trong phương án trên. Giả định nào nếu sai sẽ làm toàn bộ kế hoạch sụp đổ?&lt;/li>
-&lt;li>Hãy tạo 20 kịch bản thực tế khiến kế hoạch này thất bại. Bao gồm cả lỗi con người, pháp lý, chính trị nội bộ, và hành vi khách hàng.&lt;/li>
-&lt;li>Hãy đóng vai đối thủ. Nếu muốn phá hoặc vượt mặt mô hình này, bạn sẽ làm thế nào?&lt;/li>
-&lt;li>Hãy tạo một bộ kiểm thử gồm 30 tình huống. Nếu phương án không vượt qua thì xem như thất bại.&lt;/li>
-&lt;li>Hãy sửa phương án sao cho vượt qua toàn bộ các phản biện và bài kiểm tra trên, với chi phí thấp nhất&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>2. Điều phối AI (AI Orchestration)&lt;/strong>&lt;/p>
-&lt;p>AI có nhiều dịch vụ với nhiều model và nhiều quy tắc định tuyến, vai trò khác nhau để ra kết quả khác nhau. AI orchestration là khả năng điều khiển nhiều trí tuệ, nhiều vai trò, nhiều vòng suy nghĩ để tạo ra kết quả mà một AI đơn lẻ không thể tạo ra.&lt;/p>
-&lt;p>Ví dụ thay vì cố gắng tạo ra một con Chatbot biết tuốt, hãy tạo ra một hệ sinh thái các Agent chuyên biệt và dùng Orchestrator để quản lý chúng.&lt;/p></description></item><item><title>Quản lý rủi ro pháp lý: Phòng ngừa bị xử phạt vi phạm đối với Công ty tài chính</title><link>/posts/xu-phat-vietcredit-evf/</link><pubDate>Thu, 18 Dec 2025 21:47:33 +0700</pubDate><guid>/posts/xu-phat-vietcredit-evf/</guid><description>&lt;p>Trong năm 2025, Ngân hàng Nhà nước Việt Nam (NHNN) đã công bố các kết luận thanh tra và xử phạt hành chính đối với VietCredit và EVN Finance. Dù hoạt động trong các mảng khác nhau, cả hai đều cho thấy những lỗ hổng chung trong quản trị rủi ro và tín dụng, dẫn tới bị xử phạt hàng trăm triệu đồng. Đây là những case đáng lưu tâm để các tổ chức khác nhìn lại hoạt động quản trị – tín dụng của mình.&lt;/p>
-&lt;p>Dưới đây là bản tổng hợp danh mục các vấn đề tồn tại, vi phạm để thuận lợi cho việc rà soát tại tổ chức của mình&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>&lt;strong>STT&lt;/strong>&lt;/th>
-&lt;th>&lt;strong>Tồn tại&lt;/strong>&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>&lt;strong>A&lt;/strong>&lt;/td>
-&lt;td>&lt;strong>Quản trị, điều hành của VietCredit&lt;/strong>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1&lt;/td>
-&lt;td>HĐQT chưa ban hành Nghị quyết sửa đổi, bổ sung phân công nhiệm vụ cho từng thành viên sau khi có quyết định chấm dứt hoạt động, giải thể một số Ủy ban/Hội đồng trực thuộc HĐQT.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>2&lt;/td>
-&lt;td>Báo cáo đánh giá định kỳ năm 2023 và 2024 của HĐQT chưa thực hiện đánh giá độc lập hiệu quả làm việc của Tổng Giám đốc theo quy định; báo cáo hoạt động năm 2024 không có nội dung đánh giá cụ thể hiệu quả làm việc của từng thành viên HĐQT (yêu cầu tại khoản 11 Điều 70, 71 Luật các TCTD)&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>3&lt;/td>
-&lt;td>Báo cáo tự đánh giá hoạt động của BKS và từng thành viên BKS không có nội dung kết quả giám sát định kỳ hàng năm về thông qua và thực hiện dự án đầu tư, mua, bán tài sản cố định, hợp đồng, giao dịch khác của Công ty&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>4&lt;/td>
-&lt;td>Biên bản họp của Ủy ban Quản lý rủi ro, đặc biệt đối với các cuộc họp có nhiều nội dung, không có bảng tổng hợp kết quả biểu quyết thống nhất và không thống nhất của từng thành viên. Sau khi 01 thành viên Ủy ban QLRR chấm dứt Hợp đồng lao động, HĐQT chưa ban hành quyết định sửa đổi, bổ sung về nhân sự của Ủy ban QLRR&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>5&lt;/td>
-&lt;td>HĐQT và Tổng Giám đốc chưa thực hiện hiệu quả nhiệm vụ kiểm tra, giám sát, chỉ đạo, do đó còn để xảy ra một số tồn tại, vi phạm trong hoạt động như:&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>5.1&lt;/td>
-&lt;td>Ban hành quy định nội bộ về phân loại tài sản có, trích lập dự phòng rủi ro và sử dụng dự phòng để xử lý rủi ro;&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>5.2&lt;/td>
-&lt;td>Về phân loại nợ, cam kết ngoại bảng, trích lập dự phòng rủi ro và sử dụng dự phòng để xử lý rủi ro&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>5.3&lt;/td>
-&lt;td>Mẫu Hợp đồng tín dụng, bản điều khoản/điều kiện giao dịch chung cho vay/phát hành thẻ có nội dung không đúng, không đầy đủ theo quy định háp luật.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>5.4&lt;/td>
-&lt;td>Gửi quy định nội bộ không đúng thời hạn&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>5.5&lt;/td>
-&lt;td>Kế hoạch kiểm toán nội bộ gửi NHNN có nội dụng về mục tiêu kiểm toán, nguồn lực kiểm toán&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;strong>B&lt;/strong>&lt;/td>
-&lt;td>&lt;strong>Hoạt động cấp tín dụng của VietCredit&lt;/strong>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>6&lt;/td>
-&lt;td>Hoạt động cấp tín dụng của VietCredit thông qua các nền tảng số do bên thứ ba cung ứng còn có các tồn tại:&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>6.1&lt;/td>
-&lt;td>Vi phạm trong khâu thẩm định, quyết định cho vay;&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>6.2&lt;/td>
-&lt;td>Vi phạm về hợp đồng, thỏa thuận cấp tín dụng có nội dung không đầy đủ về biện pháp đôn đốc, thu hồi nợ và thời hạn xử lý đề nghị tra soát, khiếu nại;&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>6.3&lt;/td>
-&lt;td>Vi phạm về kiểm tra giám sát sau cho vay&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>6.4&lt;/td>
-&lt;td>Vi phạm về thời điểm trích lập dự phòng rủi ro&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>6.5&lt;/td>
-&lt;td>Vi phạm về thông báo chuyển nợ quá hạn khi không thông báo đầy đủ lãi suất áp dụng đối với dư nợ gốc bị quá hạn&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>7&lt;/td>
-&lt;td>Các biện pháp kiểm tra, giám sát sau cho vay (qua các hình thức: cuộc gọi tự động TTS, Email, Telecall) đối với khách hàng không thực sự hiệu quả khi không xác định được mục đích sử dụng vốn vay của khách hàng.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>8&lt;/td>
-&lt;td>Việc tham chiếu CIC trên các kênh sản phẩm S37 và R21 nhưng chưa tham chiếu CIC trên các kênh sản phẩm B11T về các nghĩa vụ nợ của khách hàng tại các tổ chức tín dụng khác nhằm có cơ sở xác định về năng lực tài chính, cũng như khả năng trả nợ của khách hàng, do đó có thể phát sinh các rủi ro tiềm ẩn về khả năng trả nợ trong tương lai của khách hàng khi chưa thu thập đầy đủ thông tin về khách hàng.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>9&lt;/td>
-&lt;td>Về hoạt động cấp tín dụng qua thẻ vay, VietCredit chưa có biện pháp tích cực thông qua bên thứ ba (trung gian thanh toán/ngân hàng đại lý) nhằm kiểm tra, kiểm soát chặt chẽ và/hoặc hạn chế giao dịch rút tiền qua ATM ngay sau khi khoản vay được kích hoạt và xác định mục đích sử dụng vốn vay của khách hàng.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;strong>C&lt;/strong>&lt;/td>
-&lt;td>&lt;strong>Quản trị điều hành của EVN Finance&lt;/strong>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>10&lt;/td>
-&lt;td>HĐQT giao quyền cho Tổng Giám đốc ban hành một số quy định chưa đúng thẩm quyền theo quy định Điều 23 Thông tư 30/2015/TT-NHNN. HĐQT thực hiện chưa hiệu quả nhiệm vụ, quyền hạn của mình trong việc kiểm tra, giám sát, chỉ đạo Tổng Giám đốc thực hiện nhiệm vụ được phân công, để phát sinh vi phạm, tồn tại trong hoạt động cấp tín dụng&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>11&lt;/td>
-&lt;td>BKS chưa thực hiện hiệu quả nhiệm vụ, quyền hạn của mình trong việc giám sát việc tuân thủ quy định pháp luật và Điều lệ của Công ty, chưa phát hiện kịp thời những tồn tại, vi phạm trong hoạt động quản trị điều hành, tuân thủ quy định pháp luật, quy định nội bộ của EVN Finance, để xây ra những vi phạm, tồn tại trong hoạt động cấp tín dụng&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>12&lt;/td>
-&lt;td>TGĐ ký ban hành một số văn bản quy định nội bộ liên quan đến hoạt động tín dụng; phân loại nợ; trích lập dự phòng, sử dụng dự phòng để xử lý rủi ro chưa đúng thẩm quyền theo quy định tại Điều 23 Thông tư 30/2015/TT-NHNN.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>13&lt;/td>
-&lt;td>TGĐ thực hiện quyền và nghĩa vụ thuộc thẩm quyền lien quan đến hoạt động kinh doanh hàng ngày của tổ chức tín dụng chưa tuân thủ quy định pháp luật, để xảy ra tồn tại, vi phạm trong hoạt động cấp tín dụng&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;strong>D&lt;/strong>&lt;/td>
-&lt;td>&lt;strong>Hoạt động cấp tín dụng của EVN Finance&lt;/strong>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>14&lt;/td>
-&lt;td>Cấp tín dụng đối với tổ chức, cá nhân không đủ điều kiện theo quy định pháp luật (phạt)&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>15&lt;/td>
-&lt;td>Vi pham về thẩm định và quyết định cho vay; kiểm tra, giám sát vốn vay; hồ sơ vay vốn; thời hạn vay vốn; nhận tài sản bảo đảm&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>16&lt;/td>
-&lt;td>Phân loại nợ và trích lập dự phòng rủi ro không đúng quy định (phạt)&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>17&lt;/td>
-&lt;td>Cấp tín dụng trong nước bằng ngoại tệ không đúng quy định pháp luật (phạt)&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="2-tài-liệu-tham-khảo">2. Tài liệu tham khảo
-&lt;/h2>&lt;ul>
-&lt;li>&lt;a class="link" href="2025_Ket_luan_thanh_tra_VietCredit.pdf" >Kết luận của Thanh tra NHNN với VietCredit&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Bai_bao_VietCredit_bi_xu_phat.pdf" >Bài báo về VietCredit&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="2025_Ket_luan_thanh_tra_EVN_Finance.pdf" >Kết luận của Thanh tra NHNN với EVN Finance&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Bai_bao_EVNFinance_bi_xu_phat.pdf" >Bài báo về EVN Finance&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Sử dụng Machine Learning khử dữ liệu cá nhân</title><link>/posts/deidentify_vi/</link><pubDate>Sun, 14 Dec 2025 19:10:30 +0700</pubDate><guid>/posts/deidentify_vi/</guid><description>&lt;p>Trong thời đại AI chat quá tiện dụng, vấn nạn khó tránh khỏi là đưa các dữ liệu định danh cá nhân, tổ chức, gia tăng rủi ro dữ liệu rò rỉ, không tuân thủ pháp luật, tăng nguy cơ lừa đảo.&lt;/p>
-&lt;p>Microsoft có cung cấp một bộ SDK &lt;a class="link" href="https://microsoft.github.io/presidio/" target="_blank" rel="noopener"
->Presidio&lt;/a>. Tuy nhiên, hàng của hãng thì chỉ có thể dùng ngay với tiếng Anh. Tiếng Việt đòi hỏi phải tìm thêm các giải pháp khác.&lt;/p>
-&lt;p>Giải pháp xử lý ngôn ngữ tự nhiên nguồn mở cho tiếng Việt không có nhiều lắm. Sau thời gian mầy mò, cuối cùng đã đã dựng được giải pháp làm sạch dữ liệu, khử dữ liệu dữ liệu cá nhân bằng Presidio SDK, sử dụng Pattern kết hợp với Vietnamese spaCy model của &lt;a class="link" href="https://gitlab.com/trungtv/vi_spacy/-/raw/master/packages/vi_core_news_lg-3.6.0/dist/vi_core_news_lg-3.6.0.tar.gz" target="_blank" rel="noopener"
->trungtv&lt;/a> , và Transfomers model &lt;a class="link" href="https://huggingface.co/NlpHUST/ner-vietnamese-electra-base" target="_blank" rel="noopener"
->NlpHUST/ner-vietnamese-electra-base&lt;/a> cho kết quả khá tốt.&lt;/p>
-&lt;p>&lt;img src="./posts/deidentify_vi/Screenshot-2025-12-14.png"
-width="1318"
-height="1032"
-srcset="./posts/deidentify_vi/Screenshot-2025-12-14_hu13335917263933872851.png 480w, ./posts/deidentify_vi/Screenshot-2025-12-14_hu12876888331460609974.png 1024w"
-loading="lazy"
-class="gallery-image"
-data-flex-grow="127"
-data-flex-basis="306px"
->&lt;/p>
-&lt;h1 id="một-số-tính-năng">Một số tính năng:
-&lt;/h1>&lt;ul>
-&lt;li>Nhận diện căn cước, chứng minh nhân dân&lt;/li>
-&lt;li>Nhận diện mã số thuế, mã số doanh nghiệp&lt;/li>
-&lt;li>Nhận diện thẻ tín dụng&lt;/li>
-&lt;li>Nhận diện điện thoại&lt;/li>
-&lt;li>Nhận điện email&lt;/li>
-&lt;li>Nhận diện tên tổ chức&lt;/li>
-&lt;li>Nhận diện tên người&lt;/li>
-&lt;li>Nhận diện ngày sinh&lt;/li>
-&lt;li>Nhận diện địa chỉ&lt;/li>
-&lt;/ul>
-&lt;p>Đây là vấn đề cơ bản trong luồng làm việc với các công cụ AI, nhưng không hiểu sao VN vẫn không có sẵn các công cụ này. Nếu mọi người có quan tâm thì cùng trao đổi.&lt;/p></description></item><item><title>Dữ liệu cá nhân - Quyết định từ công ty mẹ</title><link>/posts/personal-data-cross-border/</link><pubDate>Mon, 08 Dec 2025 20:14:59 +0700</pubDate><guid>/posts/personal-data-cross-border/</guid><description>&lt;p>Nhiều doanh nghiệp có vốn đầu tư nước ngoài (FDI) hoạt động tại Việt Nam thường gặp tình huống tế nhị và khó xử:&lt;/p>
-&lt;ul>
-&lt;li>Công ty mẹ yêu cầu truy cập dữ liệu cá nhân để phục vụ quản trị.&lt;/li>
-&lt;li>Viên chức cao cấp nước ngoài làm việc tại Việt Nam đòi hỏi quyền đối với dữ liệu cá nhân trên mức cần thiết.&lt;/li>
-&lt;/ul>
-&lt;p>Khi đó, người phụ trách bảo vệ dữ liệu cá nhân (DPO) của công ty con bị đặt vào thế khó: Không đủ thẩm quyền để ngăn chặn việc truy xuất hoặc chuyển dữ liệu trái phép.&lt;/p>
-&lt;p>Một giải pháp là Công ty mẹ ban hành quyết định chính thức về việc kiểm soát chuyển dữ liệu xuyên biên giới từ Việt Nam, làm cơ sở pháp lý nội bộ để những người phụ trách tại Việt Nam thực thi, và cũng để xuất trình cho cơ quan nhà nước Việt Nam khi có yêu cầu.&lt;/p>
-&lt;p>Việc xây dựng quyết định như vậy đòi hỏi phải chặt chẽ, đầy đủ, phòng tránh các cách thức &amp;ldquo;lách&amp;rdquo; quy định đẻ chuyển dữ liệu cá nhân ra nước ngoài, cụ thể là cần xử lý các vấn đề:&lt;/p>
-&lt;ul>
-&lt;li>Tách biệt hệ thống&lt;/li>
-&lt;li>Quản lý quyền truy cập&lt;/li>
-&lt;li>Xuất dữ liệu / tải về / sao chép&lt;/li>
-&lt;li>Sử dung phương tiện điên tử (laptop, điện thoại)&lt;/li>
-&lt;li>Khử dữ liệu cá nhân&lt;/li>
-&lt;li>Các bảo đảm thực thi&lt;/li>
-&lt;/ul>
-&lt;p>DPO có thể trình ban hành Quyết định về kiểm soát dữ liệu cá nhân xuyên biên giới. Dưới đây là một mẫu tham khảo:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a class="link" href="Quyet-dinh-cong-ty-me-du-lieu-ca-nhan-xuyen-bien-gioi.docx" >Quyết định về kiểm soát dữ liệu cá nhân xuyên biên giới - doc&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Quyet-dinh-cong-ty-me-du-lieu-ca-nhan-xuyen-bien-gioi.pdf" >Quyết định về kiểm soát dữ liệu cá nhân xuyên biên giới - pdf&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Dự thảo sủa đổi Luật sở hữu trí tuệ</title><link>/posts/legal-draft/25-luat-so-huu-tri-tue/</link><pubDate>Sun, 23 Nov 2025 20:24:40 +0700</pubDate><guid>/posts/legal-draft/25-luat-so-huu-tri-tue/</guid><description>&lt;p>Bộ sưu tập tài liệu về dự thảo sửa đổi Luật sở hữu trí tuệ 2025&lt;/p>
-&lt;ol>
-&lt;li>
-&lt;p>&lt;a class="link" href="qh-du-thao-6.pdf" >Dự thảo 6 - Quốc hội&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="qh-to-trinh.pdf" >Tờ trình Quốc hội&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="3-du-thao-luat.pdf" >Dự thảo Luật - Bộ KH&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="2-du-thao-to-trinh.pdf" >Dự thảo Tờ trình - Bộ KH&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="4-ban-so-sanh-thuyet-minh-theo-du-thao-luat.pdf" >Bảng so sánh - Bộ KH&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="5-bc-ra-soat-chu-truong.pdf" >Báo cáo rà soát - Bộ KH&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol></description></item><item><title>Dự thảo Nghị định xử phạt trong lĩnh vực tiền tệ, ngân hàng</title><link>/posts/legal-draft/25-xu-phat-tien-te/</link><pubDate>Tue, 11 Nov 2025 21:36:32 +0700</pubDate><guid>/posts/legal-draft/25-xu-phat-tien-te/</guid><description>&lt;p>&lt;strong>Nguồn Bộ tư pháp:&lt;/strong>&lt;/p>
-&lt;ol>
-&lt;li>&lt;a class="link" href="Source-MoJ/1-Du-thao-TTr-NHNN.pdf" >Dự thảo Tờ trình của Ngân hàng Nhà nước&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-MoJ/2-Du-thao-Nghi-dinh-27.06.pdf" >Dự thảo Nghị định 27.06&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-MoJ/3-Ban-so-sanh-thuyet-minh-30.06.pdf" >Bản so sánh thuyết minh 30.06&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-MoJ/4-Bao-cao-ra-soat-phap-luat.pdf" >Báo cáo rà soát pháp luật&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-MoJ/5-Bao-cao-tong-ket.pdf" >Báo cáo tổng kết&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-MoJ/6-Bao-cao-danh-gia-tac-dong.pdf" >Báo cáo đánh giá tác động&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-MoJ/7-Phu-luc-bang-che-tai-xu-phat.pdf" >Phụ lục bảng chế tài xử phạt&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-MoJ/8-Tong-hop-y-kien-Bo-Nganh.pdf" >Tổng hợp ý kiến Bộ Ngành&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-MoJ/9-Tong-hop-y-kien-TCTD-14.05.2025.pdf" >Tổng hợp ý kiến TCTD 14.05.2025&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-MoJ/10-Danh-sach-ra-soat-VBPL-dinh-kem.pdf" >Danh sách rà soát VBPL đính kèm&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-MoJ/Source-MoJ.zip" >Bộ tài liệu&lt;/a>&lt;/li>
-&lt;/ol>
-&lt;p>&lt;strong>Nguồn Ngân hàng Nhà nước:&lt;/strong>&lt;/p>
-&lt;ol>
-&lt;li>&lt;a class="link" href="Source-SBV/1-Tong-hop-gop-y-Bo-Nganh.pdf" >Tổng hợp ý kiến Bộ Ngành&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-SBV/2-Tong-hop-gop-y-TCTD.pdf" >Tổng hợp ý kiến TCTD 14.05.2025&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-SBV/3-Du-thao-Nghi-dinh.pdf" >Dự thảo Nghị định&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Source-SBV/Source-SBV.rar" >Bộ tài liệu&lt;/a>&lt;/li>
-&lt;/ol></description></item><item><title>Công nghệ pháp lý: Đồ thị tri thức (Knowledge Graph)</title><link>/posts/do-thi-tri-thuc/</link><pubDate>Thu, 06 Nov 2025 19:15:08 +0700</pubDate><guid>/posts/do-thi-tri-thuc/</guid><description>&lt;p>Sự tiến bộ của công nghệ, đặc biệt là AI, chủ yếu tập trung vào lĩnh vực y tế, tài chính. Các công ty công nghệ có vẻ như ít quan tâm đến phát triển các sản phẩm, dịch vụ công nghệ phục vụ pháp lý. Trên thế giới có một số nhà cung cấp như Harvey, Lexis, nhưng có lẽ còn lâu họ mói khai thác thị trường Việt Nam. Việt Nam có ailuat.luatvietnam.vn (chỉ dừng ở mức cơ bản).&lt;/p>
-&lt;p>Wikipedia có bài về Legal Tech: Ngành công nghiệp pháp lý được coi là &lt;strong>bảo thủ&lt;/strong> và &lt;strong>truyền thống&lt;/strong>, với Law Technology Today lưu ý rằng &amp;ldquo;&lt;strong>trong 50 năm, trải nghiệm của khách hàng tại hầu hết các công ty luật hầu như không thay đổi&lt;/strong>&amp;rdquo;. Qua tiếp xúc với những người làm công tác pháp lý, tôi cũng thấy rằng có ít người quan tâm đến công nghệ và ứng dụng công nghệ.&lt;/p>
-&lt;p>&amp;ldquo;&lt;strong>Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs&lt;/strong>&amp;rdquo; là một trong số hiếm hoi các bài nghiên cứu về công nghệ pháp lý tại Việt Nam, mang đến gợi ý cho các nhà quản lý pháp chế.&lt;/p>
-&lt;p>Nội dung bài viết trình bày một phương pháp xây dựng đồ thị tri thức (knowledge graph) cho các tài liệu về vụ án và luật pháp Việt Nam, nhằm mục đích tổ chức thông tin pháp lý một cách hiệu quả và cải thiện các tác vụ hạ nguồn như xác định luật liên quan. Quá trình này bao gồm ba bước chính: thu thập dữ liệu, trích xuất thông tin để xác định các thực thể như vụ án, tòa án, lĩnh vực và luật, và cuối cùng là triển khai đồ thị tri thức dưới dạng đồ thị phức tạp (heterogeneous graph).&lt;/p>
-&lt;p>Tác giả tạo ra 4 loại thực thể (nút): Nút Vụ án (Case node), Nút Lĩnh vực (Domain node), Nút Tòa án (Court node), Nút Luật (Law node). Tác giả cũng định nghĩa 3 loại quan hệ: Decide (Tòa án-Vụ án), Belong-to (Vụ án-Lĩnh vực), và Based-on (Vụ án-Luật). Trong đó, quan hệ Based-on chỉ ra mối quan hệ giữa một phán quyết hoặc quyết định cụ thể đã tham chiếu đến một bộ luật/bộ luật để hỗ trợ phán quyết.&lt;/p>
-&lt;p>Bài lưu:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a class="link" href="2309.09069v1.pdf" >Bài tham chiếu&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://arxiv.org/pdf/2309.09069" target="_blank" rel="noopener"
->Trang arxiv&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://vi.wikipedia.org/wiki/C%c3%b4ng_ngh%e1%bb%87_ph%c3%a1p_l%c3%bd" target="_blank" rel="noopener"
->Wikipeida&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Pháp chế xanh: Quản lý rủi ro môi trường trong hoạt động tín dụng</title><link>/posts/rui-ro-moi-truong/</link><pubDate>Tue, 28 Oct 2025 20:03:49 +0700</pubDate><guid>/posts/rui-ro-moi-truong/</guid><description>&lt;p>Ngày nay, Doanh nghiệp phải chuyển mình theo chuẩn mực ESG. Yêu cầu quốc tế, trong nước đều hướng đến “tín dụng xanh”.&lt;/p>
-&lt;p>Trong bối cảnh đó, bộ phận pháp chế cũng cần chuyển mình thành “pháp chế xanh” – đòi hỏi không chỉ am hiểu pháp luật tín dụng, mà còn phải hiểu và lường trước các rủi ro môi trường để tích hợp vào hợp đồng, quy định nội bộ về cho vay.&lt;/p>
-&lt;h2 id="khung-pháp-luật-về-quản-lý-rủi-ro-môi-trường">Khung pháp luật về quản lý rủi ro môi trường
-&lt;/h2>&lt;ul>
-&lt;li>Thông tư 39/2019/TT-NHNN quy định rằng: Nguyên tắc cho vay, vay vốn là phải phù hợp với quy định của pháp luật có liên quan, và nhấn mạnh pháp luật về bảo vệ môi trường.&lt;/li>
-&lt;li>Thông tư 17/2022/TT-NHNN hướng dẫn quản lý rủi ro môi trường trong cấp tín dụng. Trong đó yêu cầu tổ chức tín dụng thỏa thuận với khách hàng bổ sung tại thỏa thuận cấp tín dụng các biện pháp khách hàng cam kết thực hiện nhằm hạn chế rủi ro về môi trường trong hoạt động cấp tín dụng.&lt;/li>
-&lt;/ul>
-&lt;h2 id="các-rủi-ro-môi-trường-thường-gặp">Các rủi ro môi trường thường gặp
-&lt;/h2>&lt;p>(1) Rủi ro pháp lý: Dự án chưa có hoặc bị thu hồi giấy phép môi trường, bị phạt vi phạm hành chính, hoặc bị đình chỉ hoạt động.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Khang Nguyen</title>
+        <link>/</link>
+        <description>Recent content on Khang Nguyen</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 12 Jan 2026 20:31:23 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sống sót trong kỷ nguyên AI</title>
+        <link>/posts/vat-kiet-ai/</link>
+        <pubDate>Mon, 12 Jan 2026 20:31:23 +0700</pubDate>
+        
+        <guid>/posts/vat-kiet-ai/</guid>
+        <description>&lt;p&gt;Chưa bao giờ sức mạnh trí tuệ lại rẻ, dồi dào như hiện nay. Chỉ cần một tài khoản AI, chúng ta có thể tiếp cận năng lực tương đương hàng trăm chuyên gia: luật sư, lập trình viên, bác sĩ, nhà phân tích tài chính, copywriter, nhà thiết kế, nhà nghiên cứu.&lt;/p&gt;
+&lt;p&gt;Phần lớn người dùng AI hiện nay chỉ gõ một câu hỏi mơ hồ, nhận một câu trả lời trung bình và thỏa mãn với câu hỏi đó. Họ lúng túng không biết định hướng nghề nghiệp và lo sợ một ngày AI sẽ thay thế họ.&lt;/p&gt;
+&lt;p&gt;Có một số bài viết khá chán về việc là chuyển hướng sang nghề nghiệp tay chân để AI không thay thế. Nghe có vẻ thực tế, nhưng dễ rơi vào một dạng “né cuộc chơi” hơn là “nâng cấp năng lực”.&lt;/p&gt;
+&lt;p&gt;Một hướng đi mà chưa được đề cập đó là hãy rèn luyện &lt;strong&gt;kỹ năng vắt kiệt năng lực của các hệ thống trí tuệ nhân tạo&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Khi bạn vắt kiệt năng lực của các hệ thống trí tuệ nhân tạo, có thể bạn cũng không thông minh hơn AI, nhưng bạn duy trì khoảng cách với người chỉ biết AI thông thường, bạn sẽ có cơ may sống sót cao hơn trong kỷ nguyên AI.&lt;/p&gt;
+&lt;p&gt;Vắt kiệt năng lực AI là như thế nào? Đơn giản là bạn có thể yêu cầu AI trả lời câu hỏi đó (bạn sẽ nhận được câu trả lời chung chung nếu bạn không khai thác đến tầng sâu của nó). Hai (02) gợi ý quan trọng sau có thể giúp bạn khai thác AI:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Dùng AI theo vòng lặp: tạo → phản biện → kiểm chứng → tối ưu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI được huấn luyện để tối đa hóa sự phù hợp trung bình. Những câu trả lời đầu tiên của AI luôn tầm thường. Bạn hãy phản biện nó, yêu cầu nó kiểm chứng, yêu cầu nó tối ưu, ví dụ:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hãy liệt kê tất cả các giả định ẩn trong phương án trên. Giả định nào nếu sai sẽ làm toàn bộ kế hoạch sụp đổ?&lt;/li&gt;
+&lt;li&gt;Hãy tạo 20 kịch bản thực tế khiến kế hoạch này thất bại. Bao gồm cả lỗi con người, pháp lý, chính trị nội bộ, và hành vi khách hàng.&lt;/li&gt;
+&lt;li&gt;Hãy đóng vai đối thủ. Nếu muốn phá hoặc vượt mặt mô hình này, bạn sẽ làm thế nào?&lt;/li&gt;
+&lt;li&gt;Hãy tạo một bộ kiểm thử gồm 30 tình huống. Nếu phương án không vượt qua thì xem như thất bại.&lt;/li&gt;
+&lt;li&gt;Hãy sửa phương án sao cho vượt qua toàn bộ các phản biện và bài kiểm tra trên, với chi phí thấp nhất&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Điều phối AI (AI Orchestration)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI có nhiều dịch vụ với nhiều model và nhiều quy tắc định tuyến, vai trò khác nhau để ra kết quả khác nhau. AI orchestration là khả năng điều khiển nhiều trí tuệ, nhiều vai trò, nhiều vòng suy nghĩ để tạo ra kết quả mà một AI đơn lẻ không thể tạo ra.&lt;/p&gt;
+&lt;p&gt;Ví dụ thay vì cố gắng tạo ra một con Chatbot biết tuốt, hãy tạo ra một hệ sinh thái các Agent chuyên biệt và dùng Orchestrator để quản lý chúng.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Quản lý rủi ro pháp lý: Phòng ngừa bị xử phạt vi phạm đối với Công ty tài chính</title>
+        <link>/posts/xu-phat-vietcredit-evf/</link>
+        <pubDate>Thu, 18 Dec 2025 21:47:33 +0700</pubDate>
+        
+        <guid>/posts/xu-phat-vietcredit-evf/</guid>
+        <description>&lt;p&gt;Trong năm 2025, Ngân hàng Nhà nước Việt Nam (NHNN) đã công bố các kết luận thanh tra và xử phạt hành chính đối với VietCredit và EVN Finance. Dù hoạt động trong các mảng khác nhau, cả hai đều cho thấy những lỗ hổng chung trong quản trị rủi ro và tín dụng, dẫn tới bị xử phạt hàng trăm triệu đồng. Đây là những case đáng lưu tâm để các tổ chức khác nhìn lại hoạt động quản trị – tín dụng của mình.&lt;/p&gt;
+&lt;p&gt;Dưới đây là bản tổng hợp danh mục các vấn đề tồn tại, vi phạm để thuận lợi cho việc rà soát tại tổ chức của mình&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;STT&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Tồn tại&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Quản trị, điều hành của VietCredit&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;HĐQT chưa ban hành Nghị quyết sửa đổi, bổ sung phân công nhiệm vụ cho từng thành viên sau khi có quyết định chấm dứt hoạt động, giải thể một số Ủy ban/Hội đồng trực thuộc HĐQT.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;Báo cáo đánh giá định kỳ năm 2023 và 2024 của HĐQT chưa thực hiện đánh giá độc lập hiệu quả làm việc của Tổng Giám đốc theo quy định; báo cáo hoạt động năm 2024 không có nội dung đánh giá cụ thể hiệu quả làm việc của từng thành viên HĐQT (yêu cầu tại khoản 11 Điều 70, 71 Luật các TCTD)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;Báo cáo tự đánh giá hoạt động của BKS và từng thành viên BKS không có nội dung kết quả giám sát định kỳ hàng năm về thông qua và thực hiện dự án đầu tư, mua, bán tài sản cố định, hợp đồng, giao dịch khác của Công ty&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;Biên bản họp của Ủy ban Quản lý rủi ro, đặc biệt đối với các cuộc họp có nhiều nội dung, không có bảng tổng hợp kết quả biểu quyết thống nhất và không thống nhất của từng thành viên. Sau khi 01 thành viên Ủy ban QLRR chấm dứt Hợp đồng lao động, HĐQT chưa ban hành quyết định sửa đổi, bổ sung về nhân sự của Ủy ban QLRR&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;HĐQT và Tổng Giám đốc chưa thực hiện hiệu quả nhiệm vụ kiểm tra, giám sát, chỉ đạo, do đó còn để xảy ra một số tồn tại, vi phạm trong hoạt động như:&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5.1&lt;/td&gt;
+          &lt;td&gt;Ban hành quy định nội bộ về phân loại tài sản có, trích lập dự phòng rủi ro và sử dụng dự phòng để xử lý rủi ro;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5.2&lt;/td&gt;
+          &lt;td&gt;Về phân loại nợ, cam kết ngoại bảng, trích lập dự phòng rủi ro và sử dụng dự phòng để xử lý rủi ro&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5.3&lt;/td&gt;
+          &lt;td&gt;Mẫu Hợp đồng tín dụng, bản điều khoản/điều kiện giao dịch chung cho vay/phát hành thẻ có nội dung không đúng, không đầy đủ theo quy định háp luật.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5.4&lt;/td&gt;
+          &lt;td&gt;Gửi quy định nội bộ không đúng thời hạn&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5.5&lt;/td&gt;
+          &lt;td&gt;Kế hoạch kiểm toán nội bộ gửi NHNN có nội dụng về mục tiêu kiểm toán, nguồn lực kiểm toán&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;B&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Hoạt động cấp tín dụng của VietCredit&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;Hoạt động cấp tín dụng của VietCredit thông qua các nền tảng số do bên thứ ba cung ứng còn có các tồn tại:&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6.1&lt;/td&gt;
+          &lt;td&gt;Vi phạm trong khâu thẩm định, quyết định cho vay;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6.2&lt;/td&gt;
+          &lt;td&gt;Vi phạm về hợp đồng, thỏa thuận cấp tín dụng có nội dung không đầy đủ về biện pháp đôn đốc, thu hồi nợ và thời hạn xử lý đề nghị tra soát, khiếu nại;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6.3&lt;/td&gt;
+          &lt;td&gt;Vi phạm về kiểm tra giám sát sau cho vay&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6.4&lt;/td&gt;
+          &lt;td&gt;Vi phạm về thời điểm trích lập dự phòng rủi ro&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6.5&lt;/td&gt;
+          &lt;td&gt;Vi phạm về thông báo chuyển nợ quá hạn khi không thông báo đầy đủ lãi suất áp dụng đối với dư nợ gốc bị quá hạn&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;Các biện pháp kiểm tra, giám sát sau cho vay (qua các hình thức: cuộc gọi tự động TTS, Email, Telecall) đối với khách hàng không thực sự hiệu quả khi không xác định được mục đích sử dụng vốn vay của khách hàng.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8&lt;/td&gt;
+          &lt;td&gt;Việc tham chiếu CIC trên các kênh sản phẩm S37 và R21 nhưng chưa tham chiếu CIC trên các kênh sản phẩm B11T về các nghĩa vụ nợ của khách hàng tại các tổ chức tín dụng khác nhằm có cơ sở xác định về năng lực tài chính, cũng như khả năng trả nợ của khách hàng, do đó có thể phát sinh các rủi ro tiềm ẩn về khả năng trả nợ trong tương lai của khách hàng khi chưa thu thập đầy đủ thông tin về khách hàng.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td&gt;Về hoạt động cấp tín dụng qua thẻ vay, VietCredit chưa có biện pháp tích cực thông qua bên thứ ba (trung gian thanh toán/ngân hàng đại lý) nhằm kiểm tra, kiểm soát chặt chẽ và/hoặc hạn chế giao dịch rút tiền qua ATM ngay sau khi khoản vay được kích hoạt và xác định mục đích sử dụng vốn vay của khách hàng.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Quản trị điều hành của EVN Finance&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td&gt;HĐQT giao quyền cho Tổng Giám đốc ban hành một số quy định chưa đúng thẩm quyền theo quy định Điều 23 Thông tư 30/2015/TT-NHNN. HĐQT thực hiện chưa hiệu quả nhiệm vụ, quyền hạn của mình trong việc kiểm tra, giám sát, chỉ đạo Tổng Giám đốc thực hiện nhiệm vụ được phân công, để phát sinh vi phạm, tồn tại trong hoạt động cấp tín dụng&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11&lt;/td&gt;
+          &lt;td&gt;BKS chưa thực hiện hiệu quả nhiệm vụ, quyền hạn của mình trong việc giám sát việc tuân thủ quy định pháp luật và Điều lệ của Công ty, chưa phát hiện kịp thời những tồn tại, vi phạm trong hoạt động quản trị điều hành, tuân thủ quy định pháp luật, quy định nội bộ của EVN Finance, để xây ra những vi phạm, tồn tại trong hoạt động cấp tín dụng&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;TGĐ ký ban hành một số văn bản quy định nội bộ liên quan đến hoạt động tín dụng; phân loại nợ; trích lập dự phòng, sử dụng dự phòng để xử lý rủi ro chưa đúng thẩm quyền theo quy định tại Điều 23 Thông tư 30/2015/TT-NHNN.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13&lt;/td&gt;
+          &lt;td&gt;TGĐ thực hiện quyền và nghĩa vụ thuộc thẩm quyền lien quan đến hoạt động kinh doanh hàng ngày của tổ chức tín dụng chưa tuân thủ quy định pháp luật, để xảy ra tồn tại, vi phạm trong hoạt động cấp tín dụng&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;D&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Hoạt động cấp tín dụng của EVN Finance&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14&lt;/td&gt;
+          &lt;td&gt;Cấp tín dụng đối với tổ chức, cá nhân không đủ điều kiện theo quy định pháp luật (phạt)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15&lt;/td&gt;
+          &lt;td&gt;Vi pham về thẩm định và quyết định cho vay; kiểm tra, giám sát vốn vay; hồ sơ vay vốn; thời hạn vay vốn; nhận tài sản bảo đảm&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16&lt;/td&gt;
+          &lt;td&gt;Phân loại nợ và trích lập dự phòng rủi ro không đúng quy định (phạt)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17&lt;/td&gt;
+          &lt;td&gt;Cấp tín dụng trong nước bằng ngoại tệ không đúng quy định pháp luật (phạt)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;2-tài-liệu-tham-khảo&#34;&gt;2. Tài liệu tham khảo
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;2025_Ket_luan_thanh_tra_VietCredit.pdf&#34; &gt;Kết luận của Thanh tra NHNN với VietCredit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Bai_bao_VietCredit_bi_xu_phat.pdf&#34; &gt;Bài báo về VietCredit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;2025_Ket_luan_thanh_tra_EVN_Finance.pdf&#34; &gt;Kết luận của Thanh tra NHNN với EVN Finance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Bai_bao_EVNFinance_bi_xu_phat.pdf&#34; &gt;Bài báo về EVN Finance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Sử dụng Machine Learning khử dữ liệu cá nhân</title>
+        <link>/posts/deidentify_vi/</link>
+        <pubDate>Sun, 14 Dec 2025 19:10:30 +0700</pubDate>
+        
+        <guid>/posts/deidentify_vi/</guid>
+        <description>&lt;p&gt;Trong thời đại AI chat quá tiện dụng, vấn nạn khó tránh khỏi là đưa các dữ liệu định danh cá nhân, tổ chức, gia tăng rủi ro dữ liệu rò rỉ, không tuân thủ pháp luật, tăng nguy cơ lừa đảo.&lt;/p&gt;
+&lt;p&gt;Microsoft có cung cấp một bộ SDK &lt;a class=&#34;link&#34; href=&#34;https://microsoft.github.io/presidio/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Presidio&lt;/a&gt;. Tuy nhiên, hàng của hãng thì chỉ có thể dùng ngay với tiếng Anh. Tiếng Việt đòi hỏi phải tìm thêm các giải pháp khác.&lt;/p&gt;
+&lt;p&gt;Giải pháp xử lý ngôn ngữ tự nhiên nguồn mở cho tiếng Việt không có nhiều lắm. Sau thời gian mầy mò, cuối cùng đã đã dựng được giải pháp làm sạch dữ liệu, khử dữ liệu dữ liệu cá nhân bằng Presidio SDK, sử dụng Pattern kết hợp với Vietnamese spaCy model của &lt;a class=&#34;link&#34; href=&#34;https://gitlab.com/trungtv/vi_spacy/-/raw/master/packages/vi_core_news_lg-3.6.0/dist/vi_core_news_lg-3.6.0.tar.gz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;trungtv&lt;/a&gt; , và Transfomers model &lt;a class=&#34;link&#34; href=&#34;https://huggingface.co/NlpHUST/ner-vietnamese-electra-base&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NlpHUST/ner-vietnamese-electra-base&lt;/a&gt; cho kết quả khá tốt.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./posts/deidentify_vi/Screenshot-2025-12-14.png&#34;
+	width=&#34;1318&#34;
+	height=&#34;1032&#34;
+	srcset=&#34;./posts/deidentify_vi/Screenshot-2025-12-14_hu13335917263933872851.png 480w, ./posts/deidentify_vi/Screenshot-2025-12-14_hu12876888331460609974.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;127&#34;
+		data-flex-basis=&#34;306px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;một-số-tính-năng&#34;&gt;Một số tính năng:
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Nhận diện căn cước, chứng minh nhân dân&lt;/li&gt;
+&lt;li&gt;Nhận diện mã số thuế, mã số doanh nghiệp&lt;/li&gt;
+&lt;li&gt;Nhận diện thẻ tín dụng&lt;/li&gt;
+&lt;li&gt;Nhận diện điện thoại&lt;/li&gt;
+&lt;li&gt;Nhận điện email&lt;/li&gt;
+&lt;li&gt;Nhận diện tên tổ chức&lt;/li&gt;
+&lt;li&gt;Nhận diện tên người&lt;/li&gt;
+&lt;li&gt;Nhận diện ngày sinh&lt;/li&gt;
+&lt;li&gt;Nhận diện địa chỉ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Đây là vấn đề cơ bản trong luồng làm việc với các công cụ AI, nhưng không hiểu sao VN vẫn không có sẵn các công cụ này. Nếu mọi người có quan tâm thì cùng trao đổi.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Dữ liệu cá nhân - Quyết định từ công ty mẹ</title>
+        <link>/posts/personal-data-cross-border/</link>
+        <pubDate>Mon, 08 Dec 2025 20:14:59 +0700</pubDate>
+        
+        <guid>/posts/personal-data-cross-border/</guid>
+        <description>&lt;p&gt;Nhiều doanh nghiệp có vốn đầu tư nước ngoài (FDI) hoạt động tại Việt Nam thường gặp tình huống tế nhị và khó xử:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Công ty mẹ yêu cầu truy cập dữ liệu cá nhân để phục vụ quản trị.&lt;/li&gt;
+&lt;li&gt;Viên chức cao cấp nước ngoài làm việc tại Việt Nam đòi hỏi quyền đối với dữ liệu cá nhân trên mức cần thiết.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Khi đó, người phụ trách bảo vệ dữ liệu cá nhân (DPO) của công ty con bị đặt vào thế khó: Không đủ thẩm quyền để ngăn chặn việc truy xuất hoặc chuyển dữ liệu trái phép.&lt;/p&gt;
+&lt;p&gt;Một giải pháp là Công ty mẹ ban hành quyết định chính thức về việc kiểm soát chuyển dữ liệu xuyên biên giới từ Việt Nam, làm cơ sở pháp lý nội bộ để những người phụ trách tại Việt Nam thực thi, và cũng để xuất trình cho cơ quan nhà nước Việt Nam khi có yêu cầu.&lt;/p&gt;
+&lt;p&gt;Việc xây dựng quyết định như vậy đòi hỏi phải chặt chẽ, đầy đủ, phòng tránh các cách thức &amp;ldquo;lách&amp;rdquo; quy định đẻ chuyển dữ liệu cá nhân ra nước ngoài, cụ thể là cần xử lý các vấn đề:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tách biệt hệ thống&lt;/li&gt;
+&lt;li&gt;Quản lý quyền truy cập&lt;/li&gt;
+&lt;li&gt;Xuất dữ liệu / tải về / sao chép&lt;/li&gt;
+&lt;li&gt;Sử dung phương tiện điên tử (laptop, điện thoại)&lt;/li&gt;
+&lt;li&gt;Khử dữ liệu cá nhân&lt;/li&gt;
+&lt;li&gt;Các bảo đảm thực thi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;DPO có thể trình ban hành Quyết định về kiểm soát dữ liệu cá nhân xuyên biên giới. Dưới đây là một mẫu tham khảo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Quyet-dinh-cong-ty-me-du-lieu-ca-nhan-xuyen-bien-gioi.docx&#34; &gt;Quyết định về kiểm soát dữ liệu cá nhân xuyên biên giới - doc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Quyet-dinh-cong-ty-me-du-lieu-ca-nhan-xuyen-bien-gioi.pdf&#34; &gt;Quyết định về kiểm soát dữ liệu cá nhân xuyên biên giới - pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Dự thảo sủa đổi Luật sở hữu trí tuệ</title>
+        <link>/posts/legal-draft/25-luat-so-huu-tri-tue/</link>
+        <pubDate>Sun, 23 Nov 2025 20:24:40 +0700</pubDate>
+        
+        <guid>/posts/legal-draft/25-luat-so-huu-tri-tue/</guid>
+        <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo sửa đổi Luật sở hữu trí tuệ 2025&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;qh-du-thao-6.pdf&#34; &gt;Dự thảo 6 - Quốc hội&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;qh-to-trinh.pdf&#34; &gt;Tờ trình Quốc hội&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;3-du-thao-luat.pdf&#34; &gt;Dự thảo Luật - Bộ KH&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;2-du-thao-to-trinh.pdf&#34; &gt;Dự thảo Tờ trình - Bộ KH&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;4-ban-so-sanh-thuyet-minh-theo-du-thao-luat.pdf&#34; &gt;Bảng so sánh - Bộ KH&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;5-bc-ra-soat-chu-truong.pdf&#34; &gt;Báo cáo rà soát - Bộ KH&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>Dự thảo Nghị định xử phạt trong lĩnh vực tiền tệ, ngân hàng</title>
+        <link>/posts/legal-draft/25-xu-phat-tien-te/</link>
+        <pubDate>Tue, 11 Nov 2025 21:36:32 +0700</pubDate>
+        
+        <guid>/posts/legal-draft/25-xu-phat-tien-te/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Nguồn Bộ tư pháp:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/1-Du-thao-TTr-NHNN.pdf&#34; &gt;Dự thảo Tờ trình của Ngân hàng Nhà nước&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/2-Du-thao-Nghi-dinh-27.06.pdf&#34; &gt;Dự thảo Nghị định 27.06&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/3-Ban-so-sanh-thuyet-minh-30.06.pdf&#34; &gt;Bản so sánh thuyết minh 30.06&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/4-Bao-cao-ra-soat-phap-luat.pdf&#34; &gt;Báo cáo rà soát pháp luật&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/5-Bao-cao-tong-ket.pdf&#34; &gt;Báo cáo tổng kết&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/6-Bao-cao-danh-gia-tac-dong.pdf&#34; &gt;Báo cáo đánh giá tác động&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/7-Phu-luc-bang-che-tai-xu-phat.pdf&#34; &gt;Phụ lục bảng chế tài xử phạt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/8-Tong-hop-y-kien-Bo-Nganh.pdf&#34; &gt;Tổng hợp ý kiến Bộ Ngành&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/9-Tong-hop-y-kien-TCTD-14.05.2025.pdf&#34; &gt;Tổng hợp ý kiến TCTD 14.05.2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/10-Danh-sach-ra-soat-VBPL-dinh-kem.pdf&#34; &gt;Danh sách rà soát VBPL đính kèm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/Source-MoJ.zip&#34; &gt;Bộ tài liệu&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Nguồn Ngân hàng Nhà nước:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/1-Tong-hop-gop-y-Bo-Nganh.pdf&#34; &gt;Tổng hợp ý kiến Bộ Ngành&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/2-Tong-hop-gop-y-TCTD.pdf&#34; &gt;Tổng hợp ý kiến TCTD 14.05.2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/3-Du-thao-Nghi-dinh.pdf&#34; &gt;Dự thảo Nghị định&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/Source-SBV.rar&#34; &gt;Bộ tài liệu&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>Công nghệ pháp lý: Đồ thị tri thức (Knowledge Graph)</title>
+        <link>/posts/do-thi-tri-thuc/</link>
+        <pubDate>Thu, 06 Nov 2025 19:15:08 +0700</pubDate>
+        
+        <guid>/posts/do-thi-tri-thuc/</guid>
+        <description>&lt;p&gt;Sự tiến bộ của công nghệ, đặc biệt là AI, chủ yếu tập trung vào lĩnh vực y tế, tài chính. Các công ty công nghệ có vẻ như ít quan tâm đến phát triển các sản phẩm, dịch vụ công nghệ phục vụ pháp lý. Trên thế giới có một số nhà cung cấp như Harvey, Lexis,  nhưng có lẽ còn lâu họ mói khai thác thị trường Việt Nam. Việt Nam có ailuat.luatvietnam.vn (chỉ dừng ở mức cơ bản).&lt;/p&gt;
+&lt;p&gt;Wikipedia có bài về Legal Tech: Ngành công nghiệp pháp lý được coi là &lt;strong&gt;bảo thủ&lt;/strong&gt; và &lt;strong&gt;truyền thống&lt;/strong&gt;, với Law Technology Today lưu ý rằng &amp;ldquo;&lt;strong&gt;trong 50 năm, trải nghiệm của khách hàng tại hầu hết các công ty luật hầu như không thay đổi&lt;/strong&gt;&amp;rdquo;. Qua tiếp xúc với những người làm công tác pháp lý, tôi cũng thấy rằng có ít người quan tâm đến công nghệ và ứng dụng công nghệ.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;strong&gt;Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs&lt;/strong&gt;&amp;rdquo; là một trong số hiếm hoi các bài nghiên cứu về công nghệ pháp lý tại Việt Nam, mang đến gợi ý cho các nhà quản lý pháp chế.&lt;/p&gt;
+&lt;p&gt;Nội dung bài viết trình bày một phương pháp xây dựng đồ thị tri thức (knowledge graph) cho các tài liệu về vụ án và luật pháp Việt Nam, nhằm mục đích tổ chức thông tin pháp lý một cách hiệu quả và cải thiện các tác vụ hạ nguồn như xác định luật liên quan. Quá trình này bao gồm ba bước chính: thu thập dữ liệu, trích xuất thông tin để xác định các thực thể như vụ án, tòa án, lĩnh vực và luật, và cuối cùng là triển khai đồ thị tri thức dưới dạng đồ thị phức tạp (heterogeneous graph).&lt;/p&gt;
+&lt;p&gt;Tác giả tạo ra 4 loại thực thể (nút): Nút Vụ án (Case node), Nút Lĩnh vực (Domain node), Nút Tòa án (Court node), Nút Luật (Law node). Tác giả cũng định nghĩa 3 loại quan hệ: Decide (Tòa án-Vụ án), Belong-to (Vụ án-Lĩnh vực), và Based-on (Vụ án-Luật). Trong đó, quan hệ Based-on chỉ ra mối quan hệ giữa một phán quyết hoặc quyết định cụ thể đã tham chiếu đến một bộ luật/bộ luật để hỗ trợ phán quyết.&lt;/p&gt;
+&lt;p&gt;Bài lưu:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;2309.09069v1.pdf&#34; &gt;Bài tham chiếu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/pdf/2309.09069&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Trang arxiv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://vi.wikipedia.org/wiki/C%c3%b4ng_ngh%e1%bb%87_ph%c3%a1p_l%c3%bd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wikipeida&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Pháp chế xanh: Quản lý rủi ro môi trường trong hoạt động tín dụng</title>
+        <link>/posts/rui-ro-moi-truong/</link>
+        <pubDate>Tue, 28 Oct 2025 20:03:49 +0700</pubDate>
+        
+        <guid>/posts/rui-ro-moi-truong/</guid>
+        <description>&lt;p&gt;Ngày nay, Doanh nghiệp phải chuyển mình theo chuẩn mực ESG. Yêu cầu quốc tế, trong nước đều hướng đến “tín dụng xanh”.&lt;/p&gt;
+&lt;p&gt;Trong bối cảnh đó, bộ phận pháp chế cũng cần chuyển mình thành “pháp chế xanh” – đòi hỏi không chỉ am hiểu pháp luật tín dụng, mà còn phải hiểu và lường trước các rủi ro môi trường để tích hợp vào hợp đồng, quy định nội bộ về cho vay.&lt;/p&gt;
+&lt;h2 id=&#34;khung-pháp-luật-về-quản-lý-rủi-ro-môi-trường&#34;&gt;Khung pháp luật về quản lý rủi ro môi trường
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Thông tư 39/2019/TT-NHNN quy định rằng: Nguyên tắc cho vay, vay vốn là phải phù hợp với quy định của pháp luật có liên quan, và nhấn mạnh pháp luật về bảo vệ môi trường.&lt;/li&gt;
+&lt;li&gt;Thông tư 17/2022/TT-NHNN hướng dẫn quản lý rủi ro môi trường trong cấp tín dụng. Trong đó yêu cầu tổ chức tín dụng thỏa thuận với khách hàng bổ sung tại thỏa thuận cấp tín dụng các biện pháp khách hàng cam kết thực hiện nhằm hạn chế rủi ro về môi trường trong hoạt động cấp tín dụng.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;các-rủi-ro-môi-trường-thường-gặp&#34;&gt;Các rủi ro môi trường thường gặp
+&lt;/h2&gt;&lt;p&gt;(1) Rủi ro pháp lý: Dự án chưa có hoặc bị thu hồi giấy phép môi trường, bị phạt vi phạm hành chính, hoặc bị đình chỉ hoạt động.
 (2) Rủi ro uy tín: Khi ngân hàng bị công chúng hoặc truyền thông phản ứng vì tài trợ cho một dự án gây ô nhiễm.
 (3) Rủi ro thông tin: Khách hàng cung cấp thông tin không trung thực, báo cáo môi trường “trên giấy”.
 (4) Rủi ro tài chính – vận hành: Do thay đổi quy chuẩn môi trường, doanh nghiệp phải đầu tư thêm hệ thống xử lý chất thải hoặc dừng sản xuất để khắc phục.
-(5) Rủi ro thiên tai và biến đổi khí hậu: Thiệt hại tài sản do lũ lụt, sạt lở, hạn hán làm mất tài sản, ảnh hưởng đến khả năng thu nợ, xử lý tài sản bảo đảm.&lt;/p>
-&lt;h2 id="thiết-kế-điều-khoản-phòng-ngừa-rủi-ro-môi-trường-trong-hợp-đồng">Thiết kế điều khoản phòng ngừa rủi ro môi trường trong Hợp đồng
-&lt;/h2>&lt;p>Thay vì để khâu thẩm định và phê duyệt đưa ra các điều kiện yêu cầu Khách hàng bổ sung cam kết, Pháp chế có thể thiết lập “Lá chắn xanh” trong hợp đồng tín dụng. Dưới đây là ví dụ điều khoản mẫu:&lt;/p>
-&lt;p>&lt;strong>Điều &amp;hellip;. Cam kết về môi trường của Bên Vay&lt;/strong>&lt;/p>
-&lt;ol>
-&lt;li>Bên Vay cam kết và đảm bảo rằng phương án vay vốn bao gồm toàn bộ hoạt động sử dụng vốn vay, và các hoạt động liên quan đến việc tạo nguồn trả nợ (sau đây gọi chung là “Dự án”) tuân thủ đầy đủ các quy định của pháp luật về bảo vệ môi trường, bao gồm: (i) Luật Bảo vệ môi trường; (ii) các văn bản hướng dẫn thi hành; (iii) giấy phép môi trường, đăng ký môi trường (nếu có); và (iv) các cam kết môi trường (nếu có).&lt;/li>
-&lt;li>Bên Vay cam kết cung cấp cho Bên Cho Vay trong quá trình xem xét, giải ngân và suốt thời hạn khoản vay các thông tin liên quan đến môi trường của Dự án, bao gồm: (i) Báo cáo ĐTM hoặc báo cáo sơ bộ ĐTM (nếu bắt buộc); (ii) Giấy phép môi trường, quyết định phê duyệt ĐTM, đăng ký môi trường (nếu có); (iii) Kết quả kiểm tra, thanh tra về môi trường (nếu có); (iv) Báo cáo công tác bảo vệ môi trường định kỳ gửi cơ quan có thẩm quyền (nếu có); (v) Báo cáo định kỳ cho Bên Cho Vay ít nhất 01 lần/năm hoặc theo yêu cầu về việc thực hiện các cam kết môi trường. Trường hợp Bên Vay cung cấp thông tin sai lệch hoặc không trung thực thì có thể bị xem là vi phạm nghiêm trọng và bị xử lý theo khoản 6 Điều này.&lt;/li>
-&lt;li>Nếu xảy ra sự kiện hoặc tình huống có khả năng phát sinh rủi ro môi trường (ví dụ: ô nhiễm bất thường, khiếu nại của cộng đồng, quyết định xử phạt hoặc kiến nghị của cơ quan môi trường, thay đổi tiêu chuẩn môi trường khiến chi phí vận hành tăng, hoặc thiên tai ảnh hưởng tới hoạt động môi trường của Dự án), Bên Vay phải thông báo cho Bên Cho Vay trong thời hạn không quá … ngày làm việc kể từ ngày phát hiện hoặc lẽ ra phải phát hiện sự kiện đó, đồng thời cung cấp kế hoạch khắc phục, chịu chi phí khắc phục và bảo đảm việc khắc phục theo yêu cầu của cơ quan nhà nước có thẩm quyền.&lt;/li>
-&lt;li>Bên Vay cam kết thực hiện và duy trì các biện pháp đã thỏa thuận với Bên Cho Vay nhằm hạn chế rủi ro môi trường, bao gồm nhưng không giới hạn: (i) lắp đặt, vận hành, bảo dưỡng thiết bị xử lý môi trường đúng chuẩn; (ii) quản lý, phân loại, thu gom, lưu giữ, vận chuyển, xử lý chất thải phù hợp; (iii) đảm bảo không gây ô nhiễm vượt chuẩn; (iv) đào tạo nhân sự, vận hành hệ thống giám sát môi trường (nếu có yêu cầu); (v) lập báo cáo định kỳ gửi cơ quan nhà nước, và gửi cho Bên Cho Vay theo yêu cầu.&lt;/li>
-&lt;li>Bên Vay cho phép Bên Cho Vay (và/hoặc đơn vị được ủy quyền) kiểm tra, giám sát việc thực hiện các cam kết môi trường, bao gồm quyền tiếp cận hồ sơ, kiểm tra hiện trường, lấy mẫu, kiểm tra thiết bị, thu thập thông tin từ cộng đồng và cơ quan quản lý. Bên Vay chịu chi phí kiểm tra nếu phát hiện vi phạm cam kết môi trường.&lt;/li>
-&lt;li>Trường hợp Bên Vay vi phạm một hoặc nhiều cam kết tại Điều này, hoặc bị cơ quan môi trường xử phạt, đình chỉ, thu hồi giấy phép, hoặc xảy ra sự kiện nêu tại khoản 3 Điều này, Bên Cho Vay có quyền yêu cầu Bên Vay khắc phục trong thời hạn ___ ngày; nếu không khắc phục đúng hạn, Bên Cho Vay được chấm dứt cho vay, thu nợ trước hạn, xử lý tài sản bảo đảm và/hoặc điều chỉnh lãi suất áp dụng.&lt;/li>
-&lt;/ol></description></item><item><title>"Bốc phốt" công ty bất động sản, ngân hàng phát hành trái phiếu</title><link>/posts/bond-bank-bds/</link><pubDate>Wed, 22 Oct 2025 21:22:36 +0700</pubDate><guid>/posts/bond-bank-bds/</guid><description>&lt;p>Nhân câu chuyên &lt;a class="link" href="https://cafef.vn/thanh-tra-chinh-phu-phat-hien-loat-vi-pham-ve-phat-hanh-trai-phieu-cua-nhieu-ngan-hang-cong-ty-188251017223644349.chn?fbclid=IwY2xjawNlyHFleHRuA2FlbQIxMABicmlkETFuMk9vNVhIQjNNVjd0ODh0AR79HBv_MnJ2PgORYimPL1iNSfmgfmI8lef_n7BQn8khhHz9wvSRHVJB00E5VA_aem_BL-hmNsE0qE4RgCMefroLw" target="_blank" rel="noopener"
->Thanh tra Chính phủ phát hiện loạt vi phạm về phát hành trái phiếu của nhiều ngân hàng, công ty&lt;/a>, tôi có gợi ý cho AI về các loại cấu trúc giao dịch, và dưới đây là câu trả lời tóm tắt từ AI (chưa kiểm chứng)&lt;/p>
-&lt;p>Công ty bất động sản:&lt;/p>
-&lt;ul>
-&lt;li>Hợp thức hóa dòng tiền đảo nợ (tiền phát hành trái phiếu chảy ngược về để trả nợ ngân hàng hoặc công ty con/công ty liên quan trả nợ ngân hàng)&lt;/li>
-&lt;li>Tăng vốn lưu động và che giấu nợ vay thực tế (ghi nhận là nợ trái phiếu, không phải nợ vay tín dụng, giảm tỷ lệ nợ vay/tổng tài sản (Debt-to-Asset) hoặc nợ vay/vốn chủ sở hữu (D/E) trên báo cáo tài chính hợp nhất)&lt;/li>
-&lt;li>Làm đẹp báo cáo tài chính (Trái phiếu do ngân hàng phát hành mà công ty bất động sản mua có thể được ghi nhận như tài sản đầu tư ngắn hạn an toàn, làm tăng tính thanh khoản hoặc tăng giá trị tài sản tài chính)&lt;/li>
-&lt;/ul>
-&lt;p>Ngân hàng:&lt;/p>
-&lt;ul>
-&lt;li>Giảm tỷ lệ cho vay bất động sản trực tiếp&lt;/li>
-&lt;li>Làm đẹp tỷ lệ an toàn vốn (CAR – Capital Adequacy Ratio)&lt;/li>
-&lt;li>Làm đẹp tỷ lệ sử dụng vốn ngắn hạn cho vay trung dài hạn&lt;/li>
-&lt;li>Làm đẹp báo cáo lợi nhuận và quy mô tài sản&lt;/li>
-&lt;li>Làm đẹp tỷ lệ cấp tín dụng và hạn mức tăng trưởng tín dụng&lt;/li>
-&lt;/ul>
-&lt;p>Việc làm đẹp các chỉ số này cũng là bình thường, cơ quan giám sát và nhà đầu tư chuyên nghiệp chắc cũng nắm rõ các kỹ thuật này.&lt;/p></description></item><item><title>Nghề luật sư – hành trình của công lý, nhân tâm và dũng khí</title><link>/posts/ngay_luat_su_10_10/</link><pubDate>Fri, 10 Oct 2025 19:39:12 +0700</pubDate><guid>/posts/ngay_luat_su_10_10/</guid><description>&lt;p>&lt;em>&lt;strong>Bài này nhắc nhớ về nghề nghiệp của Luật sư để tự soi lai mình nhân ngày 10-10.&lt;/strong>&lt;/em>&lt;/p>
-&lt;hr>
-&lt;h3 id="nghề-luật-sư--hành-trình-của-công-lý-nhân-tâm-và-dũng-khí">NGHỀ LUẬT SƯ – HÀNH TRÌNH CỦA CÔNG LÝ, NHÂN TÂM VÀ DŨNG KHÍ
-&lt;/h3>&lt;h4 id="1-nguồn-gốc-và-sứ-mệnh-của-nghề-luật-sư">1. Nguồn gốc và sứ mệnh của nghề luật sư
-&lt;/h4>&lt;ul>
-&lt;li>
-&lt;p>Từ thời La Mã cổ đại, khi con người bắt đầu biết dựa vào pháp luật để phân định đúng – sai, đã xuất hiện những người đứng ra bảo vệ cho kẻ yếu, nói lên tiếng nói của công lý. Họ chính là tiền thân của luật sư ngày nay – những hiệp sĩ của công lý, mang trong mình sứ mệnh bảo vệ quyền con người và sự công bằng xã hội.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Tại Việt Nam, nghề luật sư được hình thành, phát triển qua nhiều giai đoạn lịch sử. Dù trong bất kỳ thời kỳ nào – chiến tranh hay hòa bình, xây dựng hay đổi mới – luật sư luôn giữ vai trò đặc biệt: bảo vệ công lý, bảo vệ quyền con người, đặc biệt là quyền được bào chữa và quyền nhờ người khác bào chữa. Luật sư chính là người bảo vệ những người thấp cổ bé họng trước sức mạnh của cường quyền và định kiến.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h4 id="2-phẩm-chất-cốt-lõi-của-người-luật-sư">2. Phẩm chất cốt lõi của người luật sư
-&lt;/h4>&lt;p>&lt;strong>Trái tim nóng – để cảm thông và dấn thân&lt;/strong>&lt;/p>
-&lt;p>Một luật sư không thể hành nghề nếu không có tình yêu với con người và niềm tin vào công lý. Trái tim nóng giúp họ dấn thân, đứng về phía những thân phận yếu thế, những người bị oan khuất hay bị lãng quên. Không có cảm xúc, không thể có công lý thật sự.&lt;/p>
-&lt;p>&lt;strong>Cái đầu lạnh – để tỉnh táo và sáng suốt&lt;/strong>&lt;/p>
-&lt;p>Luật sư cần giữ sự tỉnh táo trước áp lực, dư luận và cảm xúc. Cái đầu lạnh giúp họ nhìn thấu bản chất của sự việc, để lý trí dẫn đường thay vì cảm xúc, và để mỗi lập luận, mỗi hành động đều hướng tới sự thật và công bằng.&lt;/p>
-&lt;p>&lt;strong>Bàn tay trong sạch – để giữ nghề thanh cao&lt;/strong>&lt;/p>
-&lt;p>Luật sư là người sống bằng niềm tin – của thân chủ, của xã hội, của công lý. Một hành vi sai trái, một sự thoả hiệp với cái xấu, sẽ làm tổn thương không chỉ danh dự cá nhân mà còn làm hoen ố thanh danh của cả nghề. Sự liêm chính là sợi chỉ đỏ nối dài giá trị của luật sư qua mọi thế hệ.&lt;/p>
-&lt;h4 id="3-lòng-dũng-cảm--linh-hồn-của-người-luật-sư">3. Lòng dũng cảm – linh hồn của người luật sư
-&lt;/h4>&lt;ul>
-&lt;li>
-&lt;p>Làm luật sư, không chỉ cần giỏi lý lẽ, mà còn cần can đảm để nói điều đúng, làm điều đúng.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Dũng cảm để đối mặt với kẻ mạnh, kẻ có quyền lực, khi công lý bị đe dọa. Dũng cảm để bảo vệ những người bị cả xã hội lên án, bởi công lý không chỉ dành cho người vô tội, mà còn cho cả những người bị buộc tội – họ cũng có quyền được bào chữa, quyền được lắng nghe.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Trong một xã hội phức tạp, lòng dũng cảm của luật sư đôi khi không đến từ những phiên tòa kịch tính, mà đến từ sự kiên định giữ vững đạo đức nghề nghiệp, từ chối những lợi ích dễ dàng, và chấp nhận bước đi trên con đường cô độc – chỉ vì một niềm tin duy nhất: công lý không thể bị đánh đổi.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h4 id="4-thăng-trầm-và-niềm-tin-của-người-trong-nghề">4. Thăng trầm và niềm tin của người trong nghề
-&lt;/h4>&lt;ul>
-&lt;li>
-&lt;p>Nghề luật sư là một hành trình dài, đầy gian nan và thử thách. Có những lúc mỏi mệt, muốn buông bỏ; có những khi cô đơn, bị hiểu lầm, bị hoài nghi. Nhưng rồi, niềm tin vào giá trị nhân văn, vào sứ mệnh chính nghĩa lại kéo mình trở lại với con đường mình đã chọn.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Chúng ta hành nghề bằng tri thức, nhưng sống được với nghề là nhờ đạo đức. Có thể thua một vụ án, nhưng nếu giữ được lương tâm và lòng tin vào công lý – thì đó vẫn là một chiến thắng.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h4 id="5-lời-kết">5. Lời kết
-&lt;/h4>&lt;ul>
-&lt;li>Nghề luật sư không chỉ là một nghề, mà là một lời cam kết với công lý và nhân loại. Đó là hành trình của những con người dám bước đi giữa ranh giới của đúng và sai, của ánh sáng và bóng tối, để bảo vệ giá trị làm người.&lt;/li>
-&lt;/ul></description></item><item><title>Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ</title><link>/posts/auto-approval/</link><pubDate>Wed, 08 Oct 2025 06:05:41 +0700</pubDate><guid>/posts/auto-approval/</guid><description>&lt;p>Trong bối cảnh chuyển đổi số mạnh mẽ, hầu hết các ngân hàng và tổ chức tài chính hiện nay đều đã triển khai hệ thống phê duyệt tự động (auto approval) trong hoạt động cho vay. Mục tiêu là tối ưu hóa quy trình, giảm thời gian xử lý hồ sơ và nâng cao trải nghiệm khách hàng.&lt;/p>
-&lt;p>Tuy nhiên, nhiều tổ chức lại bỏ qua bước quan trọng: Xây dựng quy định nội bộ đủ chặt chẽ để quản lý, giám sát và kiểm soát rủi ro khi áp dụng công nghệ tự động. Hệ quả là việc phê duyệt có thể không tuân thủ đúng quy định pháp lý, đồng thời thiếu cơ chế xác định rõ trách nhiệm cá nhân và bộ phận khi rủi ro phát sinh.&lt;/p>
-&lt;h2 id="1-pháp-lý-cho-phê-duyệt-tự-động">1. Pháp lý cho phê duyệt tự động
-&lt;/h2>&lt;p>&lt;a class="link" href="https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-Giao-dich-dien-tu-2023-20-2023-QH15-513347.aspx" target="_blank" rel="noopener"
->Luật giao dịch điện tử 2023&lt;/a>:&lt;/p>
-&lt;blockquote>
-&lt;p>Hợp đồng điện tử được giao kết hoặc thực hiện từ sự tương tác giữa một hệ thống thông tin tự động với người hoặc giữa các hệ thống thông tin tự động với nhau không bị phủ nhận giá trị pháp lý chỉ vì không có sự kiểm tra hay can thiệp của con người vào từng hành động cụ thể do các hệ thống thông tin tự động thực hiện hay vào hợp đồng&lt;/p>
-&lt;/blockquote>
-&lt;p>Thông tư 39/2016/TT-NHNN, sửa đổi bởi &lt;a class="link" href="https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/thong-tu-06-2023-tt-nhnn-sua-doi-thong-tu-39-2016-tt-nhnn-cho-vay-cua-to-chuc-tin-dung-518149.aspx" target="_blank" rel="noopener"
->Thông tư 06/2023/TT-NHNN&lt;/a>:&lt;/p>
-&lt;blockquote>
-&lt;p>Điều 32đ. Thẩm định và quyết định cho vay&lt;br>
-Tổ chức tín dụng tổ chức xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo nguyên tắc phân định trách nhiệm của từng cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay. Trường hợp có rủi ro phát sinh, tổ chức tín dụng phải có cơ chế để xác định từng cá nhân, bộ phận chịu trách nhiệm và xử lý kịp thời các vấn đề, rủi ro phát sinh để đảm bảo hiệu quả, an toàn trong việc tổ chức xét duyệt cho vay bằng phương tiện điện tử của tổ chức tín dụng.&lt;/p>
-&lt;/blockquote>
-&lt;p>&lt;a class="link" href="https://thuvienphapluat.vn/cong-van/Tien-te-Ngan-hang/Cong-van-8631-NHNN-CSTT-2023-giai-dap-cau-hoi-Thong-tu-06-2023-TT-NHNN-586461.aspx" target="_blank" rel="noopener"
->Văn bản số 8631/NHNN-CSTT ngày 08/11/2023&lt;/a>:&lt;/p>
-&lt;blockquote>
-&lt;p>Theo quy định tại Điều 32đ Thông tư số 39/2016/TT-NHNN (đã được sửa đổi, bổ sung), cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay bao gồm cá nhân, bộ phận xây dựng sản phẩm cho vay.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="2-mẫu-điều-khoản-tham-khảo-xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử">2. Mẫu điều khoản tham khảo: Xét duyệt cho vay bằng phương tiện điện tử
-&lt;/h2>&lt;p>Một điều khoản về Xét duyệt cho vay bằng phương tiện điện tử nên được quy định đủ chi tiết để bảo đảm tuân thủ pháp lý và quản trị rủi ro. Dưới đây là mẫu điều khoản mang tính tham khảo:&lt;/p>
-&lt;blockquote>
-&lt;h3 id="điều--xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử">Điều … Xét duyệt cho vay bằng phương tiện điện tử
-&lt;/h3>&lt;h4 id="1-nguyên-tắc-chung">1. Nguyên tắc chung
-&lt;/h4>&lt;p>Việc xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo phân định rõ trách nhiệm của từng cá nhân và bộ phận tham gia vào quá trình xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay.&lt;br>
-Trường hợp phát sinh rủi ro, phải có cơ chế xác định trách nhiệm và biện pháp xử lý kịp thời, bảo đảm tính an toàn, hiệu quả và tuân thủ pháp luật trong toàn bộ quy trình.&lt;/p>
-&lt;h4 id="2-phân-định-trách-nhiệm-khi-áp-dụng-phê-duyệt-tự-động-hoặc-bán-tự-động">2. Phân định trách nhiệm khi áp dụng phê duyệt tự động hoặc bán tự động:
-&lt;/h4>&lt;p>2.1. Lưu vết hệ thống: Hệ thống thông tin phải lưu vết toàn bộ quá trình thẩm định, phê duyệt và xử lý dữ liệu, đảm bảo khả năng truy xuất và đối chiếu khi có rủi ro hoặc tranh chấp.&lt;br>
-2.2. Trường hợp tài khoản phê duyệt gắn với cá nhân cụ thể: Cá nhân chịu trách nhiệm kiểm tra, theo dõi hoạt động của hệ thống dưới tài khoản của mình, và chịu trách nhiệm tương tự như người phê duyệt trong quy trình truyền thống.&lt;br>
-2.3. Trường hợp phê duyệt tự động không có tài khoản hoặc bằng tài khoản hệ thống (auto/bot):&lt;/p>
-&lt;ul>
-&lt;li>Bộ phận xây dựng quy tắc tự động (Bộ phận sản phẩm nếu bộ phận này xây sản phẩm tự động):
-&lt;ul>
-&lt;li>Chịu trách nhiệm về tính hợp pháp, hợp lý của mô hình chấm điểm tín dụng, các ngưỡng phê duyệt và dữ liệu đầu vào.&lt;/li>
-&lt;li>Báo cáo định kỳ về hiệu quả và rủi ro của quy tắc, đồng thời thực hiện rà soát khi có thay đổi chính sách.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Bộ phận CNTT:
-&lt;ul>
-&lt;li>Đảm bảo hệ thống vận hành ổn định, an toàn, không bị can thiệp trái phép.&lt;/li>
-&lt;li>Không được tự ý thay đổi quy tắc hoặc thuật toán khi chưa có phê duyệt của bộ phận nghiệp vụ.&lt;/li>
-&lt;li>Ghi nhận log, kiểm soát truy cập, đảm bảo khả năng truy xuất dữ liệu để xác định trách nhiệm.&lt;/li>
-&lt;li>Thực hiện đầy đủ yêu cầu về an toàn thông tin theo Thông tư 09/2020/TT-NHNN.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h4 id="3-xử-lý-rủi-ro-và-xác-định-trách-nhiệm">3. Xử lý rủi ro và xác định trách nhiệm:
-&lt;/h4>&lt;ul>
-&lt;li>Rủi ro do quy tắc tự động: cá nhân/bộ phận thiết lập quy tắc chịu trách nhiệm.&lt;/li>
-&lt;li>Rủi ro do lỗi vận hành: thuộc cá nhân vận hành.&lt;/li>
-&lt;li>Rủi ro do sự cố kỹ thuật: thuộc bộ phận IT.&lt;/li>
-&lt;li>Rủi ro tổng hợp: xác định trách nhiệm theo phân tích nguyên nhân.&lt;/li>
-&lt;/ul>
-&lt;h4 id="4-cơ-chế-ứng-phó-và-kiểm-soát-rủi-ro">4. Cơ chế ứng phó và kiểm soát rủi ro:
-&lt;/h4>&lt;ul>
-&lt;li>Hệ thống phải có khả năng can thiệp khẩn cấp (override) khi phát hiện bất thường.&lt;/li>
-&lt;li>Rà soát định kỳ để đánh giá độ tin cậy, thiết lập ngưỡng cảnh báo và kịch bản xử lý khi tỷ lệ rủi ro vượt giới hạn cho phép.&lt;/li>
-&lt;li>Biện pháp xử lý gồm: khắc phục kỹ thuật, điều chỉnh quy trình nghiệp vụ, xử lý kỷ luật và nâng cấp hệ thống.&lt;/li>
-&lt;/ul>
-&lt;/blockquote>
-&lt;h2 id="3-tự-động-không-có-nghĩa-vô-trách-nhiệm">3. Tự động không có nghĩa “vô trách nhiệm”
-&lt;/h2>&lt;p>Một hệ thống thông minh chỉ thực sự hiệu quả khi được vận hành trong một khuôn khổ pháp lý – nội bộ rõ ràng, minh bạch và có trách nhiệm.
-Dù hệ thống có hiện đại đến đâu, tổ chức vẫn phải:&lt;/p>
-&lt;ul>
-&lt;li>Xây dựng quy định nội bộ chi tiết để phân định rõ vai trò con người trong toàn bộ quy trình.&lt;/li>
-&lt;li>Đảm bảo tính minh bạch, truy xuất và kiểm soát đối với mọi quyết định của hệ thống.&lt;/li>
-&lt;/ul></description></item><item><title>Quyền thu giữ tài sản bảo đảm</title><link>/posts/legal-draft/25-nd-thu-giu-tai-san/</link><pubDate>Sat, 04 Oct 2025 06:15:41 +0700</pubDate><guid>/posts/legal-draft/25-nd-thu-giu-tai-san/</guid><description>&lt;p>Luật sửa đổi, bổ sung Luật các tổ chức tín dụng năm 2025 đã ghi nhận quyền thu giữ tài sản bảo đảm của bên nhận bảo đảm (tổ chức tín dung hoặc VAMC). Tuy nhiên, “quyền” chỉ có giá trị khi được chuẩn bị kỹ trong hợp đồng bảo đảm – với điều khoản rõ ràng, minh bạch và phù hợp pháp luật.&lt;/p>
-&lt;h2 id="1-cơ-sở-pháp-lý-của-quyền-thu-giữ">1. Cơ sở pháp lý của quyền thu giữ
-&lt;/h2>&lt;p>Luật sửa đổi, bổ sung Luật các tổ chức tín dụng 2025 quy định:&lt;/p>
-&lt;blockquote>
-&lt;p>“&lt;strong>Điều 198a. Quyền thu giữ tài sản bảo đảm&lt;/strong>&lt;br>
-&amp;hellip;&lt;br>
-&lt;em>2. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức mua bán, xử lý nợ có quyền thu giữ tài sản bảo đảm của khoản nợ xấu khi đáp ứng các điều kiện sau đây:&lt;br>
-&amp;hellip;.&lt;br>
-b) Hợp đồng bảo đảm có &lt;strong>thỏa thuận&lt;/strong> về việc bên bảo đảm đồng ý cho bên nhận bảo đảm có quyền thu giữ tài sản bảo đảm của khoản nợ xấu khi xảy ra trường hợp xử lý tài sản bảo đảm theo quy định của pháp luật về bảo đảm thực hiện nghĩa vụ;
-&amp;hellip;.&lt;br>
-&amp;ldquo;Thông báo cho bên bảo đảm, người đang giữ tài sản bảo đảm (nếu có) theo phương thức thông báo đã &lt;strong>thỏa thuận&lt;/strong> tại hợp đồng bảo đảm&lt;/em>&amp;rdquo;&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="2-những-rủi-ro-cần-lường-trước-khi-áp-dụng">2. Những rủi ro cần lường trước khi áp dụng
-&lt;/h2>&lt;p>Khi triển khai quyền thu giữ, cần lưu ý một số vấn đề thực tế dễ phát sinh:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Chi phí thu giữ và bảo quản&lt;/strong>: cần quy định rõ ai chịu và cách xác định.&lt;/li>
-&lt;li>&lt;strong>Rủi ro tài sản bị hư hỏng, mất mát&lt;/strong>: phải có biên bản bàn giao, hình ảnh chứng cứ cụ thể.&lt;/li>
-&lt;li>&lt;strong>Quyền vào địa điểm thu giữ&lt;/strong>: nên có thỏa thuận rõ, có thể vào kho bãi, nhà xưởng, văn phòng, địa điểm kinh doanh, tránh vào nhà ở (nhạy cảm)&lt;/li>
-&lt;li>&lt;strong>Tranh chấp với bên thứ ba&lt;/strong>: ví dụ người thuê tài sản, đồng sở hữu, hoặc người đang quản lý tài sản bảo đảm – cần có điều khoản buộc bên bảo đảm giải quyết triệt để.&lt;/li>
-&lt;/ul>
-&lt;h2 id="3-cách-thiết-kế-điều-khoản-thu-giữ-trong-hợp-đồng-bảo-đảm">3. Cách thiết kế điều khoản thu giữ trong hợp đồng bảo đảm
-&lt;/h2>&lt;p>Một điều khoản về quyền thu giữ nên được soạn thảo đủ chi tiết để tránh tranh chấp khi thực hiện. Dưới đây là mẫu điều khoản mang tính tham khảo:&lt;/p>
-&lt;p>&lt;strong>Điều &amp;hellip;. Thu giữ Tài sản bảo đảm&lt;/strong>&lt;/p>
-&lt;ol>
-&lt;li>&lt;strong>Quyền thu giữ TSBĐ:&lt;/strong>&lt;/li>
-&lt;/ol>
-&lt;p>a) Bên thế chấp đồng ý cho Bên NBD (bên nhận bảo đảm) có quyền thu giữ tài sản bảo đảm của khoản nợ xấu khi xảy ra trường hợp xử lý TSBĐ theo quy định của pháp luật về bảo đảm thực hiện nghĩa vụ.&lt;/p>
-&lt;p>b) Bên thế chấp, người đang giữ TSBĐ phải giao TSBĐ, kèm theo giấy tờ, hồ sơ pháp lý của TSBĐ cho Bên NBD theo yêu cầu bằng văn bản Bên NBD. Trường hợp Bên thế chấp, người đang giữ TSBĐ không giao TSBĐ cho Bên NBD để xử lý thì Bên NBD được thu giữ TSBĐ.&lt;/p>
-&lt;ol start="2">
-&lt;li>&lt;strong>Thông báo thu giữ TSBĐ:&lt;/strong>&lt;/li>
-&lt;/ol>
-&lt;p>a) Chậm nhất 15 ngày trước ngày tiến hành thu giữ TSBĐ, Bên NBD công khai thông tin về thời gian, địa điểm thu giữ TSBĐ, TSBĐ được thu giữ, lý do thu giữ theo quy định pháp luật, và Thông báo cho Bên thế chấp, người đang giữ TSBĐ, theo phương thức: Dịch vụ bưu chính tới địa chỉ đã được cung cấp theo hợp đồng bảo đảm hoặc theo thông tin được lưu trữ tại cơ quan đăng ký biện pháp bảo đảm, hoặc phương thức khác theo quy định pháp luật.&lt;/p>
-&lt;p>b) Thông báo được coi là đã được nhận theo báo phát của dịch vụ bưu chính. Trường hợp Bên nhận từ chối nhận Thông báo hoặc thay đổi địa chỉ mà không thông báo bằng văn bản cho Bên NBD: Thông báo được coi là đã được nhận sau 03 (ba) ngày kể từ ngày gửi cho đơn vị dịch vụ bưu chính.&lt;/p>
-&lt;ol start="3">
-&lt;li>&lt;strong>Thực hiện thu giữ TSBĐ:&lt;/strong>&lt;/li>
-&lt;/ol>
-&lt;p>a) Bên NBD được trực tiếp hoặc ủy quyền cho tổ chức hợp pháp thực hiện việc thu giữ TSBĐ. Trong quá trình tiến hành thu giữ, Bên NBD/Bên được ủy quyền có quyền yêu cầu các cơ quan nhà nước có thẩm quyền trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, thực hiện việc bảo đảm an ninh, trật tự, an toàn xã hội trong quá trình thu giữ TSBĐ.&lt;/p>
-&lt;p>b) Bên thế chấp cam kết thực hiện ngay và vô điều kiện:&lt;/p>
-&lt;p>b1) Giao TSBĐ, giấy tờ về TSBĐ cho Bên NBD. Trường hợp TSBĐ. giấy tờ về TSBĐ đang chiếm hữu bởi Bên thứ ba, Bên thế chấp phải thực hiện tất cả các hành động cần thiết và chịu mọi chi phí phát sinh để Bên thứ ba giao TSBĐ cho Bên NBD.&lt;/p>
-&lt;p>b2) Di chuyển toàn bộ người và tài sản không thuộc TSBĐ ở trên hoặc ở trong TSBĐ đúng thời hạn theo yêu cầu của Bên NBD khi Bên NBD thực hiện thu giữ TSBĐ.&lt;/p>
-&lt;p>b3) Hợp tác, hỗ trợ Bên NBD thu giữ TSBĐ, không cản trở hay để người trong gia đình, cá nhân/tổ chức khác cản trở việc thu giữ TSBĐ.&lt;/p>
-&lt;p>c) Nếu Bên thế chấp không hợp tác với Bên NBD, hoặc không có mặt tại địa chỉ có TSBĐ khi Bên NBD tiến hành thu giữ, Bên thế chấp đồng ý rằng:&lt;/p>
-&lt;p>c1) Người quản lý TSBĐ có trách nhiệm thực hiện việc bàn giao tài sản cho Bên NBD mà không cần sự có mặt của Bên thế chấp.&lt;/p>
-&lt;p>c2) Bên NBD và/hoặc Bên quản lý TSBĐ có quyền trực tiếp vào nơi có TSBĐ để thu giữ TSBĐ,&lt;/p>
-&lt;p>c3) Trong trường hợp TSBĐ bị khóa hoặc niêm phong Bên NBD có quyền phá, mở khóa, phá bỏ niêm phong.&lt;/p>
-&lt;p>c4) Biên bản bàn giao hoặc thu giữ TSBĐ không có chữ ký của Bên thế chấp là vẫn có giá trị ràng buộc với Bên thế chấp.&lt;/p>
-&lt;p>d) Bên NBD được khóa, niêm phong, dán thông báo về việc TSBĐ khi tiến hành thu giữ TSBĐ.&lt;/p>
-&lt;ol start="4">
-&lt;li>&lt;strong>Chi phí, bồi hoàn/bồi thường:&lt;/strong>&lt;/li>
-&lt;/ol>
-&lt;p>a) Bên thế chấp chịu trách nhiệm thanh toán, bồi hoàn/bồi thường cho Bên NBD toàn bộ các chi phí phát sinh liên quan đến việc thu giữ tài sản, vận chuyển tài sản thu giữ, bảo quản tài sản thu giữ.&lt;/p>
-&lt;p>b) Khoản tiền phải trích cho Bên thế chấp để thu giữ TSBĐ theo quy định pháp luật được tính vào chi phí xử lý TSBĐ theo điểm &amp;hellip; khoản &amp;hellip;. Điều &amp;hellip; [Phương thức xử lý tài sản bảo đảm].&lt;/p>
-&lt;ol start="5">
-&lt;li>&lt;strong>Bảo quản, xử lý TSBĐ sau thu giữ:&lt;/strong>&lt;/li>
-&lt;/ol>
-&lt;p>a) Bên thế chấp đồng ý rằng Bên NBD không chịu trách nhiệm trong trường hợp TSBĐ sau khi thu giữ bị giảm sút giá trị, hao mòn tự nhiên, hoặc bị hư hỏng, mất, thiệt hại do các sự cố cháy, nổ, ngập lụt, động đất, hoặc các sự cố khác ngoài khả năng kiểm soát của Bên NBD.&lt;/p>
-&lt;p>b) Sau khi thu giữ, Bên NBD được bán, chuyển nhượng TSBĐ để thu hồi nợ, hoặc xử lý TSBĐ khác theo phương thức khác theo Điều &amp;hellip; [Phương thức xử lý tài sản bảo đảm] của Hợp đồng.&lt;/p>
-&lt;ol start="6">
-&lt;li>&lt;strong>Cam kết, xác nhận của Bên thế chấp:&lt;/strong>&lt;/li>
-&lt;/ol>
-&lt;p>a) Bằng việc ký Hợp đồng này, Bên thế chấp xác nhận đã được Bên NBD cung cấp đầy đủ thông tin cho Bên thế chấp về quyền và trách nhiệm của Bên thế chấp, quyền và trách nhiệm của Bên NBD được quy định tại Nghị định 304/2025/NĐ-CP (gồm cả sửa đổi, bô sung, thay thế, nếu có) và được quy định tại các văn bản pháp luật có liên quan về thu giữ TSBĐ.&lt;/p>
-&lt;p>b) Nếu Bên thế chấp đã cam kết xác nhận và chứng minh tài sản bảo đảm không thuộc trường hợp chỗ ở duy nhất, công cụ lao động chủ yếu hoặc duy nhất: Bên thế chấp cam kết và bảo đảm luôn duy trì TSBĐ đáp ứng đầy đủ điều kiện của tài sản bảo đảm của khoản nợ xấu được thu giữ theo quy định pháp luật trong suốt thời hạn thế chấp.&lt;/p>
-&lt;h2 id="4-tham-khảo">4. Tham khảo:
-&lt;/h2>&lt;ul>
-&lt;li>&lt;a class="link" href="https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Nghi-dinh-304-2025-ND-CP-dieu-kien-tai-san-bao-dam-cua-khoan-no-xau-duoc-thu-giu-681932.aspx" target="_blank" rel="noopener"
->Nghị định 304/2025/NĐ-CP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Hồ sơ dự thảo Nghị định về quyền thu giữ tài sản bảo đảm.&lt;/p>
-&lt;ul>
-&lt;li>&lt;a class="link" href="1-To-trinh.pdf" >Tờ trình&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="2-DuThao.15.8.25.pdf" >Dự thảo Nghị định&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="3.Ban-thuyet-minh.15.8.2025.pdf" >Bản thuyết minh&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="4-Ban-danh-ga-TTHC.15.8.2025.pdf" >Bản đánh giá&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="5-Kinh-nghiem-quoc-te.15.8.2025.pdf" >Kinh nghiệm quốc tế&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="6.1.Bang-tong-hop-y-kien-Bo-nganh.pdf" >Bảng tổng hợp ý kiến bộ ngành&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="6.2.Bang-tong-hop-y-kien-TCTD.pdf" >Bảng tổng hợp ý kiến tổ chức tín dụng&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Hợp đồng tín dụng vô hiệu</title><link>/posts/invalid-loan-contract/</link><pubDate>Thu, 02 Oct 2025 05:18:47 +0700</pubDate><guid>/posts/invalid-loan-contract/</guid><description>&lt;p>Một vụ việc đang thu hút sự chú ý của giới pháp lý và tài chính là trường hợp hợp đồng tín dụng giữa VPBank và khách vay bị tuyên vô hiệu. Cụ thể là TAND Khu vực 7 (TP HCM) đã bác yêu cầu khởi kiện của VPBank, tuyên hợp đồng tín dụng và văn bản thỏa thuận mua biệt thự đều vô hiệu.&lt;/p>
-&lt;p>Tòa xác định:&lt;/p>
-&lt;ul>
-&lt;li>Bản thỏa thuận mua biệt thự với Novareal mang tính chất vượt quá quyền hạn của công ty môi giới, vì Novareal ký vai trò môi giới nhưng trong hợp đồng lại quy định các điều khoản đặt cọc, tiến độ, quyền – nghĩa vụ tương tự như chủ đầu tư. Điều này vi phạm quy định Luật Kinh doanh Bất động sản 2014, vì công ty môi giới không được nhận đặt cọc trực tiếp từ khách hàng.&lt;/li>
-&lt;li>Dự án “Thung lũng Đại Dương / NovaWorld Phan Thiết” mà hợp đồng đề cập thực tế không tồn tại dưới dạng biệt thự song lập đã xây móng hoặc hoàn thiện — không có tài liệu chứng minh phần móng hoặc giấy tờ pháp lý để dự án được đưa vào kinh doanh.&lt;/li>
-&lt;li>Chủ đầu tư Delta Valley Bình Thuận không được ủy quyền cho Novareal ký hợp đồng đặt cọc liên quan tới tài sản nhà ở.&lt;/li>
-&lt;li>Việc ngân hàng giải ngân tiền vay cho Novareal (chứ không giao trực tiếp cho ông Sơn) để phục vụ hợp đồng mua biệt thự là khoản vay cho giao dịch có yếu tố bất động sản hình thành trong tương lai nhưng thiếu cơ sở pháp lý rõ ràng. Tòa viện dẫn Thông tư 39/2016 của Ngân hàng Nhà nước — tổ chức tín dụng không được cho vay để tài trợ các giao dịch mà pháp luật cấm.&lt;/li>
-&lt;/ul>
-&lt;p>Tòa quyết định:&lt;/p>
-&lt;ul>
-&lt;li>Novareal bị buộc phải trả lại cho VPBank 3,65 tỷ đồng (số tiền đã được giải ngân)&lt;/li>
-&lt;li>VPBank phải trả lại hơn 900 triệu đồng mà vợ chồng ông Sơn đã trả lãi.&lt;/li>
-&lt;li>Tòa từ chối yêu cầu xử lý tài sản bảo đảm của ngân hàng vì hợp đồng tín dụng vô hiệu.&lt;/li>
-&lt;/ul>
-&lt;h2 id="bài-học-pháp-lý">Bài học pháp lý
-&lt;/h2>&lt;p>Vụ việc này là một lời cảnh tỉnh mạnh mẽ đối với các ngân hàng.&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>Trong thời gian qua, nhiều công ty bất động sản đã tìm cách lách các quy định của Luật Kinh doanh Bất động sản nhằm huy động vốn từ người mua, dù dự án chưa đủ điều kiện pháp lý để đưa vào kinh doanh. Trong không ít trường hợp, người mua dù biết rõ rủi ro pháp lý vẫn chấp nhận tham gia giao dịch, thường là để hưởng lợi từ các ưu đãi “đặt chỗ sớm”.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Tuy nhiên, với phán quyết của Tòa án trong vụ việc này, có thể thấy rằng: Việc sử dụng vốn vay ngân hàng để thực hiện một giao dịch bất động sản trái pháp luật không còn được pháp luật bảo vệ.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Từ đây, người mua chỉ có thể sử dụng nguồn vốn ngoài ngân hàng cho các giao dịch đầu tư kiểu này. Các công ty bất động sản không thể tiếp tục xây dựng mô hình &amp;ldquo;hợp tác&amp;rdquo; với ngân hàng để nhận vốn vay từ người mua trong các giao dịch chưa đủ điều kiện pháp lý. Ngân hàng, nếu vẫn giải ngân trong những trường hợp này, sẽ đứng trước rủi ro pháp lý lớn: Hợp đồng tín dụng có thể bị tuyên vô hiệu, tài sản bảo đảm không được công nhận, và khả năng thu hồi nợ từ Khách vay là không có.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>Nguồn:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://vnexpress.net/nguoi-vay-thoat-no-5-ty-dong-vi-ngan-hang-giai-ngan-mua-biet-thu-ao-4945909.html" target="_blank" rel="noopener"
->https://vnexpress.net/nguoi-vay-thoat-no-5-ty-dong-vi-ngan-hang-giai-ngan-mua-biet-thu-ao-4945909.html&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://vnexpress.net/ngan-hang-khang-cao-vu-nguoi-vay-thoat-no-5-ty-dong-4946544.html" target="_blank" rel="noopener"
->https://vnexpress.net/ngan-hang-khang-cao-vu-nguoi-vay-thoat-no-5-ty-dong-4946544.html&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Bài lưu:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a class="link" href="Hop-dong-vay-vo-hieu-1.pdf" >Người vay thoát nợ&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="Ngan-hang-khang-cao-1.pdf" >Ngân hàng kháng cáo&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="BanAn_VPBank_SonDao_Pub.pdf" >Bản án&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="KhangNghi_VPBank_SonDao_Pub.pdf" >Kháng nghị&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="VanBanNganHangNhaNuoc.pdf" >Văn bản Ngân hàng nhà nước&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="VanBanSoXayDung.pdf" >Văn bản Sở Xây dựng&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Hello World</title><link>/posts/hello-world/</link><pubDate>Wed, 01 Oct 2025 19:00:00 +0700</pubDate><guid>/posts/hello-world/</guid><description>&lt;p>Đây là không gian để chia sẻ những trải nghiệm, kiến thức và góc nhìn cá nhân về pháp luật – công nghệ – tài chính – phát triển bản thân&lt;/p>
-&lt;h3 id="vì-sao-tôi-viết-blog">Vì sao tôi viết blog?
-&lt;/h3>&lt;p>Trong thế giới đầy ắp thông tin ngày nay, việc ghi lại, hệ thống hóa và chia sẻ trở thành một cách học tập hiệu quả. Blog này không chỉ là nơi tôi viết cho người khác đọc, mà còn là một cách sắp xếp ý tưởng và lưu giữ kiến thức.&lt;/p>
-&lt;h3 id="bạn-sẽ-tìm-thấy-gì-ở-đây">Bạn sẽ tìm thấy gì ở đây?
-&lt;/h3>&lt;ul>
-&lt;li>Những bài viết phân tích, chia sẻ kiến thức thực tế.&lt;/li>
-&lt;li>Các góc nhìn cá nhân trước những xu hướng, sự kiện mới.&lt;/li>
-&lt;li>Một chút “life note” – nơi tôi ghi lại những điều nhỏ bé nhưng đáng nhớ trong công việc và cuộc sống.&lt;/li>
-&lt;/ul>
-&lt;h3 id="lời-mời-đến-bạn">Lời mời đến bạn
-&lt;/h3>&lt;p>Tôi tin rằng tri thức chỉ thực sự có giá trị khi được chia sẻ và thảo luận. Vì vậy, nếu bạn có ý kiến, câu hỏi hay góc nhìn khác, đừng ngần ngại liên hệ trực tiếp với tôi qua email khanginfo(a)gmail(dot)com.&lt;/p></description></item></channel></rss>
+(5) Rủi ro thiên tai và biến đổi khí hậu: Thiệt hại tài sản do lũ lụt, sạt lở, hạn hán làm mất tài sản, ảnh hưởng đến khả năng thu nợ, xử lý tài sản bảo đảm.&lt;/p&gt;
+&lt;h2 id=&#34;thiết-kế-điều-khoản-phòng-ngừa-rủi-ro-môi-trường-trong-hợp-đồng&#34;&gt;Thiết kế điều khoản phòng ngừa rủi ro môi trường trong Hợp đồng
+&lt;/h2&gt;&lt;p&gt;Thay vì để khâu thẩm định và phê duyệt đưa ra các điều kiện yêu cầu Khách hàng bổ sung cam kết, Pháp chế có thể thiết lập “Lá chắn xanh” trong hợp đồng tín dụng. Dưới đây là ví dụ điều khoản mẫu:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Điều &amp;hellip;. Cam kết về môi trường của Bên Vay&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Bên Vay cam kết và đảm bảo rằng phương án vay vốn bao gồm toàn bộ hoạt động sử dụng vốn vay, và các hoạt động liên quan đến việc tạo nguồn trả nợ (sau đây gọi chung là “Dự án”) tuân thủ đầy đủ các quy định của pháp luật về bảo vệ môi trường, bao gồm: (i) Luật Bảo vệ môi trường; (ii) các văn bản hướng dẫn thi hành; (iii) giấy phép môi trường, đăng ký môi trường (nếu có); và (iv) các cam kết môi trường (nếu có).&lt;/li&gt;
+&lt;li&gt;Bên Vay cam kết cung cấp cho Bên Cho Vay trong quá trình xem xét, giải ngân và suốt thời hạn khoản vay các thông tin liên quan đến môi trường của Dự án, bao gồm: (i) Báo cáo ĐTM hoặc báo cáo sơ bộ ĐTM (nếu bắt buộc); (ii) Giấy phép môi trường, quyết định phê duyệt ĐTM, đăng ký môi trường (nếu có); (iii) Kết quả kiểm tra, thanh tra về môi trường (nếu có); (iv) Báo cáo công tác bảo vệ môi trường định kỳ gửi cơ quan có thẩm quyền (nếu có); (v) Báo cáo định kỳ cho Bên Cho Vay ít nhất 01 lần/năm hoặc theo yêu cầu về việc thực hiện các cam kết môi trường. Trường hợp Bên Vay cung cấp thông tin sai lệch hoặc không trung thực thì có thể bị xem là vi phạm nghiêm trọng và bị xử lý theo khoản 6 Điều này.&lt;/li&gt;
+&lt;li&gt;Nếu xảy ra sự kiện hoặc tình huống có khả năng phát sinh rủi ro môi trường (ví dụ: ô nhiễm bất thường, khiếu nại của cộng đồng, quyết định xử phạt hoặc kiến nghị của cơ quan môi trường, thay đổi tiêu chuẩn môi trường khiến chi phí vận hành tăng, hoặc thiên tai ảnh hưởng tới hoạt động môi trường của Dự án), Bên Vay phải thông báo cho Bên Cho Vay trong thời hạn không quá … ngày làm việc kể từ ngày phát hiện hoặc lẽ ra phải phát hiện sự kiện đó, đồng thời cung cấp kế hoạch khắc phục, chịu chi phí khắc phục và bảo đảm việc khắc phục theo yêu cầu của cơ quan nhà nước có thẩm quyền.&lt;/li&gt;
+&lt;li&gt;Bên Vay cam kết thực hiện và duy trì các biện pháp đã thỏa thuận với Bên Cho Vay nhằm hạn chế rủi ro môi trường, bao gồm nhưng không giới hạn: (i) lắp đặt, vận hành, bảo dưỡng thiết bị xử lý môi trường đúng chuẩn; (ii) quản lý, phân loại, thu gom, lưu giữ, vận chuyển, xử lý chất thải phù hợp; (iii) đảm bảo không gây ô nhiễm vượt chuẩn; (iv) đào tạo nhân sự, vận hành hệ thống giám sát môi trường (nếu có yêu cầu); (v) lập báo cáo định kỳ gửi cơ quan nhà nước, và gửi cho Bên Cho Vay theo yêu cầu.&lt;/li&gt;
+&lt;li&gt;Bên Vay cho phép Bên Cho Vay (và/hoặc đơn vị được ủy quyền) kiểm tra, giám sát việc thực hiện các cam kết môi trường, bao gồm quyền tiếp cận hồ sơ, kiểm tra hiện trường, lấy mẫu, kiểm tra thiết bị, thu thập thông tin từ cộng đồng và cơ quan quản lý. Bên Vay chịu chi phí kiểm tra nếu phát hiện vi phạm cam kết môi trường.&lt;/li&gt;
+&lt;li&gt;Trường hợp Bên Vay vi phạm một hoặc nhiều cam kết tại Điều này, hoặc bị cơ quan môi trường xử phạt, đình chỉ, thu hồi giấy phép, hoặc xảy ra sự kiện nêu tại khoản 3 Điều này, Bên Cho Vay có quyền yêu cầu Bên Vay khắc phục trong thời hạn ___ ngày; nếu không khắc phục đúng hạn, Bên Cho Vay được chấm dứt cho vay, thu nợ trước hạn, xử lý tài sản bảo đảm và/hoặc điều chỉnh lãi suất áp dụng.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>&#34;Bốc phốt&#34; công ty bất động sản, ngân hàng phát hành trái phiếu</title>
+        <link>/posts/bond-bank-bds/</link>
+        <pubDate>Wed, 22 Oct 2025 21:22:36 +0700</pubDate>
+        
+        <guid>/posts/bond-bank-bds/</guid>
+        <description>&lt;p&gt;Nhân câu chuyên &lt;a class=&#34;link&#34; href=&#34;https://cafef.vn/thanh-tra-chinh-phu-phat-hien-loat-vi-pham-ve-phat-hanh-trai-phieu-cua-nhieu-ngan-hang-cong-ty-188251017223644349.chn?fbclid=IwY2xjawNlyHFleHRuA2FlbQIxMABicmlkETFuMk9vNVhIQjNNVjd0ODh0AR79HBv_MnJ2PgORYimPL1iNSfmgfmI8lef_n7BQn8khhHz9wvSRHVJB00E5VA_aem_BL-hmNsE0qE4RgCMefroLw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Thanh tra Chính phủ phát hiện loạt vi phạm về phát hành trái phiếu của nhiều ngân hàng, công ty&lt;/a&gt;, tôi có gợi ý cho AI về các loại cấu trúc giao dịch, và dưới đây là câu trả lời tóm tắt từ AI (chưa kiểm chứng)&lt;/p&gt;
+&lt;p&gt;Công ty bất động sản:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hợp thức hóa dòng tiền đảo nợ (tiền phát hành trái phiếu chảy ngược về để trả nợ ngân hàng hoặc công ty con/công ty liên quan trả nợ ngân hàng)&lt;/li&gt;
+&lt;li&gt;Tăng vốn lưu động và che giấu nợ vay thực tế (ghi nhận là nợ trái phiếu, không phải nợ vay tín dụng, giảm tỷ lệ nợ vay/tổng tài sản (Debt-to-Asset) hoặc nợ vay/vốn chủ sở hữu (D/E) trên báo cáo tài chính hợp nhất)&lt;/li&gt;
+&lt;li&gt;Làm đẹp báo cáo tài chính (Trái phiếu do ngân hàng phát hành mà công ty bất động sản mua có thể được ghi nhận như tài sản đầu tư ngắn hạn an toàn, làm tăng tính thanh khoản hoặc tăng giá trị tài sản tài chính)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ngân hàng:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Giảm tỷ lệ cho vay bất động sản trực tiếp&lt;/li&gt;
+&lt;li&gt;Làm đẹp tỷ lệ an toàn vốn (CAR – Capital Adequacy Ratio)&lt;/li&gt;
+&lt;li&gt;Làm đẹp tỷ lệ sử dụng vốn ngắn hạn cho vay trung dài hạn&lt;/li&gt;
+&lt;li&gt;Làm đẹp báo cáo lợi nhuận và quy mô tài sản&lt;/li&gt;
+&lt;li&gt;Làm đẹp tỷ lệ cấp tín dụng và hạn mức tăng trưởng tín dụng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Việc làm đẹp các chỉ số này cũng là bình thường, cơ quan giám sát và nhà đầu tư chuyên nghiệp chắc cũng nắm rõ các kỹ thuật này.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Nghề luật sư – hành trình của công lý, nhân tâm và dũng khí</title>
+        <link>/posts/ngay_luat_su_10_10/</link>
+        <pubDate>Fri, 10 Oct 2025 19:39:12 +0700</pubDate>
+        
+        <guid>/posts/ngay_luat_su_10_10/</guid>
+        <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Bài này nhắc nhớ về nghề nghiệp của Luật sư để tự soi lai mình nhân ngày 10-10.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;nghề-luật-sư--hành-trình-của-công-lý-nhân-tâm-và-dũng-khí&#34;&gt;NGHỀ LUẬT SƯ – HÀNH TRÌNH CỦA CÔNG LÝ, NHÂN TÂM VÀ DŨNG KHÍ
+&lt;/h3&gt;&lt;h4 id=&#34;1-nguồn-gốc-và-sứ-mệnh-của-nghề-luật-sư&#34;&gt;1. Nguồn gốc và sứ mệnh của nghề luật sư
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Từ thời La Mã cổ đại, khi con người bắt đầu biết dựa vào pháp luật để phân định đúng – sai, đã xuất hiện những người đứng ra bảo vệ cho kẻ yếu, nói lên tiếng nói của công lý. Họ chính là tiền thân của luật sư ngày nay – những hiệp sĩ của công lý, mang trong mình sứ mệnh bảo vệ quyền con người và sự công bằng xã hội.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tại Việt Nam, nghề luật sư được hình thành, phát triển qua nhiều giai đoạn lịch sử. Dù trong bất kỳ thời kỳ nào – chiến tranh hay hòa bình, xây dựng hay đổi mới – luật sư luôn giữ vai trò đặc biệt: bảo vệ công lý, bảo vệ quyền con người, đặc biệt là quyền được bào chữa và quyền nhờ người khác bào chữa. Luật sư chính là người bảo vệ những người thấp cổ bé họng trước sức mạnh của cường quyền và định kiến.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-phẩm-chất-cốt-lõi-của-người-luật-sư&#34;&gt;2. Phẩm chất cốt lõi của người luật sư
+&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Trái tim nóng – để cảm thông và dấn thân&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Một luật sư không thể hành nghề nếu không có tình yêu với con người và niềm tin vào công lý. Trái tim nóng giúp họ dấn thân, đứng về phía những thân phận yếu thế, những người bị oan khuất hay bị lãng quên. Không có cảm xúc, không thể có công lý thật sự.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cái đầu lạnh – để tỉnh táo và sáng suốt&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Luật sư cần giữ sự tỉnh táo trước áp lực, dư luận và cảm xúc. Cái đầu lạnh giúp họ nhìn thấu bản chất của sự việc, để lý trí dẫn đường thay vì cảm xúc, và để mỗi lập luận, mỗi hành động đều hướng tới sự thật và công bằng.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bàn tay trong sạch – để giữ nghề thanh cao&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Luật sư là người sống bằng niềm tin – của thân chủ, của xã hội, của công lý. Một hành vi sai trái, một sự thoả hiệp với cái xấu, sẽ làm tổn thương không chỉ danh dự cá nhân mà còn làm hoen ố thanh danh của cả nghề. Sự liêm chính là sợi chỉ đỏ nối dài giá trị của luật sư qua mọi thế hệ.&lt;/p&gt;
+&lt;h4 id=&#34;3-lòng-dũng-cảm--linh-hồn-của-người-luật-sư&#34;&gt;3. Lòng dũng cảm – linh hồn của người luật sư
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Làm luật sư, không chỉ cần giỏi lý lẽ, mà còn cần can đảm để nói điều đúng, làm điều đúng.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dũng cảm để đối mặt với kẻ mạnh, kẻ có quyền lực, khi công lý bị đe dọa. Dũng cảm để bảo vệ những người bị cả xã hội lên án, bởi công lý không chỉ dành cho người vô tội, mà còn cho cả những người bị buộc tội – họ cũng có quyền được bào chữa, quyền được lắng nghe.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Trong một xã hội phức tạp, lòng dũng cảm của luật sư đôi khi không đến từ những phiên tòa kịch tính, mà đến từ sự kiên định giữ vững đạo đức nghề nghiệp, từ chối những lợi ích dễ dàng, và chấp nhận bước đi trên con đường cô độc – chỉ vì một niềm tin duy nhất: công lý không thể bị đánh đổi.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4-thăng-trầm-và-niềm-tin-của-người-trong-nghề&#34;&gt;4. Thăng trầm và niềm tin của người trong nghề
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Nghề luật sư là một hành trình dài, đầy gian nan và thử thách. Có những lúc mỏi mệt, muốn buông bỏ; có những khi cô đơn, bị hiểu lầm, bị hoài nghi. Nhưng rồi, niềm tin vào giá trị nhân văn, vào sứ mệnh chính nghĩa lại kéo mình trở lại với con đường mình đã chọn.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chúng ta hành nghề bằng tri thức, nhưng sống được với nghề là nhờ đạo đức. Có thể thua một vụ án, nhưng nếu giữ được lương tâm và lòng tin vào công lý – thì đó vẫn là một chiến thắng.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;5-lời-kết&#34;&gt;5. Lời kết
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Nghề luật sư không chỉ là một nghề, mà là một lời cam kết với công lý và nhân loại. Đó là hành trình của những con người dám bước đi giữa ranh giới của đúng và sai, của ánh sáng và bóng tối, để bảo vệ giá trị làm người.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ</title>
+        <link>/posts/auto-approval/</link>
+        <pubDate>Wed, 08 Oct 2025 06:05:41 +0700</pubDate>
+        
+        <guid>/posts/auto-approval/</guid>
+        <description>&lt;p&gt;Trong bối cảnh chuyển đổi số mạnh mẽ, hầu hết các ngân hàng và tổ chức tài chính hiện nay đều đã triển khai hệ thống phê duyệt tự động (auto approval) trong hoạt động cho vay. Mục tiêu là tối ưu hóa quy trình, giảm thời gian xử lý hồ sơ và nâng cao trải nghiệm khách hàng.&lt;/p&gt;
+&lt;p&gt;Tuy nhiên, nhiều tổ chức lại bỏ qua bước quan trọng: Xây dựng quy định nội bộ đủ chặt chẽ để quản lý, giám sát và kiểm soát rủi ro khi áp dụng công nghệ tự động. Hệ quả là việc phê duyệt có thể không tuân thủ đúng quy định pháp lý, đồng thời thiếu cơ chế xác định rõ trách nhiệm cá nhân và bộ phận khi rủi ro phát sinh.&lt;/p&gt;
+&lt;h2 id=&#34;1-pháp-lý-cho-phê-duyệt-tự-động&#34;&gt;1. Pháp lý cho phê duyệt tự động
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-Giao-dich-dien-tu-2023-20-2023-QH15-513347.aspx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Luật giao dịch điện tử 2023&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hợp đồng điện tử được giao kết hoặc thực hiện từ sự tương tác giữa một hệ thống thông tin tự động với người hoặc giữa các hệ thống thông tin tự động với nhau không bị phủ nhận giá trị pháp lý chỉ vì không có sự kiểm tra hay can thiệp của con người vào từng hành động cụ thể do các hệ thống thông tin tự động thực hiện hay vào hợp đồng&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Thông tư 39/2016/TT-NHNN, sửa đổi bởi &lt;a class=&#34;link&#34; href=&#34;https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/thong-tu-06-2023-tt-nhnn-sua-doi-thong-tu-39-2016-tt-nhnn-cho-vay-cua-to-chuc-tin-dung-518149.aspx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Thông tư 06/2023/TT-NHNN&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Điều 32đ. Thẩm định và quyết định cho vay&lt;br&gt;
+Tổ chức tín dụng tổ chức xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo nguyên tắc phân định trách nhiệm của từng cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay. Trường hợp có rủi ro phát sinh, tổ chức tín dụng phải có cơ chế để xác định từng cá nhân, bộ phận chịu trách nhiệm và xử lý kịp thời các vấn đề, rủi ro phát sinh để đảm bảo hiệu quả, an toàn trong việc tổ chức xét duyệt cho vay bằng phương tiện điện tử của tổ chức tín dụng.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://thuvienphapluat.vn/cong-van/Tien-te-Ngan-hang/Cong-van-8631-NHNN-CSTT-2023-giai-dap-cau-hoi-Thong-tu-06-2023-TT-NHNN-586461.aspx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Văn bản số  8631/NHNN-CSTT ngày 08/11/2023&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Theo quy định tại Điều 32đ Thông tư số 39/2016/TT-NHNN (đã được sửa đổi, bổ sung), cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay bao gồm cá nhân, bộ phận xây dựng sản phẩm cho vay.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;2-mẫu-điều-khoản-tham-khảo-xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử&#34;&gt;2. Mẫu điều khoản tham khảo: Xét duyệt cho vay bằng phương tiện điện tử
+&lt;/h2&gt;&lt;p&gt;Một điều khoản về Xét duyệt cho vay bằng phương tiện điện tử nên được quy định đủ chi tiết để bảo đảm tuân thủ pháp lý và quản trị rủi ro. Dưới đây là mẫu điều khoản mang tính tham khảo:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;điều--xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử&#34;&gt;Điều … Xét duyệt cho vay bằng phương tiện điện tử
+&lt;/h3&gt;&lt;h4 id=&#34;1-nguyên-tắc-chung&#34;&gt;1. Nguyên tắc chung
+&lt;/h4&gt;&lt;p&gt;Việc xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo phân định rõ trách nhiệm của từng cá nhân và bộ phận tham gia vào quá trình xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay.&lt;br&gt;
+Trường hợp phát sinh rủi ro, phải có cơ chế xác định trách nhiệm và biện pháp xử lý kịp thời, bảo đảm tính an toàn, hiệu quả và tuân thủ pháp luật trong toàn bộ quy trình.&lt;/p&gt;
+&lt;h4 id=&#34;2-phân-định-trách-nhiệm-khi-áp-dụng-phê-duyệt-tự-động-hoặc-bán-tự-động&#34;&gt;2. Phân định trách nhiệm khi áp dụng phê duyệt tự động hoặc bán tự động:
+&lt;/h4&gt;&lt;p&gt;2.1. Lưu vết hệ thống: Hệ thống thông tin phải lưu vết toàn bộ quá trình thẩm định, phê duyệt và xử lý dữ liệu, đảm bảo khả năng truy xuất và đối chiếu khi có rủi ro hoặc tranh chấp.&lt;br&gt;
+2.2. Trường hợp tài khoản phê duyệt gắn với cá nhân cụ thể: Cá nhân chịu trách nhiệm kiểm tra, theo dõi hoạt động của hệ thống dưới tài khoản của mình, và chịu trách nhiệm tương tự như người phê duyệt trong quy trình truyền thống.&lt;br&gt;
+2.3. Trường hợp phê duyệt tự động không có tài khoản hoặc bằng tài khoản hệ thống (auto/bot):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bộ phận xây dựng quy tắc tự động (Bộ phận sản phẩm nếu bộ phận này xây sản phẩm tự động):
+&lt;ul&gt;
+&lt;li&gt;Chịu trách nhiệm về tính hợp pháp, hợp lý của mô hình chấm điểm tín dụng, các ngưỡng phê duyệt và dữ liệu đầu vào.&lt;/li&gt;
+&lt;li&gt;Báo cáo định kỳ về hiệu quả và rủi ro của quy tắc, đồng thời thực hiện rà soát khi có thay đổi chính sách.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Bộ phận CNTT:
+&lt;ul&gt;
+&lt;li&gt;Đảm bảo hệ thống vận hành ổn định, an toàn, không bị can thiệp trái phép.&lt;/li&gt;
+&lt;li&gt;Không được tự ý thay đổi quy tắc hoặc thuật toán khi chưa có phê duyệt của bộ phận nghiệp vụ.&lt;/li&gt;
+&lt;li&gt;Ghi nhận log, kiểm soát truy cập, đảm bảo khả năng truy xuất dữ liệu để xác định trách nhiệm.&lt;/li&gt;
+&lt;li&gt;Thực hiện đầy đủ yêu cầu về an toàn thông tin theo Thông tư 09/2020/TT-NHNN.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-xử-lý-rủi-ro-và-xác-định-trách-nhiệm&#34;&gt;3. Xử lý rủi ro và xác định trách nhiệm:
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Rủi ro do quy tắc tự động: cá nhân/bộ phận thiết lập quy tắc chịu trách nhiệm.&lt;/li&gt;
+&lt;li&gt;Rủi ro do lỗi vận hành: thuộc cá nhân vận hành.&lt;/li&gt;
+&lt;li&gt;Rủi ro do sự cố kỹ thuật: thuộc bộ phận IT.&lt;/li&gt;
+&lt;li&gt;Rủi ro tổng hợp: xác định trách nhiệm theo phân tích nguyên nhân.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4-cơ-chế-ứng-phó-và-kiểm-soát-rủi-ro&#34;&gt;4. Cơ chế ứng phó và kiểm soát rủi ro:
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Hệ thống phải có khả năng can thiệp khẩn cấp (override) khi phát hiện bất thường.&lt;/li&gt;
+&lt;li&gt;Rà soát định kỳ để đánh giá độ tin cậy, thiết lập ngưỡng cảnh báo và kịch bản xử lý khi tỷ lệ rủi ro vượt giới hạn cho phép.&lt;/li&gt;
+&lt;li&gt;Biện pháp xử lý gồm: khắc phục kỹ thuật, điều chỉnh quy trình nghiệp vụ, xử lý kỷ luật và nâng cấp hệ thống.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;3-tự-động-không-có-nghĩa-vô-trách-nhiệm&#34;&gt;3. Tự động không có nghĩa “vô trách nhiệm”
+&lt;/h2&gt;&lt;p&gt;Một hệ thống thông minh chỉ thực sự hiệu quả khi được vận hành trong một khuôn khổ pháp lý – nội bộ rõ ràng, minh bạch và có trách nhiệm.
+Dù hệ thống có hiện đại đến đâu, tổ chức vẫn phải:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Xây dựng quy định nội bộ chi tiết để phân định rõ vai trò con người trong toàn bộ quy trình.&lt;/li&gt;
+&lt;li&gt;Đảm bảo tính minh bạch, truy xuất và kiểm soát đối với mọi quyết định của hệ thống.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Quyền thu giữ tài sản bảo đảm</title>
+        <link>/posts/legal-draft/25-nd-thu-giu-tai-san/</link>
+        <pubDate>Sat, 04 Oct 2025 06:15:41 +0700</pubDate>
+        
+        <guid>/posts/legal-draft/25-nd-thu-giu-tai-san/</guid>
+        <description>&lt;p&gt;Luật sửa đổi, bổ sung Luật các tổ chức tín dụng năm 2025 đã ghi nhận quyền thu giữ tài sản bảo đảm của bên nhận bảo đảm (tổ chức tín dung hoặc VAMC). Tuy nhiên, “quyền” chỉ có giá trị khi được chuẩn bị kỹ trong hợp đồng bảo đảm – với điều khoản rõ ràng, minh bạch và phù hợp pháp luật.&lt;/p&gt;
+&lt;h2 id=&#34;1-cơ-sở-pháp-lý-của-quyền-thu-giữ&#34;&gt;1. Cơ sở pháp lý của quyền thu giữ
+&lt;/h2&gt;&lt;p&gt;Luật sửa đổi, bổ sung Luật các tổ chức tín dụng 2025 quy định:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&lt;strong&gt;Điều 198a. Quyền thu giữ tài sản bảo đảm&lt;/strong&gt;&lt;br&gt;
+&amp;hellip;&lt;br&gt;
+&lt;em&gt;2. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức mua bán, xử lý nợ có quyền thu giữ tài sản bảo đảm của khoản nợ xấu khi đáp ứng các điều kiện sau đây:&lt;br&gt;
+&amp;hellip;.&lt;br&gt;
+b) Hợp đồng bảo đảm có &lt;strong&gt;thỏa thuận&lt;/strong&gt; về việc bên bảo đảm đồng ý cho bên nhận bảo đảm có quyền thu giữ tài sản bảo đảm của khoản nợ xấu khi xảy ra trường hợp xử lý tài sản bảo đảm theo quy định của pháp luật về bảo đảm thực hiện nghĩa vụ;
+&amp;hellip;.&lt;br&gt;
+&amp;ldquo;Thông báo cho bên bảo đảm, người đang giữ tài sản bảo đảm (nếu có) theo phương thức thông báo đã &lt;strong&gt;thỏa thuận&lt;/strong&gt; tại hợp đồng bảo đảm&lt;/em&gt;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;2-những-rủi-ro-cần-lường-trước-khi-áp-dụng&#34;&gt;2. Những rủi ro cần lường trước khi áp dụng
+&lt;/h2&gt;&lt;p&gt;Khi triển khai quyền thu giữ, cần lưu ý một số vấn đề thực tế dễ phát sinh:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chi phí thu giữ và bảo quản&lt;/strong&gt;: cần quy định rõ ai chịu và cách xác định.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rủi ro tài sản bị hư hỏng, mất mát&lt;/strong&gt;: phải có biên bản bàn giao, hình ảnh chứng cứ cụ thể.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quyền vào địa điểm thu giữ&lt;/strong&gt;: nên có thỏa thuận rõ, có thể vào kho bãi, nhà xưởng, văn phòng, địa điểm kinh doanh, tránh vào nhà ở (nhạy cảm)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tranh chấp với bên thứ ba&lt;/strong&gt;: ví dụ người thuê tài sản, đồng sở hữu, hoặc người đang quản lý tài sản bảo đảm – cần có điều khoản buộc bên bảo đảm giải quyết triệt để.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-cách-thiết-kế-điều-khoản-thu-giữ-trong-hợp-đồng-bảo-đảm&#34;&gt;3. Cách thiết kế điều khoản thu giữ trong hợp đồng bảo đảm
+&lt;/h2&gt;&lt;p&gt;Một điều khoản về quyền thu giữ nên được soạn thảo đủ chi tiết để tránh tranh chấp khi thực hiện. Dưới đây là mẫu điều khoản mang tính tham khảo:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Điều &amp;hellip;. Thu giữ Tài sản bảo đảm&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Quyền thu giữ TSBĐ:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;a) Bên thế chấp đồng ý cho Bên NBD (bên nhận bảo đảm) có quyền thu giữ tài sản bảo đảm của khoản nợ xấu khi xảy ra trường hợp xử lý TSBĐ theo quy định của pháp luật về bảo đảm thực hiện nghĩa vụ.&lt;/p&gt;
+&lt;p&gt;b) Bên thế chấp, người đang giữ TSBĐ phải giao TSBĐ, kèm theo giấy tờ, hồ sơ pháp lý của TSBĐ cho Bên NBD theo yêu cầu bằng văn bản Bên NBD. Trường hợp Bên thế chấp, người đang giữ TSBĐ không giao TSBĐ cho Bên NBD để xử lý thì Bên NBD được thu giữ TSBĐ.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Thông báo thu giữ TSBĐ:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;a) Chậm nhất 15 ngày trước ngày tiến hành thu giữ TSBĐ, Bên NBD công khai thông tin về thời gian, địa điểm thu giữ TSBĐ, TSBĐ được thu giữ, lý do thu giữ theo quy định pháp luật, và Thông báo cho Bên thế chấp, người đang giữ TSBĐ, theo phương thức: Dịch vụ bưu chính tới địa chỉ đã được cung cấp theo hợp đồng bảo đảm hoặc theo thông tin được lưu trữ tại cơ quan đăng ký biện pháp bảo đảm, hoặc phương thức khác theo quy định pháp luật.&lt;/p&gt;
+&lt;p&gt;b) Thông báo được coi là đã được nhận theo báo phát của dịch vụ bưu chính. Trường hợp Bên nhận từ chối nhận Thông báo hoặc thay đổi địa chỉ mà không thông báo bằng văn bản cho Bên NBD: Thông báo được coi là đã được nhận sau 03 (ba) ngày kể từ ngày gửi cho đơn vị dịch vụ bưu chính.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Thực hiện thu giữ TSBĐ:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;a) Bên NBD được trực tiếp hoặc ủy quyền cho tổ chức hợp pháp thực hiện việc thu giữ TSBĐ. Trong quá trình tiến hành thu giữ, Bên NBD/Bên được ủy quyền có quyền yêu cầu các cơ quan nhà nước có thẩm quyền trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, thực hiện việc bảo đảm an ninh, trật tự, an toàn xã hội trong quá trình thu giữ TSBĐ.&lt;/p&gt;
+&lt;p&gt;b) Bên thế chấp cam kết thực hiện ngay và vô điều kiện:&lt;/p&gt;
+&lt;p&gt;b1) Giao TSBĐ, giấy tờ về TSBĐ cho Bên NBD. Trường hợp TSBĐ. giấy tờ về TSBĐ đang chiếm hữu bởi Bên thứ ba, Bên thế chấp phải thực hiện tất cả các hành động cần thiết và chịu mọi chi phí phát sinh để Bên thứ ba giao TSBĐ cho Bên NBD.&lt;/p&gt;
+&lt;p&gt;b2) Di chuyển toàn bộ người và tài sản không thuộc TSBĐ ở trên hoặc ở trong TSBĐ đúng thời hạn theo yêu cầu của Bên NBD khi Bên NBD thực hiện thu giữ TSBĐ.&lt;/p&gt;
+&lt;p&gt;b3) Hợp tác, hỗ trợ Bên NBD thu giữ TSBĐ, không cản trở hay để người trong gia đình, cá nhân/tổ chức khác cản trở việc thu giữ TSBĐ.&lt;/p&gt;
+&lt;p&gt;c) Nếu Bên thế chấp không hợp tác với Bên NBD, hoặc không có mặt tại địa chỉ có TSBĐ khi Bên NBD tiến hành thu giữ, Bên thế chấp đồng ý rằng:&lt;/p&gt;
+&lt;p&gt;c1) Người quản lý TSBĐ có trách nhiệm thực hiện việc bàn giao tài sản cho Bên NBD mà không cần sự có mặt của Bên thế chấp.&lt;/p&gt;
+&lt;p&gt;c2) Bên NBD và/hoặc Bên quản lý TSBĐ có quyền trực tiếp vào nơi có TSBĐ để thu giữ TSBĐ,&lt;/p&gt;
+&lt;p&gt;c3) Trong trường hợp TSBĐ bị khóa hoặc niêm phong Bên NBD có quyền phá, mở khóa, phá bỏ niêm phong.&lt;/p&gt;
+&lt;p&gt;c4) Biên bản bàn giao hoặc thu giữ TSBĐ không có chữ ký của Bên thế chấp là vẫn có giá trị ràng buộc với Bên thế chấp.&lt;/p&gt;
+&lt;p&gt;d) Bên NBD được khóa, niêm phong, dán thông báo về việc TSBĐ khi tiến hành thu giữ TSBĐ.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Chi phí, bồi hoàn/bồi thường:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;a) Bên thế chấp chịu trách nhiệm thanh toán, bồi hoàn/bồi thường cho Bên NBD toàn bộ các chi phí phát sinh liên quan đến việc thu giữ tài sản, vận chuyển tài sản thu giữ, bảo quản tài sản thu giữ.&lt;/p&gt;
+&lt;p&gt;b) Khoản tiền phải trích cho Bên thế chấp để thu giữ TSBĐ theo quy định pháp luật được tính vào chi phí xử lý TSBĐ theo điểm &amp;hellip; khoản &amp;hellip;. Điều &amp;hellip; [Phương thức xử lý tài sản bảo đảm].&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Bảo quản, xử lý TSBĐ sau thu giữ:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;a) Bên thế chấp đồng ý rằng Bên NBD không chịu trách nhiệm trong trường hợp TSBĐ sau khi thu giữ bị giảm sút giá trị, hao mòn tự nhiên, hoặc bị hư hỏng, mất, thiệt hại do các sự cố cháy, nổ, ngập lụt, động đất, hoặc các sự cố khác ngoài khả năng kiểm soát của Bên NBD.&lt;/p&gt;
+&lt;p&gt;b) Sau khi thu giữ, Bên NBD được bán, chuyển nhượng TSBĐ để thu hồi nợ, hoặc xử lý TSBĐ khác theo phương thức khác theo Điều &amp;hellip; [Phương thức xử lý tài sản bảo đảm] của Hợp đồng.&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Cam kết, xác nhận của Bên thế chấp:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;a) Bằng việc ký Hợp đồng này, Bên thế chấp xác nhận đã được Bên NBD cung cấp đầy đủ thông tin cho Bên thế chấp về quyền và trách nhiệm của Bên thế chấp, quyền và trách nhiệm của Bên NBD được quy định tại Nghị định 304/2025/NĐ-CP (gồm cả sửa đổi, bô sung, thay thế, nếu có) và được quy định tại các văn bản pháp luật có liên quan về thu giữ TSBĐ.&lt;/p&gt;
+&lt;p&gt;b) Nếu Bên thế chấp đã cam kết xác nhận và chứng minh tài sản bảo đảm không thuộc trường hợp chỗ ở duy nhất, công cụ lao động chủ yếu hoặc duy nhất:  Bên thế chấp cam kết và bảo đảm luôn duy trì TSBĐ đáp ứng đầy đủ điều kiện của tài sản bảo đảm của khoản nợ xấu được thu giữ theo quy định pháp luật trong suốt thời hạn thế chấp.&lt;/p&gt;
+&lt;h2 id=&#34;4-tham-khảo&#34;&gt;4. Tham khảo:
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Nghi-dinh-304-2025-ND-CP-dieu-kien-tai-san-bao-dam-cua-khoan-no-xau-duoc-thu-giu-681932.aspx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Nghị định 304/2025/NĐ-CP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hồ sơ dự thảo Nghị định về quyền thu giữ tài sản bảo đảm.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;1-To-trinh.pdf&#34; &gt;Tờ trình&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;2-DuThao.15.8.25.pdf&#34; &gt;Dự thảo Nghị định&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;3.Ban-thuyet-minh.15.8.2025.pdf&#34; &gt;Bản thuyết minh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;4-Ban-danh-ga-TTHC.15.8.2025.pdf&#34; &gt;Bản đánh giá&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;5-Kinh-nghiem-quoc-te.15.8.2025.pdf&#34; &gt;Kinh nghiệm quốc tế&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;6.1.Bang-tong-hop-y-kien-Bo-nganh.pdf&#34; &gt;Bảng tổng hợp ý kiến bộ ngành&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;6.2.Bang-tong-hop-y-kien-TCTD.pdf&#34; &gt;Bảng tổng hợp ý kiến tổ chức tín dụng&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Hợp đồng tín dụng vô hiệu</title>
+        <link>/posts/invalid-loan-contract/</link>
+        <pubDate>Thu, 02 Oct 2025 05:18:47 +0700</pubDate>
+        
+        <guid>/posts/invalid-loan-contract/</guid>
+        <description>&lt;p&gt;Một vụ việc đang thu hút sự chú ý của giới pháp lý và tài chính là trường hợp hợp đồng tín dụng giữa VPBank và khách vay bị tuyên vô hiệu. Cụ thể là TAND Khu vực 7 (TP HCM) đã bác yêu cầu khởi kiện của VPBank, tuyên hợp đồng tín dụng và văn bản thỏa thuận mua biệt thự đều vô hiệu.&lt;/p&gt;
+&lt;p&gt;Tòa xác định:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bản thỏa thuận mua biệt thự với Novareal mang tính chất vượt quá quyền hạn của công ty môi giới, vì Novareal ký vai trò môi giới nhưng trong hợp đồng lại quy định các điều khoản đặt cọc, tiến độ, quyền – nghĩa vụ tương tự như chủ đầu tư. Điều này vi phạm quy định Luật Kinh doanh Bất động sản 2014, vì công ty môi giới không được nhận đặt cọc trực tiếp từ khách hàng.&lt;/li&gt;
+&lt;li&gt;Dự án “Thung lũng Đại Dương / NovaWorld Phan Thiết” mà hợp đồng đề cập thực tế không tồn tại dưới dạng biệt thự song lập đã xây móng hoặc hoàn thiện — không có tài liệu chứng minh phần móng hoặc giấy tờ pháp lý để dự án được đưa vào kinh doanh.&lt;/li&gt;
+&lt;li&gt;Chủ đầu tư Delta Valley Bình Thuận không được ủy quyền cho Novareal ký hợp đồng đặt cọc liên quan tới tài sản nhà ở.&lt;/li&gt;
+&lt;li&gt;Việc ngân hàng giải ngân tiền vay cho Novareal (chứ không giao trực tiếp cho ông Sơn) để phục vụ hợp đồng mua biệt thự là khoản vay cho giao dịch có yếu tố bất động sản hình thành trong tương lai nhưng thiếu cơ sở pháp lý rõ ràng. Tòa viện dẫn Thông tư 39/2016 của Ngân hàng Nhà nước — tổ chức tín dụng không được cho vay để tài trợ các giao dịch mà pháp luật cấm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tòa quyết định:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Novareal bị buộc phải trả lại cho VPBank 3,65 tỷ đồng (số tiền đã được giải ngân)&lt;/li&gt;
+&lt;li&gt;VPBank phải trả lại hơn 900 triệu đồng mà vợ chồng ông Sơn đã trả lãi.&lt;/li&gt;
+&lt;li&gt;Tòa từ chối yêu cầu xử lý tài sản bảo đảm của ngân hàng vì hợp đồng tín dụng vô hiệu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bài-học-pháp-lý&#34;&gt;Bài học pháp lý
+&lt;/h2&gt;&lt;p&gt;Vụ việc này là một lời cảnh tỉnh mạnh mẽ đối với các ngân hàng.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Trong thời gian qua, nhiều công ty bất động sản đã tìm cách lách các quy định của Luật Kinh doanh Bất động sản nhằm huy động vốn từ người mua, dù dự án chưa đủ điều kiện pháp lý để đưa vào kinh doanh. Trong không ít trường hợp, người mua dù biết rõ rủi ro pháp lý vẫn chấp nhận tham gia giao dịch, thường là để hưởng lợi từ các ưu đãi “đặt chỗ sớm”.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tuy nhiên, với phán quyết của Tòa án trong vụ việc này, có thể thấy rằng: Việc sử dụng vốn vay ngân hàng để thực hiện một giao dịch bất động sản trái pháp luật không còn được pháp luật bảo vệ.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Từ đây, người mua  chỉ có thể sử dụng nguồn vốn ngoài ngân hàng cho các giao dịch đầu tư kiểu này. Các công ty bất động sản không thể tiếp tục xây dựng mô hình &amp;ldquo;hợp tác&amp;rdquo; với ngân hàng để nhận vốn vay từ người mua trong các giao dịch chưa đủ điều kiện pháp lý. Ngân hàng, nếu vẫn giải ngân trong những trường hợp này, sẽ đứng trước rủi ro pháp lý lớn: Hợp đồng tín dụng có thể bị tuyên vô hiệu, tài sản bảo đảm không được công nhận, và khả năng thu hồi nợ từ Khách vay là không có.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nguồn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://vnexpress.net/nguoi-vay-thoat-no-5-ty-dong-vi-ngan-hang-giai-ngan-mua-biet-thu-ao-4945909.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://vnexpress.net/nguoi-vay-thoat-no-5-ty-dong-vi-ngan-hang-giai-ngan-mua-biet-thu-ao-4945909.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://vnexpress.net/ngan-hang-khang-cao-vu-nguoi-vay-thoat-no-5-ty-dong-4946544.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://vnexpress.net/ngan-hang-khang-cao-vu-nguoi-vay-thoat-no-5-ty-dong-4946544.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bài lưu:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Hop-dong-vay-vo-hieu-1.pdf&#34; &gt;Người vay thoát nợ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Ngan-hang-khang-cao-1.pdf&#34; &gt;Ngân hàng kháng cáo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;BanAn_VPBank_SonDao_Pub.pdf&#34; &gt;Bản án sơ thẩm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;KhangNghi_VPBank_SonDao_Pub.pdf&#34; &gt;Kháng nghị&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;BanAnPhucTham_VPBank_SonDao_Pub.pdf&#34; &gt;Bản án phúc thẩm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;VanBanNganHangNhaNuoc.pdf&#34; &gt;Văn bản Ngân hàng nhà nước&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;VanBanSoXayDung.pdf&#34; &gt;Văn bản Sở Xây dựng&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Hello World</title>
+        <link>/posts/hello-world/</link>
+        <pubDate>Wed, 01 Oct 2025 19:00:00 +0700</pubDate>
+        
+        <guid>/posts/hello-world/</guid>
+        <description>&lt;p&gt;Đây là không gian để chia sẻ những trải nghiệm, kiến thức và góc nhìn cá nhân về pháp luật – công nghệ – tài chính – phát triển bản thân&lt;/p&gt;
+&lt;h3 id=&#34;vì-sao-tôi-viết-blog&#34;&gt;Vì sao tôi viết blog?
+&lt;/h3&gt;&lt;p&gt;Trong thế giới đầy ắp thông tin ngày nay, việc ghi lại, hệ thống hóa và chia sẻ trở thành một cách học tập hiệu quả. Blog này không chỉ là nơi tôi viết cho người khác đọc, mà còn là một cách sắp xếp ý tưởng và lưu giữ kiến thức.&lt;/p&gt;
+&lt;h3 id=&#34;bạn-sẽ-tìm-thấy-gì-ở-đây&#34;&gt;Bạn sẽ tìm thấy gì ở đây?
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Những bài viết phân tích, chia sẻ kiến thức thực tế.&lt;/li&gt;
+&lt;li&gt;Các góc nhìn cá nhân trước những xu hướng, sự kiện mới.&lt;/li&gt;
+&lt;li&gt;Một chút “life note” – nơi tôi ghi lại những điều nhỏ bé nhưng đáng nhớ trong công việc và cuộc sống.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lời-mời-đến-bạn&#34;&gt;Lời mời đến bạn
+&lt;/h3&gt;&lt;p&gt;Tôi tin rằng tri thức chỉ thực sự có giá trị khi được chia sẻ và thảo luận. Vì vậy, nếu bạn có ý kiến, câu hỏi hay góc nhìn khác, đừng ngần ngại  liên hệ trực tiếp với tôi qua email khanginfo(a)gmail(dot)com.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

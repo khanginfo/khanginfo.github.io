@@ -1,14 +1,435 @@
-<!doctype html><html lang=en-us dir=ltr><head><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><meta name=description content="Xây dựng quy định nội bộ về phê duyệt bằng phương tiện điện tử"><title>Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ</title>
-<link rel=canonical href=../../posts/auto-approval/><link rel=stylesheet href=../../scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css><meta property='og:title' content="Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ"><meta property='og:description' content="Xây dựng quy định nội bộ về phê duyệt bằng phương tiện điện tử"><meta property='og:url' content='/posts/auto-approval/'><meta property='og:site_name' content='Khang Nguyen'><meta property='og:type' content='article'><meta property='article:section' content='Posts'><meta property='article:tag' content='notes'><meta property='article:published_time' content='2025-10-08T06:05:41+07:00'><meta property='article:modified_time' content='2025-10-08T06:05:41+07:00'><meta name=twitter:title content="Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ"><meta name=twitter:description content="Xây dựng quy định nội bộ về phê duyệt bằng phương tiện điện tử"></head><body class=article-page><script>(function(){const e="StackColorScheme";localStorage.getItem(e)||localStorage.setItem(e,"auto")})()</script><script>(function(){const t="StackColorScheme",e=localStorage.getItem(t),n=window.matchMedia("(prefers-color-scheme: dark)").matches===!0;e=="dark"||e==="auto"&&n?document.documentElement.dataset.scheme="dark":document.documentElement.dataset.scheme="light"})()</script><div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky"><button class="hamburger hamburger--spin" type=button id=toggle-menu aria-label="Toggle Menu">
-<span class=hamburger-box><span class=hamburger-inner></span></span></button><header><figure class=site-avatar><a href=../../><img src=../../img/avatar_hu7081526356506067971.jpg width=300 height=300 class=site-logo loading=lazy alt=Avatar></a></figure><div class=site-meta><h1 class=site-name><a href=../../>Khang Nguyen</a></h1><h2 class=site-description>Welcome to my blog</h2></div></header><ol class=menu id=main-menu><li class=menu-bottom-section><ol class=menu><li id=dark-mode-toggle><svg class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="8" cy="12" r="2"/><rect x="2" y="6" width="20" height="12" rx="6"/></svg>
-<svg class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="16" cy="12" r="2"/><rect x="2" y="6" width="20" height="12" rx="6"/></svg>
-<span>Dark Mode</span></li></ol></li></ol></aside><main class="main full-width"><article class=main-article><header class=article-header><div class=article-details><header class=article-category><a href=../../categories/blog/>Blog</a></header><div class=article-title-wrapper><h2 class=article-title><a href=../../posts/auto-approval/>Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ</a></h2><h3 class=article-subtitle>Xây dựng quy định nội bộ về phê duyệt bằng phương tiện điện tử</h3></div><footer class=article-time><div><svg class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><path d="M11.795 21H5a2 2 0 01-2-2V7a2 2 0 012-2h12a2 2 0 012 2v4"/><circle cx="18" cy="18" r="4"/><path d="M15 3v4"/><path d="M7 3v4"/><path d="M3 11h16"/><path d="M18 16.496V18l1 1"/></svg>
-<time class=article-time--published>Oct 08, 2025</time></div><div><svg class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentcolor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 15 15"/></svg>
-<time class=article-time--reading>6 minute read</time></div></footer></div></header><section class=article-content><p>Trong bối cảnh chuyển đổi số mạnh mẽ, hầu hết các ngân hàng và tổ chức tài chính hiện nay đều đã triển khai hệ thống phê duyệt tự động (auto approval) trong hoạt động cho vay. Mục tiêu là tối ưu hóa quy trình, giảm thời gian xử lý hồ sơ và nâng cao trải nghiệm khách hàng.</p><p>Tuy nhiên, nhiều tổ chức lại bỏ qua bước quan trọng: Xây dựng quy định nội bộ đủ chặt chẽ để quản lý, giám sát và kiểm soát rủi ro khi áp dụng công nghệ tự động. Hệ quả là việc phê duyệt có thể không tuân thủ đúng quy định pháp lý, đồng thời thiếu cơ chế xác định rõ trách nhiệm cá nhân và bộ phận khi rủi ro phát sinh.</p><h2 id=1-pháp-lý-cho-phê-duyệt-tự-động>1. Pháp lý cho phê duyệt tự động</h2><p><a class=link href=https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-Giao-dich-dien-tu-2023-20-2023-QH15-513347.aspx target=_blank rel=noopener>Luật giao dịch điện tử 2023</a>:</p><blockquote><p>Hợp đồng điện tử được giao kết hoặc thực hiện từ sự tương tác giữa một hệ thống thông tin tự động với người hoặc giữa các hệ thống thông tin tự động với nhau không bị phủ nhận giá trị pháp lý chỉ vì không có sự kiểm tra hay can thiệp của con người vào từng hành động cụ thể do các hệ thống thông tin tự động thực hiện hay vào hợp đồng</p></blockquote><p>Thông tư 39/2016/TT-NHNN, sửa đổi bởi <a class=link href=https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/thong-tu-06-2023-tt-nhnn-sua-doi-thong-tu-39-2016-tt-nhnn-cho-vay-cua-to-chuc-tin-dung-518149.aspx target=_blank rel=noopener>Thông tư 06/2023/TT-NHNN</a>:</p><blockquote><p>Điều 32đ. Thẩm định và quyết định cho vay<br>Tổ chức tín dụng tổ chức xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo nguyên tắc phân định trách nhiệm của từng cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay. Trường hợp có rủi ro phát sinh, tổ chức tín dụng phải có cơ chế để xác định từng cá nhân, bộ phận chịu trách nhiệm và xử lý kịp thời các vấn đề, rủi ro phát sinh để đảm bảo hiệu quả, an toàn trong việc tổ chức xét duyệt cho vay bằng phương tiện điện tử của tổ chức tín dụng.</p></blockquote><p><a class=link href=https://thuvienphapluat.vn/cong-van/Tien-te-Ngan-hang/Cong-van-8631-NHNN-CSTT-2023-giai-dap-cau-hoi-Thong-tu-06-2023-TT-NHNN-586461.aspx target=_blank rel=noopener>Văn bản số 8631/NHNN-CSTT ngày 08/11/2023</a>:</p><blockquote><p>Theo quy định tại Điều 32đ Thông tư số 39/2016/TT-NHNN (đã được sửa đổi, bổ sung), cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay bao gồm cá nhân, bộ phận xây dựng sản phẩm cho vay.</p></blockquote><h2 id=2-mẫu-điều-khoản-tham-khảo-xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử>2. Mẫu điều khoản tham khảo: Xét duyệt cho vay bằng phương tiện điện tử</h2><p>Một điều khoản về Xét duyệt cho vay bằng phương tiện điện tử nên được quy định đủ chi tiết để bảo đảm tuân thủ pháp lý và quản trị rủi ro. Dưới đây là mẫu điều khoản mang tính tham khảo:</p><blockquote><h3 id=điều--xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử>Điều … Xét duyệt cho vay bằng phương tiện điện tử</h3><h4 id=1-nguyên-tắc-chung>1. Nguyên tắc chung</h4><p>Việc xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo phân định rõ trách nhiệm của từng cá nhân và bộ phận tham gia vào quá trình xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay.<br>Trường hợp phát sinh rủi ro, phải có cơ chế xác định trách nhiệm và biện pháp xử lý kịp thời, bảo đảm tính an toàn, hiệu quả và tuân thủ pháp luật trong toàn bộ quy trình.</p><h4 id=2-phân-định-trách-nhiệm-khi-áp-dụng-phê-duyệt-tự-động-hoặc-bán-tự-động>2. Phân định trách nhiệm khi áp dụng phê duyệt tự động hoặc bán tự động:</h4><p>2.1. Lưu vết hệ thống: Hệ thống thông tin phải lưu vết toàn bộ quá trình thẩm định, phê duyệt và xử lý dữ liệu, đảm bảo khả năng truy xuất và đối chiếu khi có rủi ro hoặc tranh chấp.<br>2.2. Trường hợp tài khoản phê duyệt gắn với cá nhân cụ thể: Cá nhân chịu trách nhiệm kiểm tra, theo dõi hoạt động của hệ thống dưới tài khoản của mình, và chịu trách nhiệm tương tự như người phê duyệt trong quy trình truyền thống.<br>2.3. Trường hợp phê duyệt tự động không có tài khoản hoặc bằng tài khoản hệ thống (auto/bot):</p><ul><li>Bộ phận xây dựng quy tắc tự động (Bộ phận sản phẩm nếu bộ phận này xây sản phẩm tự động):<ul><li>Chịu trách nhiệm về tính hợp pháp, hợp lý của mô hình chấm điểm tín dụng, các ngưỡng phê duyệt và dữ liệu đầu vào.</li><li>Báo cáo định kỳ về hiệu quả và rủi ro của quy tắc, đồng thời thực hiện rà soát khi có thay đổi chính sách.</li></ul></li><li>Bộ phận CNTT:<ul><li>Đảm bảo hệ thống vận hành ổn định, an toàn, không bị can thiệp trái phép.</li><li>Không được tự ý thay đổi quy tắc hoặc thuật toán khi chưa có phê duyệt của bộ phận nghiệp vụ.</li><li>Ghi nhận log, kiểm soát truy cập, đảm bảo khả năng truy xuất dữ liệu để xác định trách nhiệm.</li><li>Thực hiện đầy đủ yêu cầu về an toàn thông tin theo Thông tư 09/2020/TT-NHNN.</li></ul></li></ul><h4 id=3-xử-lý-rủi-ro-và-xác-định-trách-nhiệm>3. Xử lý rủi ro và xác định trách nhiệm:</h4><ul><li>Rủi ro do quy tắc tự động: cá nhân/bộ phận thiết lập quy tắc chịu trách nhiệm.</li><li>Rủi ro do lỗi vận hành: thuộc cá nhân vận hành.</li><li>Rủi ro do sự cố kỹ thuật: thuộc bộ phận IT.</li><li>Rủi ro tổng hợp: xác định trách nhiệm theo phân tích nguyên nhân.</li></ul><h4 id=4-cơ-chế-ứng-phó-và-kiểm-soát-rủi-ro>4. Cơ chế ứng phó và kiểm soát rủi ro:</h4><ul><li>Hệ thống phải có khả năng can thiệp khẩn cấp (override) khi phát hiện bất thường.</li><li>Rà soát định kỳ để đánh giá độ tin cậy, thiết lập ngưỡng cảnh báo và kịch bản xử lý khi tỷ lệ rủi ro vượt giới hạn cho phép.</li><li>Biện pháp xử lý gồm: khắc phục kỹ thuật, điều chỉnh quy trình nghiệp vụ, xử lý kỷ luật và nâng cấp hệ thống.</li></ul></blockquote><h2 id=3-tự-động-không-có-nghĩa-vô-trách-nhiệm>3. Tự động không có nghĩa “vô trách nhiệm”</h2><p>Một hệ thống thông minh chỉ thực sự hiệu quả khi được vận hành trong một khuôn khổ pháp lý – nội bộ rõ ràng, minh bạch và có trách nhiệm.
-Dù hệ thống có hiện đại đến đâu, tổ chức vẫn phải:</p><ul><li>Xây dựng quy định nội bộ chi tiết để phân định rõ vai trò con người trong toàn bộ quy trình.</li><li>Đảm bảo tính minh bạch, truy xuất và kiểm soát đối với mọi quyết định của hệ thống.</li></ul></section><footer class=article-footer><section class=article-tags><a href=../../tags/notes/>Notes</a></section></footer></article><aside class=related-content--wrapper><h2 class=section-title>Related content</h2><div class=related-content><div class="flex article-list--tile"><article><a href=../../posts/legal-draft/25-nd-thu-giu-tai-san/><div class=article-details><h2 class=article-title>Quyền thu giữ tài sản bảo đảm</h2></div></a></article><article><a href=../../posts/invalid-loan-contract/><div class=article-details><h2 class=article-title>Hợp đồng tín dụng vô hiệu</h2></div></a></article><article><a href=../../posts/hello-world/><div class=article-details><h2 class=article-title>Hello World</h2></div></a></article></div></div></aside><footer class=site-footer><section class=copyright>&copy;
-2026 Khang Nguyen</section><section class=powerby>Built with <a href=https://gohugo.io/ target=_blank rel=noopener>Hugo</a><br>Theme <b><a href=https://github.com/CaiJimmy/hugo-theme-stack target=_blank rel=noopener data-version=3.31.0>Stack</a></b> designed by <a href=https://jimmycai.com target=_blank rel=noopener>Jimmy</a></section></footer><div class=pswp tabindex=-1 role=dialog aria-hidden=true><div class=pswp__bg></div><div class=pswp__scroll-wrap><div class=pswp__container><div class=pswp__item></div><div class=pswp__item></div><div class=pswp__item></div></div><div class="pswp__ui pswp__ui--hidden"><div class=pswp__top-bar><div class=pswp__counter></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-<button class="pswp__button pswp__button--share" title=Share></button>
-<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button><div class=pswp__preloader><div class=pswp__preloader__icn><div class=pswp__preloader__cut><div class=pswp__preloader__donut></div></div></div></div></div><div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap"><div class=pswp__share-tooltip></div></div><button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-</button>
-<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button><div class=pswp__caption><div class=pswp__caption__center></div></div></div></div></div><script src=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo=" crossorigin=anonymous defer></script><script src=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU=" crossorigin=anonymous defer></script><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css crossorigin=anonymous><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css crossorigin=anonymous></main></div><script src=https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z+KMkF24hUW8WePSA9HM=" crossorigin=anonymous></script><script type=text/javascript src=../../ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js defer></script><script>(function(){const e=document.createElement("link");e.href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap",e.type="text/css",e.rel="stylesheet",document.head.appendChild(e)})()</script></body></html>
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Xây dựng quy định nội bộ về phê duyệt bằng phương tiện điện tử">
+<title>Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ</title>
+
+<link rel='canonical' href='../../posts/auto-approval/'>
+
+<link rel="stylesheet" href="../../scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ">
+<meta property='og:description' content="Xây dựng quy định nội bộ về phê duyệt bằng phương tiện điện tử">
+<meta property='og:url' content='/posts/auto-approval/'>
+<meta property='og:site_name' content='Khang Nguyen'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='notes' /><meta property='article:published_time' content='2025-10-08T06:05:41&#43;07:00'/><meta property='article:modified_time' content='2025-10-08T06:05:41&#43;07:00'/>
+<meta name="twitter:title" content="Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ">
+<meta name="twitter:description" content="Xây dựng quy định nội bộ về phê duyệt bằng phương tiện điện tử">
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="../../">
+                
+                    
+                    
+                    
+                        
+                        <img src="../../img/avatar_hu7081526356506067971.jpg" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="../../">Khang Nguyen</a></h1>
+            <h2 class="site-description">Welcome to my blog</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="../../categories/blog/" >
+                Blog
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="../../posts/auto-approval/">Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Xây dựng quy định nội bộ về phê duyệt bằng phương tiện điện tử
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Oct 08, 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    6 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p>Trong bối cảnh chuyển đổi số mạnh mẽ, hầu hết các ngân hàng và tổ chức tài chính hiện nay đều đã triển khai hệ thống phê duyệt tự động (auto approval) trong hoạt động cho vay. Mục tiêu là tối ưu hóa quy trình, giảm thời gian xử lý hồ sơ và nâng cao trải nghiệm khách hàng.</p>
+<p>Tuy nhiên, nhiều tổ chức lại bỏ qua bước quan trọng: Xây dựng quy định nội bộ đủ chặt chẽ để quản lý, giám sát và kiểm soát rủi ro khi áp dụng công nghệ tự động. Hệ quả là việc phê duyệt có thể không tuân thủ đúng quy định pháp lý, đồng thời thiếu cơ chế xác định rõ trách nhiệm cá nhân và bộ phận khi rủi ro phát sinh.</p>
+<h2 id="1-pháp-lý-cho-phê-duyệt-tự-động">1. Pháp lý cho phê duyệt tự động
+</h2><p><a class="link" href="https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-Giao-dich-dien-tu-2023-20-2023-QH15-513347.aspx"  target="_blank" rel="noopener"
+    >Luật giao dịch điện tử 2023</a>:</p>
+<blockquote>
+<p>Hợp đồng điện tử được giao kết hoặc thực hiện từ sự tương tác giữa một hệ thống thông tin tự động với người hoặc giữa các hệ thống thông tin tự động với nhau không bị phủ nhận giá trị pháp lý chỉ vì không có sự kiểm tra hay can thiệp của con người vào từng hành động cụ thể do các hệ thống thông tin tự động thực hiện hay vào hợp đồng</p>
+</blockquote>
+<p>Thông tư 39/2016/TT-NHNN, sửa đổi bởi <a class="link" href="https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/thong-tu-06-2023-tt-nhnn-sua-doi-thong-tu-39-2016-tt-nhnn-cho-vay-cua-to-chuc-tin-dung-518149.aspx"  target="_blank" rel="noopener"
+    >Thông tư 06/2023/TT-NHNN</a>:</p>
+<blockquote>
+<p>Điều 32đ. Thẩm định và quyết định cho vay<br>
+Tổ chức tín dụng tổ chức xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo nguyên tắc phân định trách nhiệm của từng cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay. Trường hợp có rủi ro phát sinh, tổ chức tín dụng phải có cơ chế để xác định từng cá nhân, bộ phận chịu trách nhiệm và xử lý kịp thời các vấn đề, rủi ro phát sinh để đảm bảo hiệu quả, an toàn trong việc tổ chức xét duyệt cho vay bằng phương tiện điện tử của tổ chức tín dụng.</p>
+</blockquote>
+<p><a class="link" href="https://thuvienphapluat.vn/cong-van/Tien-te-Ngan-hang/Cong-van-8631-NHNN-CSTT-2023-giai-dap-cau-hoi-Thong-tu-06-2023-TT-NHNN-586461.aspx"  target="_blank" rel="noopener"
+    >Văn bản số  8631/NHNN-CSTT ngày 08/11/2023</a>:</p>
+<blockquote>
+<p>Theo quy định tại Điều 32đ Thông tư số 39/2016/TT-NHNN (đã được sửa đổi, bổ sung), cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay bao gồm cá nhân, bộ phận xây dựng sản phẩm cho vay.</p>
+</blockquote>
+<h2 id="2-mẫu-điều-khoản-tham-khảo-xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử">2. Mẫu điều khoản tham khảo: Xét duyệt cho vay bằng phương tiện điện tử
+</h2><p>Một điều khoản về Xét duyệt cho vay bằng phương tiện điện tử nên được quy định đủ chi tiết để bảo đảm tuân thủ pháp lý và quản trị rủi ro. Dưới đây là mẫu điều khoản mang tính tham khảo:</p>
+<blockquote>
+<h3 id="điều--xét-duyệt-cho-vay-bằng-phương-tiện-điện-tử">Điều … Xét duyệt cho vay bằng phương tiện điện tử
+</h3><h4 id="1-nguyên-tắc-chung">1. Nguyên tắc chung
+</h4><p>Việc xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo phân định rõ trách nhiệm của từng cá nhân và bộ phận tham gia vào quá trình xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay.<br>
+Trường hợp phát sinh rủi ro, phải có cơ chế xác định trách nhiệm và biện pháp xử lý kịp thời, bảo đảm tính an toàn, hiệu quả và tuân thủ pháp luật trong toàn bộ quy trình.</p>
+<h4 id="2-phân-định-trách-nhiệm-khi-áp-dụng-phê-duyệt-tự-động-hoặc-bán-tự-động">2. Phân định trách nhiệm khi áp dụng phê duyệt tự động hoặc bán tự động:
+</h4><p>2.1. Lưu vết hệ thống: Hệ thống thông tin phải lưu vết toàn bộ quá trình thẩm định, phê duyệt và xử lý dữ liệu, đảm bảo khả năng truy xuất và đối chiếu khi có rủi ro hoặc tranh chấp.<br>
+2.2. Trường hợp tài khoản phê duyệt gắn với cá nhân cụ thể: Cá nhân chịu trách nhiệm kiểm tra, theo dõi hoạt động của hệ thống dưới tài khoản của mình, và chịu trách nhiệm tương tự như người phê duyệt trong quy trình truyền thống.<br>
+2.3. Trường hợp phê duyệt tự động không có tài khoản hoặc bằng tài khoản hệ thống (auto/bot):</p>
+<ul>
+<li>Bộ phận xây dựng quy tắc tự động (Bộ phận sản phẩm nếu bộ phận này xây sản phẩm tự động):
+<ul>
+<li>Chịu trách nhiệm về tính hợp pháp, hợp lý của mô hình chấm điểm tín dụng, các ngưỡng phê duyệt và dữ liệu đầu vào.</li>
+<li>Báo cáo định kỳ về hiệu quả và rủi ro của quy tắc, đồng thời thực hiện rà soát khi có thay đổi chính sách.</li>
+</ul>
+</li>
+<li>Bộ phận CNTT:
+<ul>
+<li>Đảm bảo hệ thống vận hành ổn định, an toàn, không bị can thiệp trái phép.</li>
+<li>Không được tự ý thay đổi quy tắc hoặc thuật toán khi chưa có phê duyệt của bộ phận nghiệp vụ.</li>
+<li>Ghi nhận log, kiểm soát truy cập, đảm bảo khả năng truy xuất dữ liệu để xác định trách nhiệm.</li>
+<li>Thực hiện đầy đủ yêu cầu về an toàn thông tin theo Thông tư 09/2020/TT-NHNN.</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-xử-lý-rủi-ro-và-xác-định-trách-nhiệm">3. Xử lý rủi ro và xác định trách nhiệm:
+</h4><ul>
+<li>Rủi ro do quy tắc tự động: cá nhân/bộ phận thiết lập quy tắc chịu trách nhiệm.</li>
+<li>Rủi ro do lỗi vận hành: thuộc cá nhân vận hành.</li>
+<li>Rủi ro do sự cố kỹ thuật: thuộc bộ phận IT.</li>
+<li>Rủi ro tổng hợp: xác định trách nhiệm theo phân tích nguyên nhân.</li>
+</ul>
+<h4 id="4-cơ-chế-ứng-phó-và-kiểm-soát-rủi-ro">4. Cơ chế ứng phó và kiểm soát rủi ro:
+</h4><ul>
+<li>Hệ thống phải có khả năng can thiệp khẩn cấp (override) khi phát hiện bất thường.</li>
+<li>Rà soát định kỳ để đánh giá độ tin cậy, thiết lập ngưỡng cảnh báo và kịch bản xử lý khi tỷ lệ rủi ro vượt giới hạn cho phép.</li>
+<li>Biện pháp xử lý gồm: khắc phục kỹ thuật, điều chỉnh quy trình nghiệp vụ, xử lý kỷ luật và nâng cấp hệ thống.</li>
+</ul>
+</blockquote>
+<h2 id="3-tự-động-không-có-nghĩa-vô-trách-nhiệm">3. Tự động không có nghĩa “vô trách nhiệm”
+</h2><p>Một hệ thống thông minh chỉ thực sự hiệu quả khi được vận hành trong một khuôn khổ pháp lý – nội bộ rõ ràng, minh bạch và có trách nhiệm.
+Dù hệ thống có hiện đại đến đâu, tổ chức vẫn phải:</p>
+<ul>
+<li>Xây dựng quy định nội bộ chi tiết để phân định rõ vai trò con người trong toàn bộ quy trình.</li>
+<li>Đảm bảo tính minh bạch, truy xuất và kiểm soát đối với mọi quyết định của hệ thống.</li>
+</ul>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="../../tags/notes/">Notes</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="../../posts/legal-draft/25-nd-thu-giu-tai-san/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Quyền thu giữ tài sản bảo đảm</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="../../posts/invalid-loan-contract/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Hợp đồng tín dụng vô hiệu</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="../../posts/hello-world/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Hello World</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 Khang Nguyen
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.31.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="../../ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
