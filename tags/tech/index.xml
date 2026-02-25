@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tech on Khang Nguyen</title>
-        <link>//localhost:1313/tags/tech/</link>
+        <link>/tags/tech/</link>
         <description>Recent content in Tech on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 14 Dec 2025 19:10:30 +0700</lastBuildDate><atom:link href="//localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 14 Dec 2025 19:10:30 +0700</lastBuildDate><atom:link href="/tags/tech/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Sử dụng Machine Learning khử dữ liệu cá nhân</title>
-        <link>//localhost:1313/posts/deidentify_vi/</link>
+        <link>/posts/deidentify_vi/</link>
         <pubDate>Sun, 14 Dec 2025 19:10:30 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/deidentify_vi/</guid>
+        <guid>/posts/deidentify_vi/</guid>
         <description>&lt;p&gt;Trong thời đại AI chat quá tiện dụng, vấn nạn khó tránh khỏi là đưa các dữ liệu định danh cá nhân, tổ chức, gia tăng rủi ro dữ liệu rò rỉ, không tuân thủ pháp luật, tăng nguy cơ lừa đảo.&lt;/p&gt;
 &lt;p&gt;Microsoft có cung cấp một bộ SDK &lt;a class=&#34;link&#34; href=&#34;https://microsoft.github.io/presidio/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Presidio&lt;/a&gt;. Tuy nhiên, hàng của hãng thì chỉ có thể dùng ngay với tiếng Anh. Tiếng Việt đòi hỏi phải tìm thêm các giải pháp khác.&lt;/p&gt;

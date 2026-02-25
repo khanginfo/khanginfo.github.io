@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Khang Nguyen</title>
-        <link>//localhost:1313/categories/</link>
+        <link>/categories/</link>
         <description>Recent content in Categories on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 25 Feb 2026 21:21:08 +0700</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 Feb 2026 22:04:54 +0700</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Draft</title>
-        <link>//localhost:1313/categories/draft/</link>
-        <pubDate>Wed, 25 Feb 2026 21:21:08 +0700</pubDate>
+        <link>/categories/draft/</link>
+        <pubDate>Wed, 25 Feb 2026 22:04:54 +0700</pubDate>
         
-        <guid>//localhost:1313/categories/draft/</guid>
+        <guid>/categories/draft/</guid>
         <description></description>
         </item>
         <item>
         <title>Blog</title>
-        <link>//localhost:1313/categories/blog/</link>
+        <link>/categories/blog/</link>
         <pubDate>Thu, 12 Feb 2026 19:56:45 +0700</pubDate>
         
-        <guid>//localhost:1313/categories/blog/</guid>
+        <guid>/categories/blog/</guid>
         <description></description>
         </item>
         <item>
         <title>Contract</title>
-        <link>//localhost:1313/categories/contract/</link>
+        <link>/categories/contract/</link>
         <pubDate>Tue, 28 Oct 2025 20:03:49 +0700</pubDate>
         
-        <guid>//localhost:1313/categories/contract/</guid>
+        <guid>/categories/contract/</guid>
         <description></description>
         </item>
         
