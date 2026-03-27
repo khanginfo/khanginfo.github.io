@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Contract on Khang Nguyen</title>
-        <link>//localhost:1313/categories/contract/</link>
+        <link>/categories/contract/</link>
         <description>Recent content in Contract on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 Oct 2025 20:03:49 +0700</lastBuildDate><atom:link href="//localhost:1313/categories/contract/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Oct 2025 20:03:49 +0700</lastBuildDate><atom:link href="/categories/contract/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Pháp chế xanh: Quản lý rủi ro môi trường trong hoạt động tín dụng</title>
-        <link>//localhost:1313/posts/rui-ro-moi-truong/</link>
+        <link>/posts/rui-ro-moi-truong/</link>
         <pubDate>Tue, 28 Oct 2025 20:03:49 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/rui-ro-moi-truong/</guid>
+        <guid>/posts/rui-ro-moi-truong/</guid>
         <description>&lt;p&gt;Ngày nay, Doanh nghiệp phải chuyển mình theo chuẩn mực ESG. Yêu cầu quốc tế, trong nước đều hướng đến “tín dụng xanh”.&lt;/p&gt;
 &lt;p&gt;Trong bối cảnh đó, bộ phận pháp chế cũng cần chuyển mình thành “pháp chế xanh” – đòi hỏi không chỉ am hiểu pháp luật tín dụng, mà còn phải hiểu và lường trước các rủi ro môi trường để tích hợp vào hợp đồng, quy định nội bộ về cho vay.&lt;/p&gt;
 &lt;h2 id=&#34;khung-pháp-luật-về-quản-lý-rủi-ro-môi-trường&#34;&gt;Khung pháp luật về quản lý rủi ro môi trường
@@ -40,10 +40,10 @@
         </item>
         <item>
         <title>Quyền thu giữ tài sản bảo đảm</title>
-        <link>//localhost:1313/posts/legal-draft/25-nd-thu-giu-tai-san/</link>
+        <link>/posts/legal-draft/25-nd-thu-giu-tai-san/</link>
         <pubDate>Sat, 04 Oct 2025 06:15:41 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/25-nd-thu-giu-tai-san/</guid>
+        <guid>/posts/legal-draft/25-nd-thu-giu-tai-san/</guid>
         <description>&lt;p&gt;Luật sửa đổi, bổ sung Luật các tổ chức tín dụng năm 2025 đã ghi nhận quyền thu giữ tài sản bảo đảm của bên nhận bảo đảm (tổ chức tín dung hoặc VAMC). Tuy nhiên, “quyền” chỉ có giá trị khi được chuẩn bị kỹ trong hợp đồng bảo đảm – với điều khoản rõ ràng, minh bạch và phù hợp pháp luật.&lt;/p&gt;
 &lt;h2 id=&#34;1-cơ-sở-pháp-lý-của-quyền-thu-giữ&#34;&gt;1. Cơ sở pháp lý của quyền thu giữ
 &lt;/h2&gt;&lt;p&gt;Luật sửa đổi, bổ sung Luật các tổ chức tín dụng 2025 quy định:&lt;/p&gt;
@@ -125,10 +125,10 @@ b) Hợp đồng bảo đảm có &lt;strong&gt;thỏa thuận&lt;/strong&gt; v�
         </item>
         <item>
         <title>Hợp đồng tín dụng vô hiệu</title>
-        <link>//localhost:1313/posts/invalid-loan-contract/</link>
+        <link>/posts/invalid-loan-contract/</link>
         <pubDate>Thu, 02 Oct 2025 05:18:47 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/invalid-loan-contract/</guid>
+        <guid>/posts/invalid-loan-contract/</guid>
         <description>&lt;p&gt;Một vụ việc đang thu hút sự chú ý của giới pháp lý và tài chính là trường hợp hợp đồng tín dụng giữa VPBank và khách vay bị tuyên vô hiệu. Cụ thể là TAND Khu vực 7 (TP HCM) đã bác yêu cầu khởi kiện của VPBank, tuyên hợp đồng tín dụng và văn bản thỏa thuận mua biệt thự đều vô hiệu.&lt;/p&gt;
 &lt;p&gt;Tòa xác định:&lt;/p&gt;
 &lt;ul&gt;
@@ -173,7 +173,7 @@ b) Hợp đồng bảo đảm có &lt;strong&gt;thỏa thuận&lt;/strong&gt; v�
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;VanBanNganHangNhaNuoc.pdf&#34; &gt;Văn bản Ngân hàng nhà nước&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;VanBanSoXayDung.pdf&#34; &gt;Văn bản Sở Xây dựng&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Khác:&lt;/p&gt;
+&lt;p&gt;Bonus:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;25-Tai-lieu-huan-tranh-chap-kinh-doanh-thuong-mai-TA-TPHCM.pdf&#34; &gt;Tài liệu tập huấn của Tòa án Tp HCM&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
