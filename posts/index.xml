@@ -106,7 +106,7 @@
 &lt;li&gt;Cơ chế kiểm soát tài khoản quản trị (Giám sát người giám sát) để người này &lt;strong&gt;không thể thay đổi từ “Từ chối” sang “Đã duyệt” hoặc xóa luồng nhạy cảm, hoặc sửa đổi, thay thế, loại bỏ file đính kèm.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Người tham gia phê duyệt được thông báo qua email về nội dung đã duyệt và nắm giữ bản sao những gì đã duyệt hoặc từ chối duyệt, có thể đối soát, chứng minh.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;14-legal-hold-kiểm-tra-tuân-thủ-kiểm-toán&#34;&gt;14. Legal Hold, kiểm tra tuân thủ, kiểm toán
+&lt;h1 id=&#34;14-legal-hold-kiểm-tra-tuân-thủ-kiểm-toán&#34;&gt;14. Legal hold, kiểm tra tuân thủ, kiểm toán
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;Các phê duyệt đang có tranh chấp hoặc có vấn đề pháp lý phải thiết lập khóa cứng: ngừng sửa, ngừng xóa (không cho phép chạy tự động)&lt;/li&gt;
 &lt;li&gt;Các loại audit log như: bằng chứng phê duyệt, xử lý ngoại lệ, hành vi của người sử dụng (người khởi tạo, người phê duyệt các bước, người quản trị hệ thống) phải được tự động đẩy sang hệ thông riêng do tuân thủ, quản trị rủi ro giám sát (có hệ thống riêng để phân tích, lấy dữ liệu bất thường)&lt;/li&gt;
@@ -155,8 +155,7 @@
 &lt;li&gt;Tích hợp lấy thông tin từ hệ thống khác theo thời gian thực để người duyệt biết rõ các chỉ số trước khi ra quyết định phê duyệt.&lt;/li&gt;
 &lt;li&gt;Có API thông tin đầu vào và gửi thông tin đầu ra sang hệ thống khác.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;tổng-kết&#34;&gt;Tổng kết:
-&lt;/h1&gt;&lt;p&gt;Giải pháp workflow doanh nghiệp hoàn chỉnh nên có thành phần và cần xem xem các thành phần này để đáp ứng điểu kiện trên:&lt;/p&gt;
+&lt;p&gt;Giải pháp workflow doanh nghiệp hoàn chỉnh nên có thành phần và cần xem xem các thành phần này để đáp ứng điểu kiện trên:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Form Engine.&lt;/li&gt;
 &lt;li&gt;Workflow Engine.&lt;/li&gt;
