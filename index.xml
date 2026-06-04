@@ -65,13 +65,13 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;6-chuyển-giao-kiểm-tra-khả-năng-tạo-nhánh-con&#34;&gt;6. Chuyển giao kiểm tra (khả năng tạo nhánh con)
 &lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;Khi phê duyệt đến Quản lý Đơn vị, thay vì chỉ có 2 nút &amp;ldquo;Phê duyệt&amp;rdquo; hoặc &amp;ldquo;Từ chối&amp;rdquo;, hệ thống sẽ cung cấp thêm tính năng &amp;ldquo;&amp;ldquo;&amp;ldquo;Giao kiểm tra&amp;rdquo;**.&lt;/li&gt;
+&lt;li&gt;Khi phê duyệt đến Quản lý Đơn vị, thay vì chỉ có 2 nút &amp;ldquo;Phê duyệt&amp;rdquo; hoặc &amp;ldquo;Từ chối&amp;rdquo;, hệ thống sẽ cung cấp thêm tính năng &lt;strong&gt;&amp;ldquo;Giao kiểm tra&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Nhân viên hoàn thành checklist kiểm tra và xác nhận thì Quản lý Đơn vị xem xét phê duyệt&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;7-kiểm-tra-thẩm-quyền-trải-nghiệm-của-người-ra-quyết-định&#34;&gt;7. Kiểm tra thẩm quyền, trải nghiệm của người ra quyết định
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;Hệ thống tự động hoặc có cơ chế hỗ trợ Người tham gia luồng phê duyệt có thể kiểm tra xem mình có thẩm quyền tham gia phê duyệt không.&lt;/li&gt;
-&lt;li&gt;Hệ thông có khả năng hỗ trợ việc ra quyết định cho người phê duyệt (kết nối hệ thống khác để lấy thông tin tổng hợp thời gian thực, sử dụng công cụ trợ lý AI, tìm kiếm lại các phê duyệt trước đó, phân tích, tổng kết những gì đã duyệt, bao gồm cả những sai sót trước đây để cải thiện)&lt;/li&gt;
+&lt;li&gt;Hệ thông có khả năng hỗ trợ việc ra quyết định cho người phê duyệt, như: Kết nối hệ thống khác để lấy thông tin tổng hợp thời gian thực, sử dụng công cụ trợ lý AI, tìm kiếm lại các phê duyệt trước đó, phân tích, tổng kết những gì đã duyệt, bao gồm cả những sai sót trước đây để cải thiện&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;8-yêu-cầu-gom-hồ-sơ-trình-cấp-cao-hơn&#34;&gt;8. Yêu cầu gom hồ sơ trình cấp cao hơn
 &lt;/h1&gt;&lt;ul&gt;
@@ -128,18 +128,18 @@
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;Tự động cấu hình lại các luồng duyệt đã thiết lập khi &lt;strong&gt;có thay đổi về tổ chức, vị trí/chức danh&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Tương thích với &lt;strong&gt;hệ thống phân quyền&lt;/strong&gt; do Công ty thiết lập. Tự động cấu hình lại khi có thay đổi &lt;strong&gt;bảng ma trận phân quyền&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Tạo luồng mới phải dễ dàng (có thể không cần IT tham gia); &lt;strong&gt;Tránh làm BRD, phân tích yêu cầu, trình phê duyệt nhiều cấp để IT phát triển luồng mới&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Tạo luồng mới phải dễ dàng (có thể không cần IT tham gia); &lt;strong&gt;Tránh làm BRD, phân tích yêu cầu, trình phê duyệt nhiều cấp để IT phát triển luồng mới&lt;/strong&gt; (nỗi đau của nhiều đơn vị nghiệp vụ)&lt;/li&gt;
 &lt;li&gt;Cơ chế vô hiệu hóa, loại bỏ luồng cũ dễ dàng.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;17---phần-mềm-được-thiết-kế-xây-dựng-theo-chuẩn-pháp-lý-bảo-vệ-dữ-liệu-cá-nhân&#34;&gt;17.   Phần mềm được thiết kế, xây dựng theo &lt;strong&gt;chuẩn pháp lý bảo vệ dữ liệu cá nhân&lt;/strong&gt;
+&lt;h1 id=&#34;17-phần-mềm-được-thiết-kế-xây-dựng-theo-chuẩn-pháp-lý-bảo-vệ-dữ-liệu-cá-nhân&#34;&gt;17. Phần mềm được thiết kế, xây dựng theo &lt;strong&gt;chuẩn pháp lý bảo vệ dữ liệu cá nhân&lt;/strong&gt;
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;Có tính năng phân loại dữ liệu cá nhân, xác định rõ thu thập dữ liệu cá nhân nào, xử lý như thế nào, chủ thể dữ liệu thực hiện quyền như thế nào, quản lý hiển thị, tải về, chia sẻ, chuyển giao, dừng chia sẻ, chuyển giao, &amp;hellip;.. Nếu chưa có thì nêu rõ lộ trình thực hiện.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;18---phần-mềm-xây-dựng-theo-chuẩn-quản-lý-mức-độ-mật&#34;&gt;18.   Phần mềm xây dựng theo chuẩn &lt;strong&gt;quản lý mức độ mật&lt;/strong&gt;
+&lt;h1 id=&#34;18-phần-mềm-xây-dựng-theo-chuẩn-quản-lý-mức-độ-mật&#34;&gt;18. Phần mềm xây dựng theo chuẩn &lt;strong&gt;quản lý mức độ mật&lt;/strong&gt;
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;Có phân loại mức độ bảo mật để gán nhãn và có chính sách tương ứng&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;19---kết-xuất-các-báo-cáo-phân-tích&#34;&gt;19.   Kết xuất các báo cáo phân tích
+&lt;h1 id=&#34;19-kết-xuất-các-báo-cáo-phân-tích&#34;&gt;19. Kết xuất các báo cáo phân tích
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;Workload phê duyệt của mỗi người, để phân bổ lại &lt;strong&gt;bảng phân quyền&lt;/strong&gt; nâng cao chất lượng phê duyệt&lt;/li&gt;
 &lt;li&gt;Số lượng bị từ chối, mã lỗi, để cải thiện và có chế tài&lt;/li&gt;
@@ -149,14 +149,15 @@
 &lt;li&gt;Tỷ lệ phê duyệt/từ chối.&lt;/li&gt;
 &lt;li&gt;Thời gian xử lý trung bình.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;20---có-khả-năng-tải-về-để-tạo-kho-dữ-liệu-cho-từng-đơn-vị-phục-vụ-khai-phá-tri-thức-tái-sử-dụng-kinh-nghiệm&#34;&gt;20.   Có khả năng &lt;strong&gt;tải về&lt;/strong&gt; để tạo kho dữ liệu cho từng đơn vị phục vụ khai phá tri thức, tái sử dụng kinh nghiệm
-&lt;/h1&gt;&lt;h1 id=&#34;21---kết-nối-với-các-hệ-thống-khác&#34;&gt;21.   Kết nối với các hệ thống khác:
+&lt;h1 id=&#34;20--khai-phá-tri-thức-kết-nối-với-các-hệ-thống-khác&#34;&gt;20.  Khai phá tri thức, kết nối với các hệ thống khác
 &lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Có khả năng &lt;strong&gt;tải về&lt;/strong&gt; để tạo kho dữ liệu cho từng đơn vị phục vụ khai phá tri thức, tái sử dụng kinh nghiệm&lt;/li&gt;
 &lt;li&gt;Tích hợp lấy thông tin từ hệ thống khác theo thời gian thực để người duyệt biết rõ các chỉ số trước khi ra quyết định phê duyệt.&lt;/li&gt;
 &lt;li&gt;Có API thông tin đầu vào và gửi thông tin đầu ra sang hệ thống khác.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;tổng-kết-giải-pháp-workflow-doanh-nghiệp-hoàn-chỉnh-nên-có-thành-phần-và-cần-xem-xem-các-thành-phần-này-để-đáp-ứng-điểu-kiện-trên&#34;&gt;Tổng kết: giải pháp workflow doanh nghiệp hoàn chỉnh nên có thành phần và cần xem xem các thành phần này để đáp ứng điểu kiện trên:
-&lt;/h1&gt;&lt;ul&gt;
+&lt;h1 id=&#34;tổng-kết&#34;&gt;Tổng kết:
+&lt;/h1&gt;&lt;p&gt;Giải pháp workflow doanh nghiệp hoàn chỉnh nên có thành phần và cần xem xem các thành phần này để đáp ứng điểu kiện trên:&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;Form Engine.&lt;/li&gt;
 &lt;li&gt;Workflow Engine.&lt;/li&gt;
 &lt;li&gt;Rule Engine.&lt;/li&gt;
