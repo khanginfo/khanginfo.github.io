@@ -6,7 +6,171 @@
         <description>Recent content in Notes on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 08 May 2026 20:45:26 +0700</lastBuildDate><atom:link href="/tags/notes/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 04 Jun 2026 19:30:40 +0700</lastBuildDate><atom:link href="/tags/notes/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hệ thống phê duyệt đáp ứng quản trị, tuân thủ Và chuyển đổi số</title>
+        <link>/posts/approval-system/</link>
+        <pubDate>Thu, 04 Jun 2026 19:30:40 +0700</pubDate>
+        
+        <guid>/posts/approval-system/</guid>
+        <description>&lt;p&gt;Khi triển khai phần mềm quản lý quy trình thường xem hệ thống phê duyệt (Workflow/Approval System) là một công cụ đơn giản để chuyển hồ sơ từ người này sang người khác và ghi nhận trạng thái &amp;ldquo;Đã duyệt&amp;rdquo; hoặc &amp;ldquo;Từ chối&amp;rdquo;. Đây là một trong những nhận thức thô sơ, dễ dẫn đến nhiều vấn đề phát sinh sau này.&lt;/p&gt;
+&lt;p&gt;Một quyết định phê duyệt trong doanh nghiệp không đơn thuần là thao tác nhấn nút trên phần mềm. Đằng sau nó là hàng loạt yêu cầu liên quan đến:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quản lý quy trình và tiêu chuẩn ISO.&lt;/li&gt;
+&lt;li&gt;Phân quyền và quản trị tổ chức.&lt;/li&gt;
+&lt;li&gt;Kiểm soát nội bộ và quản trị rủi ro.&lt;/li&gt;
+&lt;li&gt;Tuân thủ pháp luật và kiểm toán.&lt;/li&gt;
+&lt;li&gt;Bảo vệ dữ liệu cá nhân và dữ liệu mật.&lt;/li&gt;
+&lt;li&gt;Bằng chứng điện tử và giá trị pháp lý.&lt;/li&gt;
+&lt;li&gt;Quản lý hồ sơ và lưu trữ lâu dài.&lt;/li&gt;
+&lt;li&gt;Quản trị tri thức doanh nghiệp.&lt;/li&gt;
+&lt;li&gt;Chuyển đổi số và ký số.&lt;/li&gt;
+&lt;li&gt;Phân tích dữ liệu để nâng cao chất lượng ra quyết định.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Khi lựa chọn hoặc xây dựng một hệ thống phê duyệt, cần nhìn nhận đây là một nền tảng quản trị quyết định (Decision Governance Platform) chứ không chỉ là một công cụ workflow. Dưới đây là các điểm cần lưu ý nên xem xét khi lựa chọn hoặc phát triển giải pháp quản lý phê duyệt.&lt;/p&gt;
+&lt;h1 id=&#34;1-các-loại-phê-duyệt-thông-dụng&#34;&gt;1. Các loại phê duyệt thông dụng
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Phê duyệt đa cấp &amp;amp; đa nhánh (Multi-level &amp;amp; Conditional Routing): Tự động chuyển hướng dựa trên dữ liệu nhập vào. Ví dụ: Hợp đồng dưới 50 triệu chỉ cần Trưởng phòng duyệt; từ 50 triệu trở lên tự động chuyển thêm lên Giám đốc tài chính.&lt;/li&gt;
+&lt;li&gt;Phê duyệt đồng thời hoặc tuần tự (Parallel vs. Sequential): Hỗ trợ luồng phê duyệt song song (nhiều người duyệt cùng lúc, chỉ cần một người từ chối là dừng) hoặc tuần tự (qua tay người A mới đến người B).&lt;/li&gt;
+&lt;li&gt;Ủy quyền phê duyệt (Delegation): &lt;strong&gt;Cho phép người duyệt cấu hình ủy quyền cho một nhân sự khác khi họ đi công tác hoặc nghỉ phép&lt;/strong&gt;, tránh làm tắc nghẽn dòng công việc.&lt;/li&gt;
+&lt;li&gt;Một số quyết định cần &lt;strong&gt;hội đồng biểu quyết&lt;/strong&gt; — hệ thống hỗ trợ quá trình thảo luận, lấy ý kiến vòng, biểu quyết có trọng số&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2-phải-có-luồng-trình-ký-văn-bản-có-chữ-ký-số-cấp-thiết-cho-chuyển-đổi-số&#34;&gt;2. Phải có luồng trình ký văn bản có chữ ký số (cấp thiết cho chuyển đổi số)
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Đề xuất&lt;/li&gt;
+&lt;li&gt;Kiểm tra&lt;/li&gt;
+&lt;li&gt;Phê duyệt và ký số.&lt;/li&gt;
+&lt;li&gt;Ban hành (đóng dấu – ký số của tổ chức)&lt;/li&gt;
+&lt;li&gt;Ghi Sổ Đăng ký và chuyển Lưu trữ lâu dài.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luồng ký số có thể là:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Luồng riêng,&lt;/li&gt;
+&lt;li&gt;Luồng phát sinh khi kết thúc luồng phê duyệt thông thường (do trong quá trình phê duyệt có ý kiến yêu cầu chỉnh sửa trước khi trình ký).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;3-khả-năng-xử-lý-ngoại-lệ--tự-động-backup-người-phê-duyệt&#34;&gt;3. Khả năng xử lý ngoại lệ &amp;amp; tự động backup người phê duyệt
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Khi nhân sự vắng mặt đột ngột thì Người quản trị có thể can thiệp luồng quy trình, &lt;strong&gt;thay đổi người phê duyệt&lt;/strong&gt; trên luồng đang chạy mà không làm mất lịch sử đã thực hiện (có ghi nhật ký can thiệp), và/hoặc&lt;/li&gt;
+&lt;li&gt;Khi một cấp phê duyệt ngâm hồ sơ lâu thì hệ thống &lt;strong&gt;tự động chuyển sang người backup&lt;/strong&gt; đã được thiết lập sẵn (có ghi nhật ký, báo cáo thống kê đùn đẩy).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;4-dữ-liệu-đầu-vào-sạch&#34;&gt;4. Dữ liệu đầu vào sạch
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Dễ dàng tích hợp với hệ thống khác để kéo dữ liệu sang, tránh nhập liệu không thống nhất.&lt;/li&gt;
+&lt;li&gt;Dễ dàng thiết lập cơ chế kiểm tra tính hợp thức của dữ liệu nhập vào (cả fontend và backend) để dữ liệu đưa vào là dữ liệu sạch, đúng cấu trúc&lt;/li&gt;
+&lt;li&gt;Có thiết lập danh mục file đính kèm theo &lt;strong&gt;cấu trúc bộ hồ sơ (danh mục tài liệu)&lt;/strong&gt; xác định, không phải là tùy ý đính kèm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;5-căn-cứ-trình-và-căn-cứ-duyệt&#34;&gt;5. Căn cứ trình và căn cứ duyệt
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Hệ thống có khả năng lưu trữ danh sách căn cứ trình, căn cứ duyệt (văn bản nội bộ hoặc các quyết định, hồ sơ khác đã duyệt)&lt;/li&gt;
+&lt;li&gt;Người đề xuất phải dẫn căn cứ trình khi trình, người duyệt phải dẫn căn cứ duyệt (ví dụ: link phê duyệt liên quan)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;6-chuyển-giao-kiểm-tra-khả-năng-tạo-nhánh-con&#34;&gt;6. Chuyển giao kiểm tra (khả năng tạo nhánh con)
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Khi phê duyệt đến Quản lý Đơn vị, thay vì chỉ có 2 nút &amp;ldquo;Phê duyệt&amp;rdquo; hoặc &amp;ldquo;Từ chối&amp;rdquo;, hệ thống sẽ cung cấp thêm tính năng &amp;ldquo;&amp;ldquo;&amp;ldquo;Giao kiểm tra&amp;rdquo;**.&lt;/li&gt;
+&lt;li&gt;Nhân viên hoàn thành checklist kiểm tra và xác nhận thì Quản lý Đơn vị xem xét phê duyệt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;7-kiểm-tra-thẩm-quyền-trải-nghiệm-của-người-ra-quyết-định&#34;&gt;7. Kiểm tra thẩm quyền, trải nghiệm của người ra quyết định
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Hệ thống tự động hoặc có cơ chế hỗ trợ Người tham gia luồng phê duyệt có thể kiểm tra xem mình có thẩm quyền tham gia phê duyệt không.&lt;/li&gt;
+&lt;li&gt;Hệ thông có khả năng hỗ trợ việc ra quyết định cho người phê duyệt (kết nối hệ thống khác để lấy thông tin tổng hợp thời gian thực, sử dụng công cụ trợ lý AI, tìm kiếm lại các phê duyệt trước đó, phân tích, tổng kết những gì đã duyệt, bao gồm cả những sai sót trước đây để cải thiện)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;8-yêu-cầu-gom-hồ-sơ-trình-cấp-cao-hơn&#34;&gt;8. Yêu cầu gom hồ sơ trình cấp cao hơn
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Hệ thống phát hiện và yêu cầu gom hồ sơ để trình cấp cao hơn để Đơn vị không lách chia nhỏ hồ sơ trình cấp thấp (hoặc có cơ chế phát hiện gian lận để kiểm tra tuân thủ)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;9-xử-lý-người-liên-quan-xung-đột-lợi-ích&#34;&gt;9. Xử lý người liên quan, xung đột lợi ích
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Có khả năng nhận biết người phê duyệt và người khởi tạo có quan hệ liên quan, có xung đột lợi ích không, ngăn chặn việc phê duyệt hoặc có báo cáo&lt;/li&gt;
+&lt;li&gt;Người tạo yêu cầu không được là người duyệt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;10-vai-trò-tham-gia-phê-duyệt-cái-gì&#34;&gt;10. Vai trò tham gia, Phê duyệt cái gì
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Thực tế người duyệt có vai trò khác nhau, phải có định nghĩa vai trò khác nhau như &lt;strong&gt;Phê duyệt chung&lt;/strong&gt;, &lt;strong&gt;Tham vấn&lt;/strong&gt;, &lt;strong&gt;Đồng thuận liên phòng&lt;/strong&gt; (Không đồng ý vẫn thì luồng duyệt vẫn không dừng, người duyệt cấp trên có thể phủ quyết, ví dụ: Các đơn vị liên quan cho ý kiến trên Tờ trình có thể đồng ý / không đồng ý nhưng Đơn vị đề xuất vẫn không rút lại đề xuất trình).&lt;/li&gt;
+&lt;li&gt;Người tham gia luồng phê duyệt có checklist rõ ràng để thể hiện họ đã &lt;strong&gt;kiểm tra những gì&lt;/strong&gt; trước khi phê duyệt và họ &lt;strong&gt;phê duyệt cái gì&lt;/strong&gt; (ví dụ: đề xuất 10 điểm nhưng một người phê duyệt chỉ có vai trò xem xét 03 điểm), không phê duyệt tù mù (hiểu là người đó đang có vai trò duyệt tất cả)&lt;/li&gt;
+&lt;li&gt;Việc từ chối có &lt;strong&gt;danh muc mã lỗi&lt;/strong&gt; phục vụ việc  phân tích, thống kê.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;11-quản-lý-phiên-bản-hồ-sơ&#34;&gt;11. Quản lý phiên bản hồ sơ
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Phải đóng băng hồ sơ khi có người duyệt đầu tiên.&lt;/li&gt;
+&lt;li&gt;Nếu vẫn cho phép cập nhật hồ sơ, phải có khả năng quản lý phiên bản hồ sơ, biết rõ ai đã chỉnh sửa, thời điểm sửa, phiên bản cũ (đã có người duyệt)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;12-phát-hiện-dấu-hiệu-chất-lượng-duyệt-kiểm-soát-rủi-ro&#34;&gt;12. Phát hiện dấu hiệu chất lượng duyệt (kiểm soát rủi ro)
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Thông tin duyệt hàng loạt (cuối ngày/cuối tháng)&lt;/li&gt;
+&lt;li&gt;Duyệt không cần tải file đính kèm để xem, không cần cuộn hết nội dung trình để xem thông tin.&lt;/li&gt;
+&lt;li&gt;Tần suất từ chối đột ngột giảm mạnh (dấu hiệu bỏ qua kiểm soát),&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;13-bằng-chứng-phê-duyệt&#34;&gt;13. Bằng chứng phê duyệt
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Phần mềm không chỉ ghi trạng thái “Phê duyệt” mà ghi chi tiết: Người duyệt, thời điểm duyệt (nêu rõ cơ chế đảm bảo &lt;strong&gt;dấu thời gian chính xác&lt;/strong&gt;), thiết bị duyệt, OTP,  cơ chế đảm bảo không sửa, xóa thông tin này (kể cả admin) , tốt nhất là có phát hành ra Chứng nhận phê duyệt (Approval Certificate) có ký số Công ty.&lt;/li&gt;
+&lt;li&gt;Bằng chứng xác định &lt;strong&gt;tính toàn vẹn của file đính kèm&lt;/strong&gt; kể từ khi khởi tạo,&lt;/li&gt;
+&lt;li&gt;Cơ chế kiểm soát tài khoản quản trị (Giám sát người giám sát) để người này &lt;strong&gt;không thể thay đổi từ “Từ chối” sang “Đã duyệt” hoặc xóa luồng nhạy cảm, hoặc sửa đổi, thay thế, loại bỏ file đính kèm.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Người tham gia phê duyệt được thông báo qua email về nội dung đã duyệt và nắm giữ bản sao những gì đã duyệt hoặc từ chối duyệt, có thể đối soát, chứng minh.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;14-legal-hold-kiểm-tra-tuân-thủ-kiểm-toán&#34;&gt;14. Legal Hold, kiểm tra tuân thủ, kiểm toán
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Các phê duyệt đang có tranh chấp hoặc có vấn đề pháp lý phải thiết lập khóa cứng: ngừng sửa, ngừng xóa (không cho phép chạy tự động)&lt;/li&gt;
+&lt;li&gt;Các loại audit log như: bằng chứng phê duyệt, xử lý ngoại lệ, hành vi của người sử dụng (người khởi tạo, người phê duyệt các bước, người quản trị hệ thống) phải được tự động đẩy sang hệ thông riêng do tuân thủ, quản trị rủi ro giám sát (có hệ thống riêng để phân tích, lấy dữ liệu bất thường)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;15-luồng-phê-duyệt-phải-đầy-đủ-có-các-bước-hậu-phê-duyệt&#34;&gt;15. Luồng phê duyệt phải đầy đủ (có các bước hậu phê duyệt)
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Tạo hồ sơ&lt;/li&gt;
+&lt;li&gt;Phê duyệt&lt;/li&gt;
+&lt;li&gt;Hậu phê duyệt:
+&lt;ul&gt;
+&lt;li&gt;Lưu trữ:  &lt;strong&gt;(vấn đề quan trọng, nhiều hệ thống không đạt được)&lt;/strong&gt;: Tự động &lt;strong&gt;niêm phong,&lt;/strong&gt; đóng gói hồ sơ (theo chuẩn đảm bảo tính toàn vẹn, không thay đổi được); Tự động ghi sổ đăng ký lưu trữ hồ sơ (dễ đàng tra cứu, phục vụ kiểm tra, kiểm toán); Lưu trữ lâu dài tại Công ty (phân loại, xác định thời hạn lưu trữ)&lt;/li&gt;
+&lt;li&gt;Cán bộ nghiệp vụ có thể nhập báo cáo, cập nhật &lt;strong&gt;trạng thái thực thi sau phê duyệt&lt;/strong&gt; (sau phê duyệt vẫn cập nhật được trạng thái thực thi để có thể kiểm tra, kiểm toán việc thực hiện phê duyệt)&lt;/li&gt;
+&lt;li&gt;Có trạng thái duyệt xong nhưng từ bỏ, không ký ban hành, không thực thi (ví dụ trạng thái: Hủy / Thu hồi / Thay thế, hoặc mới đến trạng thái Approved vẫn có thể còn chuyển tiếp sang Effective / Executed )&lt;/li&gt;
+&lt;li&gt;Phê duyệt có điểu kiện: Người phê duyệt cuối có &lt;strong&gt;yêu cầu điều kiện kèm theo&lt;/strong&gt; thì phải có cơ chế theo dõi việc thực thi đáp ứng điều kiện.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;16-thủ-tục-tạo-luồng-mới-hoặc-cấu-hình-lại-luồng-hiện-tại&#34;&gt;16. Thủ tục tạo luồng mới hoặc cấu hình lại luồng hiện tại:
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Tự động cấu hình lại các luồng duyệt đã thiết lập khi &lt;strong&gt;có thay đổi về tổ chức, vị trí/chức danh&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Tương thích với &lt;strong&gt;hệ thống phân quyền&lt;/strong&gt; do Công ty thiết lập. Tự động cấu hình lại khi có thay đổi &lt;strong&gt;bảng ma trận phân quyền&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Tạo luồng mới phải dễ dàng (có thể không cần IT tham gia); &lt;strong&gt;Tránh làm BRD, phân tích yêu cầu, trình phê duyệt nhiều cấp để IT phát triển luồng mới&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Cơ chế vô hiệu hóa, loại bỏ luồng cũ dễ dàng.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;17---phần-mềm-được-thiết-kế-xây-dựng-theo-chuẩn-pháp-lý-bảo-vệ-dữ-liệu-cá-nhân&#34;&gt;17.   Phần mềm được thiết kế, xây dựng theo &lt;strong&gt;chuẩn pháp lý bảo vệ dữ liệu cá nhân&lt;/strong&gt;
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Có tính năng phân loại dữ liệu cá nhân, xác định rõ thu thập dữ liệu cá nhân nào, xử lý như thế nào, chủ thể dữ liệu thực hiện quyền như thế nào, quản lý hiển thị, tải về, chia sẻ, chuyển giao, dừng chia sẻ, chuyển giao, &amp;hellip;.. Nếu chưa có thì nêu rõ lộ trình thực hiện.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;18---phần-mềm-xây-dựng-theo-chuẩn-quản-lý-mức-độ-mật&#34;&gt;18.   Phần mềm xây dựng theo chuẩn &lt;strong&gt;quản lý mức độ mật&lt;/strong&gt;
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Có phân loại mức độ bảo mật để gán nhãn và có chính sách tương ứng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;19---kết-xuất-các-báo-cáo-phân-tích&#34;&gt;19.   Kết xuất các báo cáo phân tích
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Workload phê duyệt của mỗi người, để phân bổ lại &lt;strong&gt;bảng phân quyền&lt;/strong&gt; nâng cao chất lượng phê duyệt&lt;/li&gt;
+&lt;li&gt;Số lượng bị từ chối, mã lỗi, để cải thiện và có chế tài&lt;/li&gt;
+&lt;li&gt;Chất lượng đề xuất, phê duyệt, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Người duyệt chậm nhất.&lt;/li&gt;
+&lt;li&gt;Số lượng yêu cầu theo tháng.&lt;/li&gt;
+&lt;li&gt;Tỷ lệ phê duyệt/từ chối.&lt;/li&gt;
+&lt;li&gt;Thời gian xử lý trung bình.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;20---có-khả-năng-tải-về-để-tạo-kho-dữ-liệu-cho-từng-đơn-vị-phục-vụ-khai-phá-tri-thức-tái-sử-dụng-kinh-nghiệm&#34;&gt;20.   Có khả năng &lt;strong&gt;tải về&lt;/strong&gt; để tạo kho dữ liệu cho từng đơn vị phục vụ khai phá tri thức, tái sử dụng kinh nghiệm
+&lt;/h1&gt;&lt;h1 id=&#34;21---kết-nối-với-các-hệ-thống-khác&#34;&gt;21.   Kết nối với các hệ thống khác:
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Tích hợp lấy thông tin từ hệ thống khác theo thời gian thực để người duyệt biết rõ các chỉ số trước khi ra quyết định phê duyệt.&lt;/li&gt;
+&lt;li&gt;Có API thông tin đầu vào và gửi thông tin đầu ra sang hệ thống khác.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tổng-kết-giải-pháp-workflow-doanh-nghiệp-hoàn-chỉnh-nên-có-thành-phần-và-cần-xem-xem-các-thành-phần-này-để-đáp-ứng-điểu-kiện-trên&#34;&gt;Tổng kết: giải pháp workflow doanh nghiệp hoàn chỉnh nên có thành phần và cần xem xem các thành phần này để đáp ứng điểu kiện trên:
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Form Engine.&lt;/li&gt;
+&lt;li&gt;Workflow Engine.&lt;/li&gt;
+&lt;li&gt;Rule Engine.&lt;/li&gt;
+&lt;li&gt;Notification Engine.&lt;/li&gt;
+&lt;li&gt;Audit Engine.&lt;/li&gt;
+&lt;li&gt;Risk &amp;amp; Compliance Engine&lt;/li&gt;
+&lt;li&gt;Analytics &amp;amp; Monitoring Engine&lt;/li&gt;
+&lt;li&gt;Records/Archive Management Engine.&lt;/li&gt;
+&lt;li&gt;Identity &amp;amp; Authorization&lt;/li&gt;
+&lt;li&gt;Integration/API Engine&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Giải đáp thắc mắc của Tòa án tối cao</title>
         <link>/posts/26-250-cv-tatc-giai-dap-thac-mac/</link>
         <pubDate>Fri, 08 May 2026 20:45:26 +0700</pubDate>
