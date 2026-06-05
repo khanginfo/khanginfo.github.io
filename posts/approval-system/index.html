@@ -162,7 +162,7 @@
 
 
                 <time class="article-time--reading">
-                    10 minute read
+                    11 minute read
                 </time>
             </div>
         
@@ -177,7 +177,7 @@
     <section class="article-content">
     
     
-    <p>Khi triển khai phần mềm quản lý quy trình thường xem hệ thống phê duyệt (Workflow/Approval System) là một công cụ đơn giản để chuyển hồ sơ từ người này sang người khác và ghi nhận trạng thái &ldquo;Đã duyệt&rdquo; hoặc &ldquo;Từ chối&rdquo;. Đây là một trong những nhận thức thô sơ, dễ dẫn đến nhiều vấn đề phát sinh sau này.</p>
+    <p>Khi triển khai phần mềm quản lý quy trình, chúng ta thường xem hệ thống phê duyệt (Workflow/Approval System) là một công cụ đơn giản để chuyển hồ sơ từ người này sang người khác và ghi nhận trạng thái &ldquo;Đã duyệt&rdquo; hoặc &ldquo;Từ chối&rdquo;. Đây là một trong những nhận thức thô sơ, dễ dẫn đến nhiều vấn đề phát sinh sau này.</p>
 <p>Một quyết định phê duyệt trong doanh nghiệp không đơn thuần là thao tác nhấn nút trên phần mềm. Đằng sau nó là hàng loạt yêu cầu liên quan đến:</p>
 <ul>
 <li>Quản lý quy trình và tiêu chuẩn ISO.</li>
@@ -210,12 +210,14 @@
 <p>Luồng ký số có thể là:</p>
 <ul>
 <li>Luồng riêng,</li>
-<li>Luồng phát sinh khi kết thúc luồng phê duyệt thông thường (do trong quá trình phê duyệt có ý kiến yêu cầu chỉnh sửa trước khi trình ký).</li>
+<li>Luồng phát sinh khi kết thúc luồng phê duyệt thông thường (do trong quá trình phê duyệt có ý kiến yêu cầu chỉnh sửa trước khi trình ký).
+(Có thể thêm luồng ký số nhân viên để ký các cam kết, hợp đồng giữa nhân viên và Cty)</li>
 </ul>
 <h2 id="3-khả-năng-xử-lý-ngoại-lệ--tự-động-backup-người-phê-duyệt">3. Khả năng xử lý ngoại lệ &amp; tự động backup người phê duyệt
 </h2><ul>
 <li>Khi nhân sự vắng mặt đột ngột thì Người quản trị có thể can thiệp luồng quy trình, <strong>thay đổi người phê duyệt</strong> trên luồng đang chạy mà không làm mất lịch sử đã thực hiện (có ghi nhật ký can thiệp), và/hoặc</li>
 <li>Khi một cấp phê duyệt ngâm hồ sơ lâu thì hệ thống <strong>tự động chuyển sang người backup</strong> đã được thiết lập sẵn (có ghi nhật ký, báo cáo thống kê đùn đẩy).</li>
+<li>Khi một cấp phê duyệt thấy rằng không liên quan thì có thể rút khỏi luồng phê duyệt.</li>
 </ul>
 <h2 id="4-dữ-liệu-đầu-vào-sạch">4. Dữ liệu đầu vào sạch
 </h2><ul>
@@ -236,7 +238,11 @@
 <h2 id="7-kiểm-tra-thẩm-quyền-trải-nghiệm-của-người-ra-quyết-định">7. Kiểm tra thẩm quyền, trải nghiệm của người ra quyết định
 </h2><ul>
 <li>Hệ thống tự động hoặc có cơ chế hỗ trợ Người tham gia luồng phê duyệt có thể kiểm tra xem mình có thẩm quyền tham gia phê duyệt không.</li>
-<li>Hệ thông có khả năng hỗ trợ việc ra quyết định cho người phê duyệt, như: Kết nối hệ thống khác để lấy thông tin tổng hợp thời gian thực, sử dụng công cụ trợ lý AI, tìm kiếm lại các phê duyệt trước đó, phân tích, tổng kết những gì đã duyệt, bao gồm cả những sai sót trước đây để cải thiện</li>
+<li>Màn hình trải nghiệm tốt cho người phê duyệt:</li>
+</ul>
+<ul>
+<li>Kết nối hệ thống khác để lấy thông tin tổng hợp thời gian thực, sử dụng công cụ trợ lý AI,</li>
+<li>Tìm kiếm lại các phê duyệt trước đó, phân tích, tổng kết những gì đã duyệt, bao gồm cả những sai sót trước đây để cải thiện</li>
 </ul>
 <h2 id="8-yêu-cầu-gom-hồ-sơ-trình-cấp-cao-hơn">8. Yêu cầu gom hồ sơ trình cấp cao hơn
 </h2><ul>
@@ -266,7 +272,7 @@
 </ul>
 <h2 id="13-bằng-chứng-phê-duyệt">13. Bằng chứng phê duyệt
 </h2><ul>
-<li>Phần mềm không chỉ ghi trạng thái “Phê duyệt” mà ghi chi tiết: Người duyệt, thời điểm duyệt (nêu rõ cơ chế đảm bảo <strong>dấu thời gian chính xác</strong>), thiết bị duyệt, OTP,  cơ chế đảm bảo không sửa, xóa thông tin này (kể cả admin) , tốt nhất là có phát hành ra Chứng nhận phê duyệt (Approval Certificate) có ký số Công ty.</li>
+<li>Phần mềm không chỉ ghi trạng thái “Phê duyệt” mà ghi chi tiết: Người duyệt, thời điểm duyệt (nêu rõ cơ chế đảm bảo <strong>dấu thời gian chính xác</strong>), thiết bị duyệt, OTP,  cơ chế đảm bảo không sửa, xóa thông tin này (kể cả admin) , tốt nhất là có phát hành ra <strong>Chứng nhận phê duyệt (Approval Certificate)</strong> có ký số Công ty.</li>
 <li>Bằng chứng xác định <strong>tính toàn vẹn của file đính kèm</strong> kể từ khi khởi tạo,</li>
 <li>Cơ chế kiểm soát tài khoản quản trị (Giám sát người giám sát) để người này <strong>không thể thay đổi từ “Từ chối” sang “Đã duyệt” hoặc xóa luồng nhạy cảm, hoặc sửa đổi, thay thế, loại bỏ file đính kèm.</strong></li>
 <li>Người tham gia phê duyệt được thông báo qua email về nội dung đã duyệt và nắm giữ bản sao những gì đã duyệt hoặc từ chối duyệt, có thể đối soát, chứng minh.</li>
@@ -332,6 +338,13 @@
 <li>Records/Archive Management Engine.</li>
 <li>Identity &amp; Authorization</li>
 <li>Integration/API Engine</li>
+</ul>
+<p>Tham khảo</p>
+<ul>
+<li><a class="link" href="https://camunda.com/"  target="_blank" rel="noopener"
+    >https://camunda.com/</a></li>
+<li><a class="link" href="https://n8n.io/"  target="_blank" rel="noopener"
+    >https://n8n.io/</a></li>
 </ul>
 
 </section>
