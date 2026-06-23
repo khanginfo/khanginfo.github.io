@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Khang Nguyen</title>
-        <link>//localhost:1313/posts/</link>
+        <link>/posts/</link>
         <description>Recent content in Posts on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 23 Jun 2026 20:43:56 +0700</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 23 Jun 2026 20:43:56 +0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Quy định nội bộ về thu hồi nợ</title>
-        <link>//localhost:1313/posts/quy-dinh-thu-hoi-no/</link>
+        <link>/posts/quy-dinh-thu-hoi-no/</link>
         <pubDate>Tue, 23 Jun 2026 20:43:56 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/quy-dinh-thu-hoi-no/</guid>
-        <description>&lt;p&gt;Thu hồi nợ là một trong những hoạt động nhạy cảm nhất trong lĩnh vực tài chính tiêu dùng. Trong quá trình thực hiện, cán bộ thu hồi nợ thường xuyên tiếp xúc với khách hàng, người liên quan, tài sản bảo đảm và nhiều tình huống phát sinh phức tạp. Lỗi cố ý hoặc sai sót trong quá trình tác nghiệp  có thể dẫn đến khiếu nại, tranh chấp, vi phạm pháp luật, ảnh hưởng đến uy tín thương hiệu và gây thiệt hại cho doanh nghiệp.&lt;/p&gt;
+        <guid>/posts/quy-dinh-thu-hoi-no/</guid>
+        <description>&lt;p&gt;Thu hồi nợ là một trong những hoạt động nhạy cảm nhất trong lĩnh vực tài chính tiêu dùng. Trong quá trình thực hiện, cán bộ thu hồi nợ thường xuyên tiếp xúc với khách hàng, người liên quan, tài sản bảo đảm và nhiều tình huống phát sinh phức tạp. Hành vi cố ý hoặc sai sót trong quá trình tác nghiệp  có thể dẫn đến khiếu nại, tranh chấp, vi phạm pháp luật, ảnh hưởng đến uy tín thương hiệu và gây thiệt hại cho Công ty.&lt;/p&gt;
 &lt;p&gt;Việc kiểm soát rủi ro trong hoạt động thu hồi nợ không chỉ bắt đầu khi cán bộ trực tiếp thực hiện các biện pháp thu hồi nợ. Quản trị rủi ro hiệu quả cần được triển khai từ sớm thông qua việc tuyển dụng đúng nhân sự, đào tạo đầy đủ kiến thức và kỹ năng, quản lý xung đột lợi ích, bảo vệ dữ liệu khách hàng, xây dựng quy trình tác nghiệp chuẩn hóa, kiểm soát chất lượng thực hiện và xử lý nghiêm các hành vi vi phạm.&lt;/p&gt;
 &lt;p&gt;Việc xây dựng một Quy định nội bộ về thu hồi nợ toàn diện là yêu cầu cần thiết đối với mọi tổ chức tài chính. Quy định này giúp thiết lập một khung quản trị và kiểm soát nội bộ thống nhất, bảo đảm mọi hoạt động thu hồi nợ được thực hiện minh bạch, nhất quán và tuân thủ quy định của pháp luật.&lt;/p&gt;
-&lt;p&gt;Một quy định nội bộ chặt chẽ không chỉ góp phần phòng ngừa rủi ro pháp lý, rủi ro vận hành và rủi ro danh tiếng, mà còn là cơ sở để doanh nghiệp chứng minh với cơ quan quản lý nhà nước, cơ quan thanh tra, kiểm tra, cơ quan tiến hành tố tụng hoặc các bên liên quan rằng hoạt động thu hồi nợ đã được tổ chức, giám sát và kiểm soát một cách bài bản thông qua hệ thống chính sách, quy trình và cơ chế quản trị phù hợp.&lt;/p&gt;
+&lt;p&gt;Một quy định nội bộ chặt chẽ không chỉ góp phần phòng ngừa rủi ro pháp lý, rủi ro vận hành và rủi ro danh tiếng, mà còn là cơ sở để Công ty chứng minh với cơ quan quản lý nhà nước, cơ quan thanh tra, kiểm tra, cơ quan tiến hành tố tụng hoặc các bên liên quan rằng hoạt động thu hồi nợ đã được tổ chức, giám sát và kiểm soát một cách bài bản thông qua hệ thống chính sách, quy trình và cơ chế quản trị phù hợp.&lt;/p&gt;
 &lt;p&gt;Tùy theo mô hình hoạt động, một Quy định nội bộ về thu hồi nợ thường bao gồm các nội dung trọng yếu như:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tiêu chuẩn, điều kiện và yêu cầu đạo đức nghề nghiệp đối với cán bộ thu hồi nợ;&lt;/li&gt;
@@ -47,10 +47,10 @@
         </item>
         <item>
         <title>Hệ thống phê duyệt đáp ứng quản trị, tuân thủ và chuyển đổi số</title>
-        <link>//localhost:1313/posts/approval-system/</link>
+        <link>/posts/approval-system/</link>
         <pubDate>Thu, 04 Jun 2026 19:30:40 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/approval-system/</guid>
+        <guid>/posts/approval-system/</guid>
         <description>&lt;p&gt;Khi triển khai phần mềm quản lý quy trình, chúng ta thường xem hệ thống phê duyệt (Workflow/Approval System) là một công cụ đơn giản để chuyển hồ sơ từ người này sang người khác và ghi nhận trạng thái &amp;ldquo;Đã duyệt&amp;rdquo; hoặc &amp;ldquo;Từ chối&amp;rdquo;. Đây là một trong những nhận thức thô sơ, dễ dẫn đến nhiều vấn đề phát sinh sau này.&lt;/p&gt;
 &lt;p&gt;Một quyết định phê duyệt trong doanh nghiệp không đơn thuần là thao tác nhấn nút trên phần mềm. Đằng sau nó là hàng loạt yêu cầu liên quan đến:&lt;/p&gt;
 &lt;ul&gt;
@@ -224,10 +224,10 @@
         </item>
         <item>
         <title>Giải đáp thắc mắc của Tòa án tối cao</title>
-        <link>//localhost:1313/posts/26-250-cv-tatc-giai-dap-thac-mac/</link>
+        <link>/posts/26-250-cv-tatc-giai-dap-thac-mac/</link>
         <pubDate>Fri, 08 May 2026 20:45:26 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/26-250-cv-tatc-giai-dap-thac-mac/</guid>
+        <guid>/posts/26-250-cv-tatc-giai-dap-thac-mac/</guid>
         <description>&lt;h2 id=&#34;1-hợp-đồng-tín-dụng-có-đồng-thời-thỏa-thuận-lãi-trong-hạn-lãi-quá-hạn-và-phạt-vi-phạm&#34;&gt;1. Hợp đồng tín dụng có đồng thời thỏa thuận lãi trong hạn, lãi quá hạn và phạt vi phạm
 &lt;/h2&gt;&lt;h3 id=&#34;tình-huống&#34;&gt;Tình huống:
 &lt;/h3&gt;&lt;p&gt;Hợp đồng tín dụng quy định:&lt;/p&gt;
@@ -299,10 +299,10 @@
         </item>
         <item>
         <title>Dự thảo Thông tu về tỉ lệ bảo đảm an toàn của Ngân hàng 2026</title>
-        <link>//localhost:1313/posts/legal-draft/26-tt-22-an-toan-von/</link>
+        <link>/posts/legal-draft/26-tt-22-an-toan-von/</link>
         <pubDate>Fri, 08 May 2026 20:09:13 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/26-tt-22-an-toan-von/</guid>
+        <guid>/posts/legal-draft/26-tt-22-an-toan-von/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo Thông tư của Ngân hàng Nhà nước về tỉ lệ bảo đảm an toàn (Basel III), sửa đổi Thông tư 22/2019/TT-NHNN&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;DTTT_thay_the_Thong_tu_22_2019_TT_NHNN.pdf&#34; &gt;Dự thảo - pdf&lt;/a&gt;&lt;/li&gt;
@@ -312,10 +312,10 @@
         </item>
         <item>
         <title>Thuê tài chính vs Thuê vận hành</title>
-        <link>//localhost:1313/posts/26-thue-van-hanh/</link>
+        <link>/posts/26-thue-van-hanh/</link>
         <pubDate>Wed, 22 Apr 2026 19:33:09 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/26-thue-van-hanh/</guid>
+        <guid>/posts/26-thue-van-hanh/</guid>
         <description>&lt;p&gt;Thuê tài chính vốn được thiết kế như một công cụ cấp tín dụng trung và dài hạn — bản chất kinh tế của nó gần với vay mua tài sản trả góp hơn là thuê tài sản thông thường.&lt;/p&gt;
 &lt;p&gt;Thế nhưng, thực tiễn thương mại lại đặt ra một tình huống không được pháp luật định liệu rõ ràng: Bên thuê tài chính muốn (hoặc buộc phải) hoàn trả tài sản thuê trước khi hết hạn hợp đồng, hoặc từ chối thực hiện quyền mua lại tài sản khi hợp đồng đáo hạn.
 Đây là vùng xám pháp lý, bởi không có văn bản pháp luật nào xử lý trực tiếp và đầy đủ tình huống này.&lt;/p&gt;
@@ -353,22 +353,11 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
 </description>
         </item>
         <item>
-        <title>Google Ai Pro Cert</title>
-        <link>//localhost:1313/posts/learning/google-ai-pro-cert/</link>
-        <pubDate>Mon, 30 Mar 2026 20:18:53 +0700</pubDate>
-        
-        <guid>//localhost:1313/posts/learning/google-ai-pro-cert/</guid>
-        <description>&lt;p&gt;Khóa học Google AI Professional Certificate trên Coursera&lt;/p&gt;
-&lt;h1 id=&#34;brainstorming&#34;&gt;Brainstorming
-&lt;/h1&gt;&lt;p&gt;You are marketing expert in the audio industry. My comapny is developing a new line of premium headphones. Help me brainstorm accessories or add-ón that we could bundle with this product&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Nghề luật trong kỷ nguyên AI</title>
-        <link>//localhost:1313/posts/legal_job_in_ai_area/</link>
+        <link>/posts/legal_job_in_ai_area/</link>
         <pubDate>Fri, 27 Mar 2026 20:18:57 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal_job_in_ai_area/</guid>
+        <guid>/posts/legal_job_in_ai_area/</guid>
         <description>&lt;p&gt;Nỗi sợ hãi về việc trí tuệ nhân tạo (AI) sẽ &amp;ldquo;xóa sổ&amp;rdquo; các luật sư đã bao trùm các cuộc thảo luận về tương lai của ngành tư pháp trong những năm gần đây. Tuy nhiên, nhìn dưới lăng kính của một nhà phân tích, thực tế lại cho thấy một kịch bản hoàn toàn khác: AI không phải là dấu chấm hết, mà là chất xúc tác cho một cuộc &amp;ldquo;tái sinh&amp;rdquo; nghề nghiệp. Chúng ta đang chứng kiến sự hình thành của một hệ sinh thái pháp lý hoàn toàn mới, nơi những chức danh công việc chưa từng tồn tại đang trở thành những vị trí quyền lực nhất trong xã hội số.&lt;/p&gt;
 &lt;h1 id=&#34;làn-sóng-thay-đổi&#34;&gt;Làn sóng thay đổi
 &lt;/h1&gt;&lt;ul&gt;
@@ -451,10 +440,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Dự thảo Thông tư về cho vay 2026</title>
-        <link>//localhost:1313/posts/legal-draft/26--tt-cho-vay/</link>
+        <link>/posts/legal-draft/26--tt-cho-vay/</link>
         <pubDate>Fri, 27 Mar 2026 20:03:22 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/26--tt-cho-vay/</guid>
+        <guid>/posts/legal-draft/26--tt-cho-vay/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo Thông tư của Ngân hàng Nhà nước về cho vay, sửa đổi Thông tư 39/2016/TT-NHNN&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Du_thao_Thong_tu_sua_doi_TT39_chovay.pdf&#34; &gt;Dự thảo - pdf&lt;/a&gt;&lt;/li&gt;
@@ -465,10 +454,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Dự thảo Thông tư về cho thuê tài chính 2026</title>
-        <link>//localhost:1313/posts/legal-draft/26-tt-thue-tai-chinh/</link>
+        <link>/posts/legal-draft/26-tt-thue-tai-chinh/</link>
         <pubDate>Wed, 25 Feb 2026 22:13:36 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/26-tt-thue-tai-chinh/</guid>
+        <guid>/posts/legal-draft/26-tt-thue-tai-chinh/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo Thông tư của Ngân hàng Nhà nước về mua bán nợ thay thế Thông tư 09/2025/TT-NHNN&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Du_thao_Thong_tu.pdf&#34; &gt;Dự thảo - pdf&lt;/a&gt;&lt;/li&gt;
@@ -482,10 +471,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Dự thảo Thông tư về mua bán nợ 2026</title>
-        <link>//localhost:1313/posts/legal-draft/26-tt-mua-ban-no/</link>
+        <link>/posts/legal-draft/26-tt-mua-ban-no/</link>
         <pubDate>Wed, 25 Feb 2026 22:04:54 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/26-tt-mua-ban-no/</guid>
+        <guid>/posts/legal-draft/26-tt-mua-ban-no/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo Thông tư của Ngân hàng Nhà nước về mua bán nợ thay thế Thông tư 09/2025/TT-NHNN&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Du_thao_TT_mua_ban_no_04_12_2025.pdf&#34; &gt;Dự thảo&lt;/a&gt;&lt;/li&gt;
@@ -495,10 +484,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Dự thảo Thông tư về trí tuệ nhân tạo 2026</title>
-        <link>//localhost:1313/posts/legal-draft/26-tt-tri-tue-nhan-tao/</link>
+        <link>/posts/legal-draft/26-tt-tri-tue-nhan-tao/</link>
         <pubDate>Wed, 25 Feb 2026 21:21:08 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/26-tt-tri-tue-nhan-tao/</guid>
+        <guid>/posts/legal-draft/26-tt-tri-tue-nhan-tao/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo Thông tư của Ngân hàng Nhà nước về trí tuệ nhân tạo&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;01-Du-thao-Thong-tu-AI.docx&#34; &gt;Dự thảo - doc&lt;/a&gt;&lt;/li&gt;
@@ -509,10 +498,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Thực tiễn hủy phán quyết trọng tài</title>
-        <link>//localhost:1313/posts/huy-phan-quyet-trong-tai/</link>
+        <link>/posts/huy-phan-quyet-trong-tai/</link>
         <pubDate>Thu, 12 Feb 2026 19:56:45 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/huy-phan-quyet-trong-tai/</guid>
+        <guid>/posts/huy-phan-quyet-trong-tai/</guid>
         <description>&lt;p&gt;Báo cáo thực tiễn giai đoạn 2023-2025 của Trung tâm Trọng tài Thương nhân Việt Nam (VTA) — được công bố vào tháng 2/2026 — đã bóc tách những dữ liệu thực tế nhất về mối quan hệ giữa Tòa án và Trọng tài.&lt;/p&gt;
 &lt;h2 id=&#34;vùng-xám-pháp-lý-khi-nguyên-tắc-cơ-bản-trở-thành-rào-cản-nội-dung&#34;&gt;Vùng xám pháp lý: Khi &amp;ldquo;Nguyên tắc cơ bản&amp;rdquo; trở thành rào cản nội dung
 &lt;/h2&gt;&lt;p&gt;Dữ liệu thống kê từ Báo cáo VTA cho thấy một thực tế khắc nghiệt: có đến 65% các vụ hủy phán quyết (13/20 vụ) dựa trên căn cứ &amp;ldquo;Phán quyết trọng tài trái với các nguyên tắc cơ bản của pháp luật Việt Nam&amp;rdquo;. Đây chính là &amp;ldquo;lỗ hổng kỹ thuật&amp;rdquo; lớn nhất mà các bên thua kiện thường xuyên khai thác.&lt;/p&gt;
@@ -539,10 +528,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Sống sót trong kỷ nguyên AI</title>
-        <link>//localhost:1313/posts/vat-kiet-ai/</link>
+        <link>/posts/vat-kiet-ai/</link>
         <pubDate>Mon, 12 Jan 2026 20:31:23 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/vat-kiet-ai/</guid>
+        <guid>/posts/vat-kiet-ai/</guid>
         <description>&lt;p&gt;Chưa bao giờ sức mạnh trí tuệ lại rẻ, dồi dào như hiện nay. Chỉ cần một tài khoản AI, chúng ta có thể tiếp cận năng lực tương đương hàng trăm chuyên gia: luật sư, lập trình viên, bác sĩ, nhà phân tích tài chính, copywriter, nhà thiết kế, nhà nghiên cứu.&lt;/p&gt;
 &lt;p&gt;Phần lớn người dùng AI hiện nay chỉ gõ một câu hỏi mơ hồ, nhận một câu trả lời trung bình và thỏa mãn với câu hỏi đó. Họ lúng túng không biết định hướng nghề nghiệp và lo sợ một ngày AI sẽ thay thế họ.&lt;/p&gt;
 &lt;p&gt;Có một số bài viết khá chán về việc là chuyển hướng sang nghề nghiệp tay chân để AI không thay thế. Nghe có vẻ thực tế, nhưng dễ rơi vào một dạng “né cuộc chơi” hơn là “nâng cấp năng lực”.&lt;/p&gt;
@@ -565,10 +554,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Quản lý rủi ro pháp lý: Phòng ngừa bị xử phạt vi phạm đối với Công ty tài chính</title>
-        <link>//localhost:1313/posts/xu-phat-vietcredit-evf/</link>
+        <link>/posts/xu-phat-vietcredit-evf/</link>
         <pubDate>Thu, 18 Dec 2025 21:47:33 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/xu-phat-vietcredit-evf/</guid>
+        <guid>/posts/xu-phat-vietcredit-evf/</guid>
         <description>&lt;p&gt;Trong năm 2025, Ngân hàng Nhà nước Việt Nam (NHNN) đã công bố các kết luận thanh tra và xử phạt hành chính đối với VietCredit và EVN Finance. Dù hoạt động trong các mảng khác nhau, cả hai đều cho thấy những lỗ hổng chung trong quản trị rủi ro và tín dụng, dẫn tới bị xử phạt hàng trăm triệu đồng. Đây là những case đáng lưu tâm để các tổ chức khác nhìn lại hoạt động quản trị – tín dụng của mình.&lt;/p&gt;
 &lt;p&gt;Dưới đây là bản tổng hợp danh mục các vấn đề tồn tại, vi phạm để thuận lợi cho việc rà soát tại tổ chức của mình&lt;/p&gt;
 &lt;table&gt;
@@ -716,10 +705,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Sử dụng Machine Learning khử dữ liệu cá nhân</title>
-        <link>//localhost:1313/posts/deidentify_vi/</link>
+        <link>/posts/deidentify_vi/</link>
         <pubDate>Sun, 14 Dec 2025 19:10:30 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/deidentify_vi/</guid>
+        <guid>/posts/deidentify_vi/</guid>
         <description>&lt;p&gt;Trong thời đại AI chat quá tiện dụng, vấn nạn khó tránh khỏi là đưa các dữ liệu định danh cá nhân, tổ chức, gia tăng rủi ro dữ liệu rò rỉ, không tuân thủ pháp luật, tăng nguy cơ lừa đảo.&lt;/p&gt;
 &lt;p&gt;Microsoft có cung cấp một bộ SDK &lt;a class=&#34;link&#34; href=&#34;https://microsoft.github.io/presidio/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Presidio&lt;/a&gt;. Tuy nhiên, hàng của hãng thì chỉ có thể dùng ngay với tiếng Anh. Tiếng Việt đòi hỏi phải tìm thêm các giải pháp khác.&lt;/p&gt;
@@ -755,10 +744,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Dữ liệu cá nhân - Quyết định từ công ty mẹ</title>
-        <link>//localhost:1313/posts/personal-data-cross-border/</link>
+        <link>/posts/personal-data-cross-border/</link>
         <pubDate>Mon, 08 Dec 2025 20:14:59 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/personal-data-cross-border/</guid>
+        <guid>/posts/personal-data-cross-border/</guid>
         <description>&lt;p&gt;Nhiều doanh nghiệp có vốn đầu tư nước ngoài (FDI) hoạt động tại Việt Nam thường gặp tình huống tế nhị và khó xử:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Công ty mẹ yêu cầu truy cập dữ liệu cá nhân để phục vụ quản trị.&lt;/li&gt;
@@ -788,10 +777,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Dự thảo sủa đổi Luật sở hữu trí tuệ</title>
-        <link>//localhost:1313/posts/legal-draft/25-luat-so-huu-tri-tue/</link>
+        <link>/posts/legal-draft/25-luat-so-huu-tri-tue/</link>
         <pubDate>Sun, 23 Nov 2025 20:24:40 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/25-luat-so-huu-tri-tue/</guid>
+        <guid>/posts/legal-draft/25-luat-so-huu-tri-tue/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo sửa đổi Luật sở hữu trí tuệ 2025&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -817,10 +806,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Dự thảo Nghị định xử phạt trong lĩnh vực tiền tệ, ngân hàng</title>
-        <link>//localhost:1313/posts/legal-draft/25-xu-phat-tien-te/</link>
+        <link>/posts/legal-draft/25-xu-phat-tien-te/</link>
         <pubDate>Tue, 11 Nov 2025 21:36:32 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/25-xu-phat-tien-te/</guid>
+        <guid>/posts/legal-draft/25-xu-phat-tien-te/</guid>
         <description>&lt;p&gt;&lt;strong&gt;Nguồn Bộ tư pháp:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/1-Du-thao-TTr-NHNN.pdf&#34; &gt;Dự thảo Tờ trình của Ngân hàng Nhà nước&lt;/a&gt;&lt;/li&gt;
@@ -846,10 +835,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Công nghệ pháp lý: Đồ thị tri thức (Knowledge Graph)</title>
-        <link>//localhost:1313/posts/do-thi-tri-thuc/</link>
+        <link>/posts/do-thi-tri-thuc/</link>
         <pubDate>Thu, 06 Nov 2025 19:15:08 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/do-thi-tri-thuc/</guid>
+        <guid>/posts/do-thi-tri-thuc/</guid>
         <description>&lt;p&gt;Sự tiến bộ của công nghệ, đặc biệt là AI, chủ yếu tập trung vào lĩnh vực y tế, tài chính. Các công ty công nghệ có vẻ như ít quan tâm đến phát triển các sản phẩm, dịch vụ công nghệ phục vụ pháp lý. Trên thế giới có một số nhà cung cấp như Harvey, Lexis,  nhưng có lẽ còn lâu họ mói khai thác thị trường Việt Nam. Việt Nam có ailuat.luatvietnam.vn (chỉ dừng ở mức cơ bản).&lt;/p&gt;
 &lt;p&gt;Wikipedia có bài về Legal Tech: Ngành công nghiệp pháp lý được coi là &lt;strong&gt;bảo thủ&lt;/strong&gt; và &lt;strong&gt;truyền thống&lt;/strong&gt;, với Law Technology Today lưu ý rằng &amp;ldquo;&lt;strong&gt;trong 50 năm, trải nghiệm của khách hàng tại hầu hết các công ty luật hầu như không thay đổi&lt;/strong&gt;&amp;rdquo;. Qua tiếp xúc với những người làm công tác pháp lý, tôi cũng thấy rằng có ít người quan tâm đến công nghệ và ứng dụng công nghệ.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;&lt;strong&gt;Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs&lt;/strong&gt;&amp;rdquo; là một trong số hiếm hoi các bài nghiên cứu về công nghệ pháp lý tại Việt Nam, mang đến gợi ý cho các nhà quản lý pháp chế.&lt;/p&gt;
@@ -867,10 +856,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Pháp chế xanh: Quản lý rủi ro môi trường trong hoạt động tín dụng</title>
-        <link>//localhost:1313/posts/rui-ro-moi-truong/</link>
+        <link>/posts/rui-ro-moi-truong/</link>
         <pubDate>Tue, 28 Oct 2025 20:03:49 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/rui-ro-moi-truong/</guid>
+        <guid>/posts/rui-ro-moi-truong/</guid>
         <description>&lt;p&gt;Ngày nay, Doanh nghiệp phải chuyển mình theo chuẩn mực ESG. Yêu cầu quốc tế, trong nước đều hướng đến “tín dụng xanh”.&lt;/p&gt;
 &lt;p&gt;Trong bối cảnh đó, bộ phận pháp chế cũng cần chuyển mình thành “pháp chế xanh” – đòi hỏi không chỉ am hiểu pháp luật tín dụng, mà còn phải hiểu và lường trước các rủi ro môi trường để tích hợp vào hợp đồng, quy định nội bộ về cho vay.&lt;/p&gt;
 &lt;h2 id=&#34;khung-pháp-luật-về-quản-lý-rủi-ro-môi-trường&#34;&gt;Khung pháp luật về quản lý rủi ro môi trường
@@ -899,10 +888,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>&#34;Bốc phốt&#34; công ty bất động sản, ngân hàng phát hành trái phiếu</title>
-        <link>//localhost:1313/posts/bond-bank-bds/</link>
+        <link>/posts/bond-bank-bds/</link>
         <pubDate>Wed, 22 Oct 2025 21:22:36 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/bond-bank-bds/</guid>
+        <guid>/posts/bond-bank-bds/</guid>
         <description>&lt;p&gt;Nhân câu chuyên &lt;a class=&#34;link&#34; href=&#34;https://cafef.vn/thanh-tra-chinh-phu-phat-hien-loat-vi-pham-ve-phat-hanh-trai-phieu-cua-nhieu-ngan-hang-cong-ty-188251017223644349.chn?fbclid=IwY2xjawNlyHFleHRuA2FlbQIxMABicmlkETFuMk9vNVhIQjNNVjd0ODh0AR79HBv_MnJ2PgORYimPL1iNSfmgfmI8lef_n7BQn8khhHz9wvSRHVJB00E5VA_aem_BL-hmNsE0qE4RgCMefroLw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Thanh tra Chính phủ phát hiện loạt vi phạm về phát hành trái phiếu của nhiều ngân hàng, công ty&lt;/a&gt;, tôi có gợi ý cho AI về các loại cấu trúc giao dịch, và dưới đây là câu trả lời tóm tắt từ AI (chưa kiểm chứng)&lt;/p&gt;
 &lt;p&gt;Công ty bất động sản:&lt;/p&gt;
@@ -924,10 +913,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Nghề luật sư – hành trình của công lý, nhân tâm và dũng khí</title>
-        <link>//localhost:1313/posts/ngay_luat_su_10_10/</link>
+        <link>/posts/ngay_luat_su_10_10/</link>
         <pubDate>Fri, 10 Oct 2025 19:39:12 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/ngay_luat_su_10_10/</guid>
+        <guid>/posts/ngay_luat_su_10_10/</guid>
         <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Bài này nhắc nhớ về nghề nghiệp của Luật sư để tự soi lai mình nhân ngày 10-10.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;nghề-luật-sư--hành-trình-của-công-lý-nhân-tâm-và-dũng-khí&#34;&gt;NGHỀ LUẬT SƯ – HÀNH TRÌNH CỦA CÔNG LÝ, NHÂN TÂM VÀ DŨNG KHÍ
@@ -976,10 +965,10 @@ Pháp luật hiện hành không giải đáp những câu hỏi này một các
         </item>
         <item>
         <title>Phê duyệt tự động: Cơ chế quản trị không bắt kịp công nghệ</title>
-        <link>//localhost:1313/posts/auto-approval/</link>
+        <link>/posts/auto-approval/</link>
         <pubDate>Wed, 08 Oct 2025 06:05:41 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/auto-approval/</guid>
+        <guid>/posts/auto-approval/</guid>
         <description>&lt;p&gt;Trong bối cảnh chuyển đổi số mạnh mẽ, hầu hết các ngân hàng và tổ chức tài chính hiện nay đều đã triển khai hệ thống phê duyệt tự động (auto approval) trong hoạt động cho vay. Mục tiêu là tối ưu hóa quy trình, giảm thời gian xử lý hồ sơ và nâng cao trải nghiệm khách hàng.&lt;/p&gt;
 &lt;p&gt;Tuy nhiên, nhiều tổ chức lại bỏ qua bước quan trọng: Xây dựng quy định nội bộ đủ chặt chẽ để quản lý, giám sát và kiểm soát rủi ro khi áp dụng công nghệ tự động. Hệ quả là việc phê duyệt có thể không tuân thủ đúng quy định pháp lý, đồng thời thiếu cơ chế xác định rõ trách nhiệm cá nhân và bộ phận khi rủi ro phát sinh.&lt;/p&gt;
 &lt;h2 id=&#34;1-pháp-lý-cho-phê-duyệt-tự-động&#34;&gt;1. Pháp lý cho phê duyệt tự động
@@ -1050,20 +1039,11 @@ Dù hệ thống có hiện đại đến đâu, tổ chức vẫn phải:&lt;/p
 </description>
         </item>
         <item>
-        <title>Dự thảo Thông tư sửa Thông tư 18/2024/TT-NHNN về thẻ ngân hàng</title>
-        <link>//localhost:1313/posts/legal-draft/25-du-thao-sua-tt-18-the-tin-dung/</link>
-        <pubDate>Sat, 04 Oct 2025 06:28:33 +0700</pubDate>
-        
-        <guid>//localhost:1313/posts/legal-draft/25-du-thao-sua-tt-18-the-tin-dung/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;2-Bang-tong-hop-y-kien-sua-TT-18-2024-the-ngan-hang.pdf&#34; &gt;Bảng tổng hợp ý kiến&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Quyền thu giữ tài sản bảo đảm</title>
-        <link>//localhost:1313/posts/legal-draft/25-nd-thu-giu-tai-san/</link>
+        <link>/posts/legal-draft/25-nd-thu-giu-tai-san/</link>
         <pubDate>Sat, 04 Oct 2025 06:15:41 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/25-nd-thu-giu-tai-san/</guid>
+        <guid>/posts/legal-draft/25-nd-thu-giu-tai-san/</guid>
         <description>&lt;p&gt;Luật sửa đổi, bổ sung Luật các tổ chức tín dụng năm 2025 đã ghi nhận quyền thu giữ tài sản bảo đảm của bên nhận bảo đảm (tổ chức tín dung hoặc VAMC). Tuy nhiên, “quyền” chỉ có giá trị khi được chuẩn bị kỹ trong hợp đồng bảo đảm – với điều khoản rõ ràng, minh bạch và phù hợp pháp luật.&lt;/p&gt;
 &lt;h2 id=&#34;1-cơ-sở-pháp-lý-của-quyền-thu-giữ&#34;&gt;1. Cơ sở pháp lý của quyền thu giữ
 &lt;/h2&gt;&lt;p&gt;Luật sửa đổi, bổ sung Luật các tổ chức tín dụng 2025 quy định:&lt;/p&gt;
@@ -1145,10 +1125,10 @@ b) Hợp đồng bảo đảm có &lt;strong&gt;thỏa thuận&lt;/strong&gt; v�
         </item>
         <item>
         <title>Hợp đồng tín dụng vô hiệu</title>
-        <link>//localhost:1313/posts/invalid-loan-contract/</link>
+        <link>/posts/invalid-loan-contract/</link>
         <pubDate>Thu, 02 Oct 2025 05:18:47 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/invalid-loan-contract/</guid>
+        <guid>/posts/invalid-loan-contract/</guid>
         <description>&lt;p&gt;Một vụ việc đang thu hút sự chú ý của giới pháp lý và tài chính là trường hợp hợp đồng tín dụng giữa VPBank và khách vay bị tuyên vô hiệu. Cụ thể là TAND Khu vực 7 (TP HCM) đã bác yêu cầu khởi kiện của VPBank, tuyên hợp đồng tín dụng và văn bản thỏa thuận mua biệt thự đều vô hiệu.&lt;/p&gt;
 &lt;p&gt;Tòa xác định:&lt;/p&gt;
 &lt;ul&gt;
@@ -1201,10 +1181,10 @@ b) Hợp đồng bảo đảm có &lt;strong&gt;thỏa thuận&lt;/strong&gt; v�
         </item>
         <item>
         <title>Hello World</title>
-        <link>//localhost:1313/posts/hello-world/</link>
+        <link>/posts/hello-world/</link>
         <pubDate>Wed, 01 Oct 2025 19:00:00 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/hello-world/</guid>
+        <guid>/posts/hello-world/</guid>
         <description>&lt;p&gt;Đây là không gian để chia sẻ những trải nghiệm, kiến thức và góc nhìn cá nhân về pháp luật – công nghệ – tài chính – phát triển bản thân&lt;/p&gt;
 &lt;h3 id=&#34;vì-sao-tôi-viết-blog&#34;&gt;Vì sao tôi viết blog?
 &lt;/h3&gt;&lt;p&gt;Trong thế giới đầy ắp thông tin ngày nay, việc ghi lại, hệ thống hóa và chia sẻ trở thành một cách học tập hiệu quả. Blog này không chỉ là nơi tôi viết cho người khác đọc, mà còn là một cách sắp xếp ý tưởng và lưu giữ kiến thức.&lt;/p&gt;
