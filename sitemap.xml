@@ -2,109 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/blog/</loc>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/draft/</loc>
+    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/legal-draft/26-du-thao-bo-luat-hinh-su/</loc>
+    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/notes/</loc>
+    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/blog/</loc>
     <lastmod>2026-06-23T20:43:56+07:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/posts/quy-dinh-thu-hoi-no/</loc>
     <lastmod>2026-06-23T20:43:56+07:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2026-06-23T20:43:56+07:00</lastmod>
-  </url><url>
-    <loc>/tags/notes/</loc>
-    <lastmod>2026-06-23T20:43:56+07:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2026-06-23T20:43:56+07:00</lastmod>
-  </url><url>
-    <loc>/posts/quy-dinh-thu-hoi-no/</loc>
-    <lastmod>2026-06-23T20:43:56+07:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-06-23T20:43:56+07:00</lastmod>
-  </url><url>
-    <loc>/posts/approval-system/</loc>
+    <loc>//localhost:1313/posts/approval-system/</loc>
     <lastmod>2026-06-04T19:30:40+07:00</lastmod>
   </url><url>
-    <loc>/posts/26-250-cv-tatc-giai-dap-thac-mac/</loc>
+    <loc>//localhost:1313/posts/26-250-cv-tatc-giai-dap-thac-mac/</loc>
     <lastmod>2026-05-08T20:45:26+07:00</lastmod>
   </url><url>
-    <loc>/categories/draft/</loc>
+    <loc>//localhost:1313/posts/legal-draft/26-tt-22-an-toan-von/</loc>
     <lastmod>2026-05-08T20:09:13+07:00</lastmod>
   </url><url>
-    <loc>/posts/legal-draft/26-tt-22-an-toan-von/</loc>
-    <lastmod>2026-05-08T20:09:13+07:00</lastmod>
-  </url><url>
-    <loc>/posts/26-thue-van-hanh/</loc>
+    <loc>//localhost:1313/posts/26-thue-van-hanh/</loc>
     <lastmod>2026-04-22T19:33:09+07:00</lastmod>
   </url><url>
-    <loc>/posts/legal_job_in_ai_area/</loc>
+    <loc>//localhost:1313/posts/learning/google-ai-pro-cert/</loc>
+    <lastmod>2026-03-30T20:18:53+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/legal_job_in_ai_area/</loc>
     <lastmod>2026-03-27T20:18:57+07:00</lastmod>
   </url><url>
-    <loc>/posts/legal-draft/26--tt-cho-vay/</loc>
+    <loc>//localhost:1313/posts/legal-draft/26--tt-cho-vay/</loc>
     <lastmod>2026-03-27T20:03:22+07:00</lastmod>
   </url><url>
-    <loc>/posts/legal-draft/26-tt-thue-tai-chinh/</loc>
+    <loc>//localhost:1313/posts/legal-draft/26-tt-thue-tai-chinh/</loc>
     <lastmod>2026-02-25T22:13:36+07:00</lastmod>
   </url><url>
-    <loc>/posts/legal-draft/26-tt-mua-ban-no/</loc>
+    <loc>//localhost:1313/posts/legal-draft/26-tt-mua-ban-no/</loc>
     <lastmod>2026-02-25T22:04:54+07:00</lastmod>
   </url><url>
-    <loc>/posts/legal-draft/26-tt-tri-tue-nhan-tao/</loc>
+    <loc>//localhost:1313/posts/legal-draft/26-tt-tri-tue-nhan-tao/</loc>
     <lastmod>2026-02-25T21:21:08+07:00</lastmod>
   </url><url>
-    <loc>/posts/huy-phan-quyet-trong-tai/</loc>
+    <loc>//localhost:1313/posts/huy-phan-quyet-trong-tai/</loc>
     <lastmod>2026-02-12T19:56:45+07:00</lastmod>
   </url><url>
-    <loc>/posts/vat-kiet-ai/</loc>
+    <loc>//localhost:1313/posts/vat-kiet-ai/</loc>
     <lastmod>2026-01-12T20:31:23+07:00</lastmod>
   </url><url>
-    <loc>/posts/xu-phat-vietcredit-evf/</loc>
+    <loc>//localhost:1313/posts/xu-phat-vietcredit-evf/</loc>
     <lastmod>2025-12-18T21:47:33+07:00</lastmod>
   </url><url>
-    <loc>/posts/deidentify_vi/</loc>
+    <loc>//localhost:1313/posts/deidentify_vi/</loc>
     <lastmod>2025-12-14T19:10:30+07:00</lastmod>
   </url><url>
-    <loc>/tags/tech/</loc>
+    <loc>//localhost:1313/tags/tech/</loc>
     <lastmod>2025-12-14T19:10:30+07:00</lastmod>
   </url><url>
-    <loc>/posts/personal-data-cross-border/</loc>
+    <loc>//localhost:1313/posts/personal-data-cross-border/</loc>
     <lastmod>2025-12-08T20:14:59+07:00</lastmod>
   </url><url>
-    <loc>/posts/legal-draft/25-luat-so-huu-tri-tue/</loc>
+    <loc>//localhost:1313/posts/legal-draft/25-luat-so-huu-tri-tue/</loc>
     <lastmod>2025-11-23T20:24:40+07:00</lastmod>
   </url><url>
-    <loc>/posts/legal-draft/25-xu-phat-tien-te/</loc>
+    <loc>//localhost:1313/posts/legal-draft/25-xu-phat-tien-te/</loc>
     <lastmod>2025-11-11T21:36:32+07:00</lastmod>
   </url><url>
-    <loc>/posts/do-thi-tri-thuc/</loc>
+    <loc>//localhost:1313/posts/do-thi-tri-thuc/</loc>
     <lastmod>2025-11-06T19:15:08+07:00</lastmod>
   </url><url>
-    <loc>/categories/contract/</loc>
+    <loc>//localhost:1313/categories/contract/</loc>
     <lastmod>2025-10-28T20:03:49+07:00</lastmod>
   </url><url>
-    <loc>/posts/rui-ro-moi-truong/</loc>
+    <loc>//localhost:1313/posts/rui-ro-moi-truong/</loc>
     <lastmod>2025-10-28T20:03:49+07:00</lastmod>
   </url><url>
-    <loc>/posts/bond-bank-bds/</loc>
+    <loc>//localhost:1313/posts/bond-bank-bds/</loc>
     <lastmod>2025-10-22T21:22:36+07:00</lastmod>
   </url><url>
-    <loc>/posts/ngay_luat_su_10_10/</loc>
+    <loc>//localhost:1313/posts/ngay_luat_su_10_10/</loc>
     <lastmod>2025-10-10T19:39:12+07:00</lastmod>
   </url><url>
-    <loc>/posts/auto-approval/</loc>
+    <loc>//localhost:1313/posts/auto-approval/</loc>
     <lastmod>2025-10-08T06:05:41+07:00</lastmod>
   </url><url>
-    <loc>/posts/legal-draft/25-nd-thu-giu-tai-san/</loc>
+    <loc>//localhost:1313/posts/legal-draft/25-du-thao-sua-tt-18-the-tin-dung/</loc>
+    <lastmod>2025-10-04T06:28:33+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/legal-draft/25-nd-thu-giu-tai-san/</loc>
     <lastmod>2025-10-04T06:15:41+07:00</lastmod>
   </url><url>
-    <loc>/tags/getting-started/</loc>
+    <loc>//localhost:1313/tags/getting-started/</loc>
     <lastmod>2025-10-02T05:18:47+07:00</lastmod>
   </url><url>
-    <loc>/posts/invalid-loan-contract/</loc>
+    <loc>//localhost:1313/posts/invalid-loan-contract/</loc>
     <lastmod>2025-10-02T05:18:47+07:00</lastmod>
   </url><url>
-    <loc>/posts/hello-world/</loc>
+    <loc>//localhost:1313/posts/hello-world/</loc>
     <lastmod>2025-10-01T19:00:00+07:00</lastmod>
   </url>
 </urlset>
