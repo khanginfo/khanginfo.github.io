@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Draft on Khang Nguyen</title>
-        <link>//localhost:1313/categories/draft/</link>
+        <link>/categories/draft/</link>
         <description>Recent content in Draft on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 20 Jul 2026 19:36:01 +0700</lastBuildDate><atom:link href="//localhost:1313/categories/draft/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 20 Jul 2026 19:36:01 +0700</lastBuildDate><atom:link href="/categories/draft/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Dự thảo Bộ luật hình sự</title>
-        <link>//localhost:1313/posts/legal-draft/26-du-thao-bo-luat-hinh-su/</link>
+        <link>/posts/legal-draft/26-du-thao-bo-luat-hinh-su/</link>
         <pubDate>Mon, 20 Jul 2026 19:36:01 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/26-du-thao-bo-luat-hinh-su/</guid>
+        <guid>/posts/legal-draft/26-du-thao-bo-luat-hinh-su/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo Bộ luật hình sự 2026&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;DuThao.pdf&#34; &gt;Dự thảo - pdf&lt;/a&gt;&lt;/li&gt;
@@ -25,10 +25,10 @@
         </item>
         <item>
         <title>Dự thảo Thông tu về tỉ lệ bảo đảm an toàn của Ngân hàng 2026</title>
-        <link>//localhost:1313/posts/legal-draft/26-tt-22-an-toan-von/</link>
+        <link>/posts/legal-draft/26-tt-22-an-toan-von/</link>
         <pubDate>Fri, 08 May 2026 20:09:13 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/26-tt-22-an-toan-von/</guid>
+        <guid>/posts/legal-draft/26-tt-22-an-toan-von/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo Thông tư của Ngân hàng Nhà nước về tỉ lệ bảo đảm an toàn (Basel III), sửa đổi Thông tư 22/2019/TT-NHNN&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;DTTT_thay_the_Thong_tu_22_2019_TT_NHNN.pdf&#34; &gt;Dự thảo - pdf&lt;/a&gt;&lt;/li&gt;
@@ -38,10 +38,10 @@
         </item>
         <item>
         <title>Dự thảo Thông tư về cho vay 2026</title>
-        <link>//localhost:1313/posts/legal-draft/26--tt-cho-vay/</link>
+        <link>/posts/legal-draft/26--tt-cho-vay/</link>
         <pubDate>Fri, 27 Mar 2026 20:03:22 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/26--tt-cho-vay/</guid>
+        <guid>/posts/legal-draft/26--tt-cho-vay/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo Thông tư của Ngân hàng Nhà nước về cho vay, sửa đổi Thông tư 39/2016/TT-NHNN&lt;/p&gt;
 &lt;p&gt;Update: Ngân hàng Nhà nước đã ban hành &lt;a class=&#34;link&#34; href=&#34;https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Thong-tu-29-2026-TT-NHNN-sua-doi-Thong-tu-39-2016-TT-NHNN-hoat-dong-cho-vay-cua-to-chuc-tin-dung-712742.aspx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Thông tư 29/2026/TT-NHNN&lt;/a&gt;&lt;/p&gt;
@@ -54,10 +54,10 @@
         </item>
         <item>
         <title>Dự thảo Thông tư về cho thuê tài chính 2026</title>
-        <link>//localhost:1313/posts/legal-draft/26-tt-thue-tai-chinh/</link>
+        <link>/posts/legal-draft/26-tt-thue-tai-chinh/</link>
         <pubDate>Wed, 25 Feb 2026 22:13:36 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/26-tt-thue-tai-chinh/</guid>
+        <guid>/posts/legal-draft/26-tt-thue-tai-chinh/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo Thông tư của Ngân hàng Nhà nước về mua bán nợ thay thế Thông tư 09/2025/TT-NHNN&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Du_thao_Thong_tu.pdf&#34; &gt;Dự thảo - pdf&lt;/a&gt;&lt;/li&gt;
@@ -71,10 +71,10 @@
         </item>
         <item>
         <title>Dự thảo Thông tư về mua bán nợ 2026</title>
-        <link>//localhost:1313/posts/legal-draft/26-tt-mua-ban-no/</link>
+        <link>/posts/legal-draft/26-tt-mua-ban-no/</link>
         <pubDate>Wed, 25 Feb 2026 22:04:54 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/26-tt-mua-ban-no/</guid>
+        <guid>/posts/legal-draft/26-tt-mua-ban-no/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo Thông tư của Ngân hàng Nhà nước về mua bán nợ thay thế Thông tư 09/2025/TT-NHNN&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Du_thao_TT_mua_ban_no_04_12_2025.pdf&#34; &gt;Dự thảo&lt;/a&gt;&lt;/li&gt;
@@ -84,10 +84,10 @@
         </item>
         <item>
         <title>Dự thảo Thông tư về trí tuệ nhân tạo 2026</title>
-        <link>//localhost:1313/posts/legal-draft/26-tt-tri-tue-nhan-tao/</link>
+        <link>/posts/legal-draft/26-tt-tri-tue-nhan-tao/</link>
         <pubDate>Wed, 25 Feb 2026 21:21:08 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/26-tt-tri-tue-nhan-tao/</guid>
+        <guid>/posts/legal-draft/26-tt-tri-tue-nhan-tao/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo Thông tư của Ngân hàng Nhà nước về trí tuệ nhân tạo&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;01-Du-thao-Thong-tu-AI.docx&#34; &gt;Dự thảo - doc&lt;/a&gt;&lt;/li&gt;
@@ -98,10 +98,10 @@
         </item>
         <item>
         <title>Dự thảo sủa đổi Luật sở hữu trí tuệ</title>
-        <link>//localhost:1313/posts/legal-draft/25-luat-so-huu-tri-tue/</link>
+        <link>/posts/legal-draft/25-luat-so-huu-tri-tue/</link>
         <pubDate>Sun, 23 Nov 2025 20:24:40 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/25-luat-so-huu-tri-tue/</guid>
+        <guid>/posts/legal-draft/25-luat-so-huu-tri-tue/</guid>
         <description>&lt;p&gt;Bộ sưu tập tài liệu về dự thảo sửa đổi Luật sở hữu trí tuệ 2025&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -127,10 +127,10 @@
         </item>
         <item>
         <title>Dự thảo Nghị định xử phạt trong lĩnh vực tiền tệ, ngân hàng</title>
-        <link>//localhost:1313/posts/legal-draft/25-xu-phat-tien-te/</link>
+        <link>/posts/legal-draft/25-xu-phat-tien-te/</link>
         <pubDate>Tue, 11 Nov 2025 21:36:32 +0700</pubDate>
         
-        <guid>//localhost:1313/posts/legal-draft/25-xu-phat-tien-te/</guid>
+        <guid>/posts/legal-draft/25-xu-phat-tien-te/</guid>
         <description>&lt;p&gt;&lt;strong&gt;Nguồn Bộ tư pháp:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-MoJ/1-Du-thao-TTr-NHNN.pdf&#34; &gt;Dự thảo Tờ trình của Ngân hàng Nhà nước&lt;/a&gt;&lt;/li&gt;
@@ -152,15 +152,6 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/3-Du-thao-Nghi-dinh.pdf&#34; &gt;Dự thảo Nghị định&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Source-SBV/Source-SBV.rar&#34; &gt;Bộ tài liệu&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-        </item>
-        <item>
-        <title>Dự thảo Thông tư sửa Thông tư 18/2024/TT-NHNN về thẻ ngân hàng</title>
-        <link>//localhost:1313/posts/legal-draft/25-du-thao-sua-tt-18-the-tin-dung/</link>
-        <pubDate>Sat, 04 Oct 2025 06:28:33 +0700</pubDate>
-        
-        <guid>//localhost:1313/posts/legal-draft/25-du-thao-sua-tt-18-the-tin-dung/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;2-Bang-tong-hop-y-kien-sua-TT-18-2024-the-ngan-hang.pdf&#34; &gt;Bảng tổng hợp ý kiến&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         
