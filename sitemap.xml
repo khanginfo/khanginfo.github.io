@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/blog/</loc>
+    <lastmod>2026-07-30T22:16:51+07:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
+    <lastmod>2026-07-30T22:16:51+07:00</lastmod>
+  </url><url>
+    <loc>/posts/hop-dong-doc-quyen-bao-hiem/</loc>
+    <lastmod>2026-07-30T22:16:51+07:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-07-30T22:16:51+07:00</lastmod>
+  </url><url>
+    <loc>/tags/notes/</loc>
+    <lastmod>2026-07-30T22:16:51+07:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2026-07-30T22:16:51+07:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-07-30T22:16:51+07:00</lastmod>
   </url><url>
     <loc>/categories/draft/</loc>
     <lastmod>2026-07-20T19:36:01+07:00</lastmod>
   </url><url>
     <loc>/posts/legal-draft/26-du-thao-bo-luat-hinh-su/</loc>
     <lastmod>2026-07-20T19:36:01+07:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
-  </url><url>
-    <loc>/tags/notes/</loc>
-    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-07-20T19:36:01+07:00</lastmod>
-  </url><url>
-    <loc>/categories/blog/</loc>
-    <lastmod>2026-06-23T20:43:56+07:00</lastmod>
   </url><url>
     <loc>/posts/quy-dinh-thu-hoi-no/</loc>
     <lastmod>2026-06-23T20:43:56+07:00</lastmod>
