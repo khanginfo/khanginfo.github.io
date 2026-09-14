@@ -6,7 +6,39 @@
         <description>Recent content in Posts on Khang Nguyen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 30 Jul 2026 22:16:51 +0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 14 Sep 2026 20:10:14 +0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Nghịch lý Protagoras – Euathlus</title>
+        <link>/posts/nghich-ly-protagoras/</link>
+        <pubDate>Mon, 14 Sep 2026 20:10:14 +0700</pubDate>
+        
+        <guid>/posts/nghich-ly-protagoras/</guid>
+        <description>&lt;p&gt;Có một câu chuyện cổ nổi tiếng trong lịch sử: Một người thầy dạy luật kiện chính học trò của mình để đòi học phí. Điều kỳ lạ là cả thầy lẫn trò đều có thể đưa ra một lập luận có vẻ hoàn toàn chặt chẽ để chứng minh rằng mình chắc chắn thắng. Đó là nghịch lý Protagoras – Euathlus, đôi khi được gọi là Paradox of the Court.&lt;/p&gt;
+&lt;h2 id=&#34;câu-chuyện-bắt-đầu-như-thế-nào&#34;&gt;Câu chuyện bắt đầu như thế nào?
+&lt;/h2&gt;&lt;p&gt;Protagoras là người thầy dạy Euathlus nghệ thuật tranh tụng. Hai người thỏa thuận:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Euathlus chỉ phải trả học phí sau khi thắng vụ kiện đầu tiên trong đời.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thoạt nhìn, đây là một thỏa thuận khá đơn giản. Nhưng sau khi học xong, Euathlus không tham gia tranh tụng và cũng không thắng bất kỳ vụ kiện nào. Protagoras chờ mãi nhưng không nhận được tiền. Cuối cùng, ông quyết định kiện học trò ra Tòa để đòi học phí.&lt;/p&gt;
+&lt;h2 id=&#34;lập-luận-của-protagoras&#34;&gt;Lập luận của Protagoras:
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Nếu Euathlus thua kiện, theo phán quyết, anh ta phải trả tiền cho thầy.&lt;/li&gt;
+&lt;li&gt;Nếu Euathlus thắng kiện, theo thỏa thuận ban đầu (&amp;ldquo;thắng vụ kiện đầu tiên&amp;rdquo;), anh ta cũng bắt buộc phải trả tiền cho thầy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dù thắng hay thua, Euathlus vẫn phải trả tiền.&lt;/p&gt;
+&lt;h2 id=&#34;lập-luận-của-euathlus&#34;&gt;Lập luận của Euathlus:
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Nếu tôi thắng kiện, theo phán quyết, tôi không phải trả tiền cho thầy.&lt;/li&gt;
+&lt;li&gt;Nếu tôi thua kiện, theo thỏa thuận ban đầu (vì chưa thắng vụ kiện nào), tôi vẫn chưa phải trả tiền.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dù thắng hay thua, tôi đều không phải trả tiền.&lt;/p&gt;
+&lt;h2 id=&#34;cách-giải-quyết-bế-tắc&#34;&gt;Cách giải quyết bế tắc
+&lt;/h2&gt;&lt;p&gt;Theo ghi chép, Bồi thẩm đoàn thời đó đã từ chối phán quyết, cho rằng lập luận hai bên đều &amp;ldquo;bất định và không thể giải quyết&amp;rdquo;, nên hoãn vụ án vô thời hạn — một cách né tránh nghịch lý bằng thủ tục tố tụng thay vì logic.&lt;/p&gt;
+&lt;p&gt;Leibniz và nhiều học giả khác cũng đã có các phân tích về nghịch lý này. Nhận định chung là nghịch lý sinh ra từ việc gộp hai loại sự kiện/nghĩa vụ khác nhau (nghĩa vụ hợp đồng dựa trên &amp;ldquo;vụ kiện đầu tiên trong nghề&amp;rdquo; và nghĩa vụ phát sinh từ phán quyết của &amp;ldquo;vụ kiện đang xét xử&amp;rdquo;) làm một, tạo ra vòng lặp tự quy chiếu.&lt;/p&gt;
+&lt;p&gt;Hướng giải quyết là lập luận về nghĩa vụ phát sinh dựa trên &amp;ldquo;điều kiện tiên quyết&amp;rdquo; . Đối với vụ kiện đầu tiên, &amp;ldquo;điều kiện tiên quyết&amp;rdquo; để Euathlus phải thanh toán theo hợp đồng là có bằng chứng về việc &amp;ldquo;thắng kiện&amp;rdquo;. Điều kiện tiên quyết này chưa xảy ra. Do đó, vụ kiện đầu tiên là Protagoras thua kiện (chưa phát sinh nghĩa vụ trả tiền học phí, không phải là không có nghĩa vụ trả tiền học phí) . Sau vụ kiện đầu tiên, do phát sinh sự kiện &amp;ldquo;thắng kiện&amp;rdquo; nên sẽ làm phát sinh nghĩa vụ thanh toán tiền học phí . Nếu Euathlus không trả thì Protagoras kiện tiếp và khi đó Protagoras thắng kiện (sự kiện &amp;ldquo;thắng kiện&amp;rdquo; chưa được giải quyết trong vụ kiện đầu tiên, vụ kiện đầu tiên chỉ phán quyền là CHƯA phát sinh nghĩa vụ trả tiền, nên vẫn còn quyền kiện tiếp).&lt;/p&gt;
+&lt;h2 id=&#34;ý-kiến-cá-nhân&#34;&gt;Ý kiến cá nhân
+&lt;/h2&gt;&lt;p&gt;Thực tễ xét xử có thể sẽ khác. Tòa án sẽ xem xét đến ý chí của các bên khi kết lập giao ước (ông Thầy đưa ra giao ước mà bị học trò diễn giải theo cách bất lợi thì thầy chịu rủi ro;,  sự kiện &amp;ldquo;thắng kiện&amp;rdquo; theo hợp đồng được diễn giải là thắng vụ kiện mà học trò tham gia với tư cách người bào chữa / người bảo vệ, không phải là tham gia với tư cách đương sư, &amp;hellip;.) , hay áp dụng nguyên tắc công bằng (trò đang cố tình né tránh nghĩa vụ đóng học phí bằng cách hành nghề luật nhưng không tham gia kiện cáo) , hay nguyên tắc phân chia rủi ro (khi cả hai bên cũng có lý, lợi ích/chi phí sẽ tính toán phân bổ)&lt;/p&gt;
+&lt;p&gt;(Euathlus có thể chỉ là nhân vật ảo mà Protagoras dựng lên cho một câu chuyện về nghịch lý)&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Hợp đồng độc quyền phân phối bảo hiểm</title>
         <link>/posts/hop-dong-doc-quyen-bao-hiem/</link>
         <pubDate>Thu, 30 Jul 2026 22:16:51 +0700</pubDate>
